@@ -3,6 +3,8 @@ title: Our History
 permalink: /about-us/history
 description: ""
 ---
+**Our History**
+
 January 1932: Establishment of A New School
 
 The first principal Mrs. Downe and her staff of three stood at attention as the Union Jack was raised to the strains of 'God Save the Queen'. Behind them stood the first sixty pupils of the school facing a new school building built from bricks and sturdy teakwood.
