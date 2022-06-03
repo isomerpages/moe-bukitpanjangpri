@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Info & Communication Tech/Flash Animation.md
       - Info & Communication Tech/Information & Communication Technology.md
       - Info & Communication Tech/.keep
