@@ -2,6 +2,8 @@ collections:
   departments:
     output: true
     order:
+      - Info & Communication Tech/International Competition and Assessments for
+        Schools (Computer Skills).md
       - Info & Communication Tech/Training for Pupils.md
       - Info & Communication Tech/Infocomm Club 2015.md
       - Info & Communication Tech/Cyber Wellness Programme.md
