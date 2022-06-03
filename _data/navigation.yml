@@ -1,2 +1,4 @@
 logo: /images/logo (3).png
-links: []
+links:
+  - title: About Us
+    collection: about-us
