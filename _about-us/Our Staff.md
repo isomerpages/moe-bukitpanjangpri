@@ -65,3 +65,12 @@ chan_pei_lai@moe.edu.sg  <br>liew_wai_kee@moe.edu.sg|
 |4|Mrs Ibrahim (Badhrunnisa Bte Jalil)<br>Ms Siti Zafirah Binte Mohamed Zefri|badhrunnisa_jalil@moe.edu.sg<br>siti_zafirah_mohamed_zefri@moe.edu.sg|
 |5|Mr Lok Chee Weng Edward<br>Mdm Shariffa Bee Bte Syed Ahamad|lok_chee_weng@moe.edu.sg<br>shariffa_bee_syed_ahamad@moe.edu.sg|
 |6|Ms Yogeetha Rajagopal<br>Ms Sam Poh Fong|yogeetha_rajagopal@moe.edu.sg<br>sam_poh_fong@moe.edu.sg|
+
+
+**YEAR HEADS**
+
+P1 and 2 - Mrs Teo Sin Nee (ng_sin_nee@moe.edu.sg )
+
+P3 and 4 - Mrs Ang-Tan Wei Ling Rebekah (tan_wei_ling_rebekah@moe.edu.sg)
+
+P5 and 6 - Mr Tan Guan Heng (tan_guan_heng@moe.edu.sg )
