@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Development Team.md
       - Info & Communication Tech/.keep
       - Info & Communication Tech/Information & Communication Technology.md
       - Info & Communication Tech/Flash Animation.md
