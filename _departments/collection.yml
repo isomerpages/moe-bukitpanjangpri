@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Information & Comm Technology/.keep
       - Information & Communication Technology.md
