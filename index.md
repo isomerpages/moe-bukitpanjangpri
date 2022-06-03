@@ -12,9 +12,6 @@ sections:
         - title: News and Announcement
           description: ""
           url: ""
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
   - infopic:
       title: Reduce, Reuse and Recycle
       description: " Let us work towards a zero waste Singapore"
