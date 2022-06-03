@@ -26,6 +26,6 @@ To provide every pupil an ICT-enriched learning environment to enhance their lea
 
 | Name of Programme | Target Level | 
 | -------- | -------- |
-| Cyber Wellness    | Primary 1 - 6    | 
+| [Cyber Wellness](/departments/Info-and-Communication-Tech/cyber)   | Primary 1 - 6    | 
 |Baseline ICT Standards (New Media Literacies)  |Primary 1 - 6   |
 | [Code For Fun](/departments/Info-and-Communication-Tech/CFF) |Primary 6  |
