@@ -62,3 +62,9 @@ Term 1, the members learn to create basic animations using Crazytalk Animator.
      style="width:50%"><img src="/images/tnt2.jpg" 
      style="width:50%"><img src="/images/tnt3.jpg" 
      style="width:50%">
+		 
+Crazy Talk Recruitment Video: https://www.youtube.com/watch?v=7Elo2HecYT4
+
+In Term 2, they started their learning journey to create games using Gamemaker.
+
+**(insert blocked content)**
