@@ -28,3 +28,12 @@ description: ""
 |6|Mr Ng Peng Kuan	<br> Ms Cheng Hui Meng|ng_peng_kuan@moe.edu.sg<br>cheng_hui_meng@moe.edu.sg|
 |7|Mdm Ho Mun Yee <br> Mdm Noraishah Bte Anwar|ho_mun_yee@moe.edu.sg<br>noraishah_anwar@moe.edu.sg|
 |8|Ms Aziemah Abdul Aziz 	<br>Miss Low Duo Jia, Dorcas |aziemah_abdul_aziz@moe.edu.sg<br>low_duo_jia_dorcas@moe.edu.sg|
+
+| Compassion | Primary 3 Class Mentors | Email |
+| -------- | -------- | -------- |
+|1|Mdm Nazreen Sultana Binte Syed Ahmed<br>Mdm Chan Meng Yin|nazreen_sultana_syed_ahm@moe.edu.sg<br>chan_meng_yin@moe.edu.sg|
+|2|Mr Hasyim Tan Abdullah<br>Mrs Ang-Tan Wei Ling Rebekah|hasyim_tan_abdullah@moe.edu.sg<br>tan_wei_ling_rebekah@moe.edu.sg|
+|3|Mrs Dhillon (Benazir Binte Mohamed Shariff)<br>Mdm Sri Rahayu Bte<br>Mr Tan Zhuan Liang  Ramlan|benazir_mohamed_shariff@moe.edu.sg|sri_rahayu_ramlan@moe.edu.sg<br>tan_zhuan_liang@moe.edu.sg|
+|4|Mdm Eismawati Bte Bisri<br>Mr Teo Yee Sin Mike|eismawati_bisri@moe.edu.sg<br>teo_yee_sin@moe.edu.sg|
+|5|Mdm Nor Ezlin Bte Abdullah<br>Mdm Lisa Yap|nor_ezlin_abdullah@moe.edu.sg<br>lau_hui_miang@moe.edu.sg|
+|6|Mr Kwan Siew Tung<br>Mdm Soon Meiling<br>Mdm Nur Muliani Perdanawati 	|kwan_siew_tung@moe.edu.sg<br>soon_meiling@moe.edu.sg<br>nur_muliani_perdanawati@moe.edu.sg |
