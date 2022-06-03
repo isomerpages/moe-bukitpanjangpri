@@ -4,10 +4,6 @@ permalink: /departments/ICT
 description: ""
 third_nav_title: Info & Communication Tech
 ---
-
-
-
-
 | Who We Are |  | 
 | -------- | -------- | 
 | Head of Department     | 	Ms Yoong Keng Chi   | 
@@ -32,5 +28,4 @@ To provide every pupil an ICT-enriched learning environment to enhance their lea
 | -------- | -------- |
 | Cyber Wellness    | Primary 1 - 6    | 
 |Baseline ICT Standards (New Media Literacies)  |Primary 1 - 6   |
-| Code for Fun |Primary 6  |
-
+| [Code For Fun](/departments/Info-and-Communication-Tech/CFF) |Primary 6  |
