@@ -38,7 +38,7 @@ Our Aesthetics Curriculum - SOUND Structure
 
 [In-House Music Programmes](/in-house-music-programs)
 
-[Arts!Time (Wednesdays, 2016)](/arts-time-wednesday-2016)
+[Arts!Time (Wednesdays, 2016)](/arts-time-wednesday)
 
 [BPPS Got Talent 2015](/bpps-got-talent-2015)
 
