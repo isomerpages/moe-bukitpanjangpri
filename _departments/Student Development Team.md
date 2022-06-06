@@ -110,7 +110,7 @@ Class or school presentation
 
  
 
-Serious offences committed may result in the following consequences:
+**Serious offences committed may result in the following consequences:**
 
 In-school suspension
 
@@ -126,4 +126,4 @@ Involvement of external agencies
 
  
 
-The school reserves the right to take other necessary actions in the best interests of our students, staff and the community.
+**The school reserves the right to take other necessary actions in the best interests of our students, staff and the community.**
