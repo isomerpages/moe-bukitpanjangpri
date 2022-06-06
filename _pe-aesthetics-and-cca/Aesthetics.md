@@ -34,7 +34,7 @@ The Aesthetics Education in BPPS provides our pupils opportunities to hone their
 
 Our Aesthetics Curriculum - SOUND Structure 
 
-In-House Art Programmes 
+[In-House Art Programmes](/in-house-art-programs) 
 
 In-House Music Programmes
 
@@ -45,4 +45,3 @@ BPPS Got Talent 2015
 Recess Recitals (2015)
 
 Winners of the ASKnLearn Quiz (2015)
-
