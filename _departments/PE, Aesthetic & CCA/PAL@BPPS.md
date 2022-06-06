@@ -38,3 +38,12 @@ Sports & Games
 Outdoor Education       
 Performing Art
 <br>Visual Art
+
+<img src="/images/bp1.jpg" 
+     style="width:50%"><img src="/images/bp2.jpg" 
+     style="width:50%"><img src="/images/bp3.jpg" 
+     style="width:50%"><img src="/images/bp4.jpg" 
+     style="width:50%"><img src="/images/bp5.jpg" 
+     style="width:50%"><img src="/images/bp6.jpg" 
+     style="width:50%"><img src="/images/bp7.jpg" 
+     style="width:70%">
