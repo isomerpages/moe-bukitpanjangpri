@@ -46,5 +46,19 @@ Promote platform for CCA participation where pupils can be exposed to authentic 
 **Motto**
 
 PE for Life (The values, skills and camaraderie learnt and experienced during PE lessons should be continued throughout the pupils’ life and be part of their development from young to adulthood). 
-Key Programmes
+
+**Key Programmes**
+
+
+
+| Name of Programme | Target Level | 
+| -------- | -------- | 
+| Scope of Physical & Health Education|-
+|PAL|-
+|Dental Talk|Primary 1, 3, 5
+|Swim Safer|Primary 3
+|BPPS Sports Carnival|Primary 1 - 6 
+|First Aid Awareness|Primary 6
+|Adventure & Leadership Camp|Primary 1 – 5
+|NKF Interactive Bus Exhibition|Primary 1 – 6
 
