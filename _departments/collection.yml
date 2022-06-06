@@ -2,6 +2,8 @@ collections:
   departments:
     output: true
     order:
+      - PE, Aesthetic & CCA/Scope of Physical Education and Health Education
+        Programme.md
       - PE, Aesthetic & CCA/PE, Aesthetic & CCA.md
       - PE, Aesthetic & CCA/.keep
       - Student Development Team.md
