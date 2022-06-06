@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - PE, Aestheic & CCA/PE, Aesthetic & CCA.md
-      - PE, Aestheic & CCA/.keep
+      - PE, Aesthetic & CCA/PE, Aesthetic & CCA.md
+      - PE, Aesthetic & CCA/.keep
       - Student Development Team.md
       - Info & Communication Tech/.keep
       - Info & Communication Tech/Information & Communication Technology.md
