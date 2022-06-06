@@ -40,7 +40,7 @@ Our Aesthetics Curriculum - SOUND Structure
 
 Arts!Time (Wednesdays, 2016)
 
-BPPS Got Talent 2015
+[BPPS Got Talent 2015](/bpps-got-talent-2015)
 
 Recess Recitals (2015)
 
