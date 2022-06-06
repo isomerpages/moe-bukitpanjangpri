@@ -3,4 +3,19 @@ links:
   - title: About Us
     collection: about-us
   - title: Departments
-    collection: departments
+    url: /permalink
+    sublinks:
+      - title: English Language
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: Mother Tongue Languages
+        url: /permalink
+      - title: PE, Aesthetics & CCA
+        url: /permalink
+      - title: Student Development Team
+        url: /permalink
+      - title: Info & Communication Tech
+        url: /permalink
