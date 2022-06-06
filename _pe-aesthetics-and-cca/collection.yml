@@ -2,5 +2,6 @@ collections:
   pe-aesthetics-and-cca:
     output: true
     order:
+      - PAL@BPPS.md
       - Scope of Physical Education and Health Education Programme.md
       - PE, Aesthetic & CCA.md
