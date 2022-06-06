@@ -79,4 +79,51 @@ Behavior Matrix for all students
 |Canteen<br>(Recess assembly)|Respond to the canteen routine<br>Reflect when sent to the round tables<br>Stop, Look, Listen when the teacher speaks|Role model good behaviour to friends<br>Practise ME Time<br>Walk quietly out of the canteen
 |Learning Journey|Stop, Think, Act<br>Stop, Look, Listen when someone is speaking to you<br>Follow instructions strictly<br>Remind peers about good behaviour|Walk from point to point<br>Stay cool & calm<br>Be careful of your surroundings<br>Take care of your belongings<br>Keep the place litter-free
 |Corridor|Walk quietly<br>Greet teachers and staff<br>Keep to your left|Pick up litter<br>Move briskly<br>Place bags neatly
-|
+|Transition|Move only to your next lesson venue<br>Move and wait quietly<br>Keep the classrooms clean|Move to your next class in 3 min<br>Always be seated in the class<br>Read silently while waiting
+|Toilet|Respect others’ space<br>Keep quiet<br>Keep the toilet litter-free<br>Return to class quickly|Walk<br>Flush after use<br>Save paper and water<br>Wash your hands with soap
+|Library|Greet the librarian<br>Maintain silence and READ
+<br>Queue to borrow<br>Place bags neatly outside|Keeps food and drinks out<br>Return books on time<br>Keep the library clean<br>Handle the books with care
+|Bus|Listen to your bus attendant and driver<br>Keep your hands/feet and objects to yourself<br>Keep volume low|Be seated<br>Put on your seatbelts<br>Keep the bus clean
+|Computer/ Science laboratories|Listen to your teachers’ instructions<br>Keep volume low|Keep food and drinks out<br>Keep the labs clean
+
+**Possible logical consequences**
+
+Complete reflection
+
+Verbal warning
+
+Conference with teacher
+
+Conference with Year Head
+
+Conference with HOD Student Development
+
+Parent Teacher conference
+
+Removal of privileges
+
+Warning letter
+
+Corrective work
+
+Class or school presentation
+
+ 
+
+Serious offences committed may result in the following consequences:
+
+In-school suspension
+
+Out-of-school suspension
+
+Compensation or restitution
+
+Lowering of conduct grade
+
+Involvement of external agencies
+
+ 
+
+ 
+
+The school reserves the right to take other necessary actions in the best interests of our students, staff and the community.
