@@ -36,7 +36,7 @@ Our Aesthetics Curriculum - SOUND Structure
 
 [In-House Art Programmes](/in-house-art-programs) 
 
-In-House Music Programmes
+[In-House Music Programmes](/in-house-music-programs)
 
 Arts!Time (Wednesdays, 2016)
 
