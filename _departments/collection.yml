@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - PE, Aesthetic & CCA/PAL@BPPS.md
       - PE, Aesthetic & CCA/.keep
       - Student Development Team.md
       - Info & Communication Tech/.keep
