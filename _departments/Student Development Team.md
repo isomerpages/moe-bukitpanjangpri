@@ -72,7 +72,11 @@ Behavior Matrix for all students
 
 
 
-| Location| Show Respect | Be Responsible  | Possible Logical Consequences|
-| -------- | -------- | -------- |-------- |
-| Classrooms | Listen to your teachers’ instructions<br>Raise your hand before your speak<br>Speak kind words   | Stay seated<br>Keeps your hands, feet and objects to yourself<br>Put in effort to do your work diligently    | |
-
+| Location| Show Respect | Be Responsible  | 
+| -------- | -------- | -------- |
+| Classrooms | Listen to your teachers’ instructions<br>Raise your hand before your speak<br>Speak kind words   | Stay seated<br>Keeps your hands, feet and objects to yourself<br>Put in effort to do your work diligently  |
+|Hall/ISH<br>(Assembly)|Be seated<br>Listen to the presentation<br>Clap after a presentation<br>Respond kindly|Remain quiet<br>Read while waiting<br>Keep hands, feet and objects to yourself|
+|Canteen<br>(Recess assembly)|Respond to the canteen routine<br>Reflect when sent to the round tables<br>Stop, Look, Listen when the teacher speaks|Role model good behaviour to friends<br>Practise ME Time<br>Walk quietly out of the canteen
+|Learning Journey|Stop, Think, Act<br>Stop, Look, Listen when someone is speaking to you<br>Follow instructions strictly<br>Remind peers about good behaviour|Walk from point to point<br>Stay cool & calm<br>Be careful of your surroundings<br>Take care of your belongings<br>Keep the place litter-free
+|Corridor|Walk quietly<br>Greet teachers and staff<br>Keep to your left|Pick up litter<br>Move briskly<br>Place bags neatly
+|
