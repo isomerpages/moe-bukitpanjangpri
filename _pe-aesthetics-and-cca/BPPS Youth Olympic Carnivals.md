@@ -11,7 +11,8 @@ Merging the values of the Youth Olympic Games of Excellence, Friendship and Resp
 
 BYOC gives pupils the opportunity to be part of a mass sporting event where they can compete in a sports event amongst their peers. At the same time, this event gives opportunity to pupils who were not involved in the competitions organised by the Singapore Primary School Sports Council. 
 
-The meaning behind BYOC
+**The meaning behind BYOC**
+
 Dear Mr Lew,
 
 For the past few years, BYOC for the Primary 5 and 6 levels have always been on the eve of the National Day Parade. This year’s event was no different, but the intensity of the game took another notch up for the pupils of BPPS. 
