@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Science/.keep
-      - Science.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/CNY @ BPPS.md
       - Mother Tongue Languages/Cultural Performance Exposure Scheme.md
