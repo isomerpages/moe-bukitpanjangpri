@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Singapore World Water Week 2021.md
       - Science/Science.md
       - Science/.keep
       - Mother Tongue Languages/.keep
