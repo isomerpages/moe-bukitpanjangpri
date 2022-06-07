@@ -2,17 +2,17 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue Languages/Learning Chinese through TCM Enrichment.md
-      - Mother Tongue Languages/Parent Child Reading Packages.md
-      - Mother Tongue Languages/Mid Autumn Festival Celebration.md
-      - Mother Tongue Languages/Hari Raya Celebration.md
-      - Mother Tongue Languages/Happy Writing.md
-      - Mother Tongue Languages/Mother Tongue Language Fortnight.md
-      - Mother Tongue Languages/Reading Programme.md
-      - Mother Tongue Languages/Cultural Performance Exposure Scheme.md
-      - Mother Tongue Languages/CNY @ BPPS.md
-      - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/CNY @ BPPS.md
+      - Mother Tongue Languages/Cultural Performance Exposure Scheme.md
+      - Mother Tongue Languages/Reading Programme.md
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/Mother Tongue Language Fortnight.md
+      - Mother Tongue Languages/Happy Writing.md
+      - Mother Tongue Languages/Hari Raya Celebration.md
+      - Mother Tongue Languages/Mid Autumn Festival Celebration.md
+      - Mother Tongue Languages/Parent Child Reading Packages.md
+      - Mother Tongue Languages/Learning Chinese through TCM Enrichment.md
       - PE, Aesthetics and CCA/.keep
       - PE, Aesthetics and CCA/PE, Aesthetic & CCA.md
       - PE, Aesthetics and CCA/Aesthetics.md
