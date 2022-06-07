@@ -2,6 +2,8 @@ collections:
   departments:
     output: true
     order:
+      - PE, Aesthetics and CCA/Scope of Physical Education and Health Education
+        Programme.md
       - PE, Aesthetics and CCA/PAL@BPPS.md
       - PE, Aesthetics and CCA/PE, Aesthetic & CCA.md
       - PE, Aesthetics and CCA/Adventure and Leadership Camp.md
