@@ -24,3 +24,5 @@ They got to see live millipedes, centipedes and other insects which they normall
      style="width:50%"><img src="/images/SC8.jpg" 
      style="width:50%"><img src="/images/Sc9.jpg" 
      style="width:50%">
+		 
+Examining the plants and animals under the microscope.
