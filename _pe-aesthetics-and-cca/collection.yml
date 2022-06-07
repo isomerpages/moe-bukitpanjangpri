@@ -2,6 +2,7 @@ collections:
   pe-aesthetics-and-cca:
     output: true
     order:
+      - Sports Carnival.md
       - Dental Talk.md
       - NKF Kidney Health Education Talk.md
       - Primary 1 Dental Talk.md
