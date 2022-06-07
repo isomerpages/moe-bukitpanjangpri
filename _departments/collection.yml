@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Learning Trip to Jurong Bird Park.md
       - Science/P3 Science Camp.md
       - Science/Earth Day 2014 Green Cities.md
       - Science/Sony Creative Science Award (National) 2014.md
