@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE, Aesthetics and CCA/Primary 1 Dental Talk.md
       - PE, Aesthetics and CCA/NKF Kidney Health Education Talk.md
       - PE, Aesthetics and CCA/Dental Talk.md
       - PE, Aesthetics and CCA/Sports Carnival.md
