@@ -28,3 +28,25 @@ To arouse pupils' interest in learning their own Language and Culture.
  
 
 **Key Programmes**
+
+
+
+| Name of Programme | Target Level | 
+| -------- | -------- |
+| Chinese New Year Celebration|Primary 1 -6 
+|Cultural Performance Exposure Scheme (CPES)|Primary 2 - 5
+|Cultural Performance Exposure Fund (CPEF)|
+|Reading Programme (Story Sharing session)|Primary 1 - 4
+|Parent-Child Reading Package
+|Cultural Learning Journey|Primary 3
+|Learning Chinese through TCM Enrichment|Primary 4
+|Mother Tongue Languages Fortnight|Primary 1 - 6
+|Mid Autumn Festival Celebration|Primary 1 - 6
+|Hari Raya Celebration
+|Deepavali Celebration 
+|Happy Writing
+|Inter-class competition
+|Intra-level competitions
+
+
+
