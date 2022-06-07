@@ -8,8 +8,9 @@ A new after school programme, Learning Chinese through the introduction to Tradi
 
 <img src="/images/TCM1%201.jpg" 
      style="width:50%"><img src="/images/TCM1%202.jpg" 
-     style="width:50%"><img src="/images/TCM1%203.jpg" 
-     style="width:50%"><img src="/images/TCM1%204.jpg" 
-     style="width:50%"><img src="/images/TCM1%205.jpg" 
+     style="width:50%"><img src="/images/TCM1%203.jpeg" 
+     style="width:50%">
+		 <img src="/images/TCM1%204.jpeg" 
+     style="width:50%"><img src="/images/TCM1%205.jpeg" 
      style="width:50%"><img src="/images/TCM1%206.jpg" 
      style="width:50%">
