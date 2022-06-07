@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/CNY @ BPPS.md
       - Mother Tongue Languages/Cultural Performance Exposure Scheme.md
