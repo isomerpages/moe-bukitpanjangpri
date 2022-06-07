@@ -31,3 +31,37 @@ Four teams of Primary 5 and 6 pupils represented the school to participate in th
 15|TAN JING YI|5E|Merit
 16|RAY CHONG CHENG YEW|5E|Merit
 
+<img src="/images/ACJC%203.jpg" 
+     style="width:50%">
+		 SIEW JIANG YI , BRIAN     
+<img src="/images/ACJC%204.jpg" 
+     style="width:50%">
+		 TEH ZE XUE
+<img src="/images/ACJC%201.jpg" 
+     style="width:50%">
+		 YAP TING                                                        
+<img src="/images/ACJC%202.jpg" 
+     style="width:50%">
+		 ROHIN SHOREY
+		 
+![](/images/IMG_0982.jpeg)
+Team 1
+
+![](/images/IMG_0976.jpeg)
+Team 2
+
+![](/images/IMG_0983.jpeg)
+Team 3
+
+![](/images/IMG_0978.jpeg)
+Team 4
+
+**Young Whizzes Challenge 2013**
+
+Three teams of Primary 5 and 6 pupils represented the school to participate in the 5th Young Whizzes Challenge 2013 organised by the ACJC Science and Mathematics Council.
+
+The programme was a half-day science quiz for Primary 5 and 6 high ability achievers aimed at looking at science with a different perspective and at higher level beyond the classroom.
+
+![](/images/P1020943.jpg)
+Congratulations to Lau Chung Hean (6J),  Dai Xiang Rong (6I), Dylan Ong Jun Jie (6I), Phua Jun Xun Fremont  (5H) and Yap Ting (5G)
+
