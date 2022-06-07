@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Science Enrichment Programme during June Holidays.md
       - Science/Excellence 2000 programme (E2K).md
       - Science/Scinemation.md
       - Science/Learning Trip to Jurong Bird Park.md
