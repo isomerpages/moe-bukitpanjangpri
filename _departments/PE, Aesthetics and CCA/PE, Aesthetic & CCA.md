@@ -56,9 +56,9 @@ PE for Life (The values, skills and camaraderie learnt and experienced during PE
 | -------- | -------- | 
 | [Scope of Physical Education and Health Education](/departments/PE-Aesthetic-and-CCA/Scope-of-Physical-Education-and-Health-Education-Programme)|-
 |[PAL](/departments/PE-Aesthetic-and-CCA/pal-at-bpps)|-
-|[Dentist Talk](/departments/PE-Aesthetic-and-CCA/dentist-talk)|Primary 1, 3, 5
+|[Dentist Talk](/departments/PE-Aesthetic-and-CCA/Primary-1-Dental-Talk)|Primary 1, 3, 5
 |[Swim Safer](/departments/PE-Aesthetic-and-CCA/swimsafer-2-0-programme)|Primary 3
 |[BPPS Sport Carnivals](/departments/PE-Aesthetic-and-CCA/sport-carnival)|Primary 1 - 6 
-|First Aid Awareness|Primary 6
-|Adventure & Leadership Camp|Primary 1 – 5
-|NKF Interactive Bus Exhibition|Primary 1 – 6
+|[First Aid Awareness](/departments/PE-Aesthetic-and-CCA/p6-first-aid-awareness-programme)|Primary 6
+|[Adventure & Leadership Camp](/departments/PE-Aesthetic-and-CCA/adventure-and-leadership-camp)|Primary 1 – 5
+|[NKF Interactive Bus Exhibition](/departments/PE-Aesthetic-and-CCA/nkf-interactive-bus-exhibition)|Primary 1 – 6
