@@ -13,3 +13,16 @@ iii.            To equip students with outdoor skills, knowledge and values and 
 
 ![](/images/development%20prog.png)
 
+<img src="/images/bpp1.jpg" 
+     style="width:50%"><img src="/images/bpp2.jpg" 
+     style="width:50%"><img src="/images/bpp3.jpg" 
+     style="width:50%"><img src="/images/bpp4.jpg" 
+     style="width:50%"><img src="/images/bpp5.jpg" 
+     style="width:50%"><img src="/images/bpp6.jpg" 
+     style="width:50%"><img src="/images/bpp7.jpg" 
+     style="width:50%"><img src="/images/bpp8.jpg" 
+     style="width:50%"><img src="/images/bpp9.jpg" 
+     style="width:50%"><img src="/images/bpp10.jpg" 
+     style="width:50%"><img src="/images/bpp11.jpg" 
+     style="width:50%">
+
