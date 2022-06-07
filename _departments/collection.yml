@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue Languages/Mid Autumn Festival Celebration.md
       - Mother Tongue Languages/Hari Raya Celebration.md
       - Mother Tongue Languages/Happy Writing.md
       - Mother Tongue Languages/Mother Tongue Language Fortnight.md
