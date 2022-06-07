@@ -30,3 +30,5 @@ At the end of the day, the pupils acknowledged that, winning was not everything 
 Thank you for making my Primary 6 year more meaningful.
 
 Your Sports Leader
+
+[BYOC in pictures](https://www.flickr.com/photos/124355832@N02/sets/72157644556529535/)
