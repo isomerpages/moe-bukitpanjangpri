@@ -24,5 +24,4 @@ iii.            To equip students with outdoor skills, knowledge and values and 
      style="width:50%"><img src="/images/bpp9.jpg" 
      style="width:50%"><img src="/images/bpp10.jpg" 
      style="width:50%"><img src="/images/bpp11.jpg" 
-     style="width:50%">
-
+     style="width:70%">
