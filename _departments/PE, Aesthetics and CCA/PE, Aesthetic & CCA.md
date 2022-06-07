@@ -4,11 +4,6 @@ permalink: /departments/PE-Aesthetic-and-CCA/pe-aesthetic-n-cca
 description: ""
 third_nav_title: PE, Aesthetics and CCA
 ---
-
-
-
-
-
 **Who We Are** 
 
 
@@ -59,12 +54,11 @@ PE for Life (The values, skills and camaraderie learnt and experienced during PE
 
 | Name of Programme | Target Level | 
 | -------- | -------- | 
-| Scope of Physical & Health Education|-
-|PAL|-
-|Dental Talk|Primary 1, 3, 5
-|Swim Safer|Primary 3
-|BPPS Sports Carnival|Primary 1 - 6 
+| [Scope of Physical Education and Health Education](/departments/PE-Aesthetic-and-CCA/Scope-of-Physical-Education-and-Health-Education-Programme)|-
+|[PAL](/departments/PE-Aesthetic-and-CCA/pal-at-bpps)|-
+|[Dentist Talk](/departments/PE-Aesthetic-and-CCA/dentist-talk)|Primary 1, 3, 5
+|[Swim Safer](/departments/PE-Aesthetic-and-CCA/swimsafer-2-0-programme)|Primary 3
+|[BPPS Sport Carnivals](/departments/PE-Aesthetic-and-CCA/sport-carnival)|Primary 1 - 6 
 |First Aid Awareness|Primary 6
 |Adventure & Leadership Camp|Primary 1 – 5
 |NKF Interactive Bus Exhibition|Primary 1 – 6
-
