@@ -1,5 +1,4 @@
 collections:
   pe-aesthetics-and-cca:
     output: true
-    order:
-      - Aesthetics.md
+    order: []
