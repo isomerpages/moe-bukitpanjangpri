@@ -29,3 +29,14 @@ The pupils demonstrated great team-work as they worked on their 1-min stop-motio
 
 <img src="/images/DSCN2474.jpg" 
      style="width:70%">
+		 From left: Saniya Nangia (5J), Elias Tan (6L), Lim Hong Yao (6L) and Jason Teoh (6L)
+
+ 
+
+**Scinemation 2012 - Championship Category A - Team JED from Bukit Panjang Primary**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sxqxnH8Xhck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Scinemation 2012 - Best Story Category A - Team DJS from Bukit Panjang Primary School**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WU51UGg-swo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
