@@ -4,8 +4,6 @@ permalink: /departments/PE-Aesthetic-and-CCA/pal-at-bpps
 description: ""
 third_nav_title: PE, Aesthetics and CCA
 ---
-
-
 **Purpose of the programme**
 
  
@@ -42,9 +40,9 @@ Performing Art
 <br>Visual Art
 
 <img src="/images/bp1.jpg" 
-     style="width:50%"><img src="/images/bp2.jpg" 
+     style="width:50%;float:left"><img src="/images/bp2.jpg" 
      style="width:50%"><img src="/images/bp3.jpg" 
-     style="width:50%"><img src="/images/bp4.jpg" 
+     style="width:50%;float:left"><img src="/images/bp4.jpg" 
      style="width:50%"><img src="/images/bp5.jpg" 
      style="width:50%"><img src="/images/bp6.jpg" 
      style="width:50%"><img src="/images/bp7.jpg" 
