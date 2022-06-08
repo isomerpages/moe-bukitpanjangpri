@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/P1 Learning Trip to Singapore Zoo.md
       - Science/P2 Learning Trip to Jurong Bird Park.md
       - Science/.keep
       - Science/Science.md
