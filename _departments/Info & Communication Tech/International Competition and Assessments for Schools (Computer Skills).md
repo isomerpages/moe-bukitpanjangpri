@@ -11,5 +11,6 @@ The International Competitions and Assessments for Schools (ICAS) are independen
  
 
 This year, we have 152 pupils from P3 to P6 took part in ICAS.
+
 <img src="/images/2014ICASCompSkillanimatedgif.gif" 
      style="width:70%">
