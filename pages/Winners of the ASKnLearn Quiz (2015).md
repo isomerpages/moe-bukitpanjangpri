@@ -5,8 +5,10 @@ description: ""
 ---
 Congratulations to the Lower Primary prize winners! 
 
-![](/images/Winners_photo_Lower_pri.jpg)
+<img src="/images/Winners_photo_Lower_pri.jpg" 
+     style="width:70%">
 
 Congratulations to the Upper Primary prize winners!
 
-![](/images/Winners_photo_Upper_pri.jpg)
+<img src="/images/Winners_photo_Upper_pri.jpg" 
+     style="width:70%">
