@@ -61,4 +61,4 @@ PE for Life (The values, skills and camaraderie learnt and experienced during PE
 |[BPPS Sport Carnivals](/departments/PE-Aesthetic-and-CCA/Sports-Carnival)|Primary 1 - 6 
 |[First Aid Awareness](/departments/PE-Aesthetic-and-CCA/p6-first-aid-awareness-programme)|Primary 6
 |[Adventure & Leadership Camp](/departments/PE-Aesthetic-and-CCA/adventure-and-leadership-camp)|Primary 1 – 5
-|[NKF Interactive Bus Exhibition](/departments/PE-Aesthetic-and-CCA/nkf-interactive-bus-exhibition)|Primary 1 – 6
+|[NKF Interactive Bus Exhibition](/departments/PE-Aesthetic-and-CCA/NKF-Kidney-Health-Education-Talk)|Primary 1 – 6
