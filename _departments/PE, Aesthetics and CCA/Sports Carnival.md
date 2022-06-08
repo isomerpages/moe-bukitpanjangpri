@@ -4,8 +4,6 @@ permalink: /departments/PE-Aesthetic-and-CCA/Sports-Carnival
 description: ""
 third_nav_title: PE, Aesthetics and CCA
 ---
-
-
 **Purpose of the programme**
 
  
@@ -31,12 +29,12 @@ The sports carnival was managed by our parent support group members and student 
 
 <img src="/images/sports1.jpg" 
      style="width:50%"><img src="/images/sports2.jpg" 
-     style="width:50%"><img src="/images/sports3.jpg" 
+     style="width:50%;float:left"><img src="/images/sports3.jpg" 
      style="width:50%"><img src="/images/sports4.jpg" 
-     style="width:50%"><img src="/images/sports5.jpg" 
-     style="width:50%"><img src="/images/sports6.jpg" 
-     style="width:50%"><img src="/images/sports7.jpg" 
-     style="width:50%"><img src="/images/sports8.jpg" 
-     style="width:50%"><img src="/images/sports9.jpg" 
-     style="width:50%"><img src="/images/sports10.jpg" 
+     style="width:50%;float:left"><img src="/images/sports5.jpg" 
+     style="width:50%;float:right"><img src="/images/sports6.jpg" 
+     style="width:50%;float:left"><img src="/images/sports7.jpg" 
+     style="width:50%;float:left"><img src="/images/sports8.jpg" 
+     style="width:50%;float:right"><img src="/images/sports9.jpg" 
+     style="width:50%;float:left"><img src="/images/sports10.jpg" 
      style="width:50%">
