@@ -59,8 +59,7 @@ description: ""
 | Gratitude | Primary 6 Class Mentors | Email |
 | -------- | -------- | -------- |
 |1|	Mdm Annie Azrina Bte Ibrahim<br>Mr Tan Guan Heng|annie_azrina_ibrahim@moe.edu.sg<br>tan_guan_heng@moe.edu.sg|
-|2 |Ms Chan Pei Lai Jody<br>Mr Liew Wai Kee|
-chan_pei_lai@moe.edu.sg  <br>liew_wai_kee@moe.edu.sg|
+|2 |Ms Chan Pei Lai Jody<br>Mr Liew Wai Kee|chan_pei_lai@moe.edu.sg  <br>liew_wai_kee@moe.edu.sg|
 |3|Mrs Catherine Kong (Tan Wee Peng) <br>Mr Muhammad Shahrilnizam Bin Mustapha|tan_wee_peng_a@moe.edu.sg<br>muhammad_shahrilnizam_b_m@moe.edu.sg|
 |4|Mrs Ibrahim (Badhrunnisa Bte Jalil)<br>Ms Siti Zafirah Binte Mohamed Zefri|badhrunnisa_jalil@moe.edu.sg<br>siti_zafirah_mohamed_zefri@moe.edu.sg|
 |5|Mr Lok Chee Weng Edward<br>Mdm Shariffa Bee Bte Syed Ahamad|lok_chee_weng@moe.edu.sg<br>shariffa_bee_syed_ahamad@moe.edu.sg|
