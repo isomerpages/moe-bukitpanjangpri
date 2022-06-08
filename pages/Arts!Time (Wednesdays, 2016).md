@@ -3,6 +3,8 @@ title: Arts!Time (Wednesdays, 2016)
 permalink: /arts-time-wednesday
 description: ""
 ---
-![](/images/IMG-20160309-WA0025.jpg)
+<img src="/images/IMG-20160309-WA0025.jpg" 
+     style="width:70%">
 
-![](/images/IMG-20160309-WA0018.jpg)
+<img src="/images/IMG-20160309-WA0018.jpg" 
+     style="width:70%">
