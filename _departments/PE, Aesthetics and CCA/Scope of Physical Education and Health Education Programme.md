@@ -4,9 +4,8 @@ permalink: /departments/PE-Aesthetic-and-CCA/Scope-of-Physical-Education-and-Hea
 description: ""
 third_nav_title: PE, Aesthetics and CCA
 ---
-
-
-![](/images/tnxdSHL_LGfkIyRY5cnCf2XKq5nfr4lZ2tQNB0rysV-Ck.jpg)
+<img src="/images/tnxdSHL_LGfkIyRY5cnCf2XKq5nfr4lZ2tQNB0rysV-Ck.jpg" 
+     style="width:50%">
 
 **Scope of Physical Education Programme**
 
