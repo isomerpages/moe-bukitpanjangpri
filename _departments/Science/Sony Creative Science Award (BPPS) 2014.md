@@ -70,3 +70,12 @@ Silver        Nivendran (4B), Kanthaguru (4D), Balaven (4B)
 Sweet Launch
 
 Bronze      Arshul (4D), Reyes (4D), Rayner (4E)  Accuracy Tester
+
+Primary Five
+![](/images/P5%20winners.jpg)
+
+Gold             Pue Yan Hui and Ong Yu Xiang (5G)   Paper Plate Launcher
+
+Silver           Akash Vasudevan (5C) and Arpitha Vasudevan (5F)   Woobly Octopus
+
+Bronze        Theijes Therrat Menon  (5C)    Apollo II
