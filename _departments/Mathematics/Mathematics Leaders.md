@@ -31,3 +31,13 @@ The roles and responsibilities of **Mathematics Leaders** include the followin
 <img src="/images/Math%20Leader%20conducting%20stock_take%20of%20manipulatives.jpeg" 
      style="width:50%">
 		 
+		 
+<center>
+	
+**Math games and crafts submitted by P2 to P6 Math Leaders.**
+
+</center>
+
+<img src="/images/Math%20Crafts%20Submitteed%20by%20Math%20Leaders%202.jpg" 
+     style="width:50%"><img src="/images/Math%20Crafts%20Submitted%20by%20Math%20Leaders.jpg" 
+     style="width:80%">
