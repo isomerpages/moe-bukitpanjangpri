@@ -27,3 +27,7 @@ The roles and responsibilities of **Mathematics Leaders** include the followin
 **P2 Math Leader, Asher, conducting stock-take of manipulative for his class.**
 	
 </center>
+
+<img src="/images/Math%20Leader%20conducting%20stock_take%20of%20manipulatives.jpeg" 
+     style="width:50%">
+		 
