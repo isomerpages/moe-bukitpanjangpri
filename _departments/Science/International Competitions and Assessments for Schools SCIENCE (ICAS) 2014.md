@@ -62,5 +62,4 @@ Brian Siew with Mdm Ng (P)
 |34	|6	|H	|JARRELL	|CHIA	|Distinction 
 |35	|6|	H	|SUNEETI	|SREEKUMAR	|Distinction 
 |36|	6|	I	|CHUA	|FENG YUAN	|Distinction 
-|37|	6	|I	|LEE	|JIA KANG	|Distinction 
-
+|37|	6	|I	|LEE	|JIA KANG	|Distinction|
