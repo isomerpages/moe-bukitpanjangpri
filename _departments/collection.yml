@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Sony Creative Science Award.md
       - Science/International Competitions and Assessments for Schools SCIENCE
         (ICAS) 2014.md
       - Science/P5 and P6 Science Camps 2014.md
