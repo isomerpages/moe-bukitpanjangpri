@@ -79,3 +79,18 @@ Gold             Pue Yan Hui and Ong Yu Xiang (5G)   Paper Plate Launcher
 Silver           Akash Vasudevan (5C) and Arpitha Vasudevan (5F)   Woobly Octopus
 
 Bronze        Theijes Therrat Menon  (5C)    Apollo II
+
+Primary Six
+![](/images/P5%20and%20P6%20with%20P.jpg)
+
+Gold             Egan Seth Ong Sheng (6H) Eye ball Shoot Out & Air Golf
+
+Silver           S BRYAN PRASHANT (6F) Handheld Helicopter
+
+Bronze         Quek Zheng Seng (6D) Pump It
+
+ 
+
+**Congratulations to all Participants**
+
+We are proud of you!
