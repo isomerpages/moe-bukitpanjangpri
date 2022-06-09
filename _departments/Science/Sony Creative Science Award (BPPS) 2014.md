@@ -53,3 +53,13 @@ Bronze      Desmund Loo (2A) Marble Maze
 Bronze      Wai Yi Xuan (2C) Sponge Bob Square Pants 1
 
 Bronze      Wong Yu Qing Skyler (2H) Low-Gravity Toy
+
+Primary Two
+
+![](/images/P3%20Winners.jpg)
+
+Gold           Heidi Koh Wee (3D) Fatal Ride
+
+Silver         Dhruva Manoj  (3G) The Ball Game
+
+Bronze       Nur Hazeera (3B) Owl Flute
