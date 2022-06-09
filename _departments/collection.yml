@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/Mathematics Leaders.md
       - Mathematics/Teacher Training Workshop.md
       - Mathematics/Sharing for Parents.md
       - Mathematics/P5 and P6 Parents.md
