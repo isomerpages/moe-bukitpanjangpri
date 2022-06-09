@@ -23,6 +23,6 @@ The P5 young scientists were challenged to construct a catapult and build a wind
      style="width:50%"><img src="/images/scicamp54.jpeg" 
      style="width:50%;float:left"><img src="/images/scicamp55.jpeg" 
      style="width:50%"><img src="/scicamp56.jpg" 
-     style="width:50%;float:left"><img src="/images/IMG_3025.jpg" 
-     style="width:50%"><img src="/images/IMG_3025.jpg" 
+     style="width:50%;float:left"><img src="/images/scicamp57.jpg" 
+     style="width:50%"><img src="/images/scicamp58.jpg" 
      style="width:50%">
