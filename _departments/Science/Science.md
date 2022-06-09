@@ -30,7 +30,7 @@ To care for the environment, ask questions, solve problems and develop scientifi
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-| Science Week|	Primary 1 - 6
+| [Science Week](/departments/Science/Science-Week-2015) |	Primary 1 - 6
 |Earth Week |	Primary 1 - 6
  |[World Water Day](/departments/Science/Singapore-World-Water-Week-2021)	|Primary 1 - 6
  |Biodiversity Week|	Primary 1 - 6
