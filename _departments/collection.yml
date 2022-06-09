@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/P5 and P6 Science Camps 2014.md
       - Science/P4 Learning Trip to the Science Centre.md
       - Science/P3 Learning Trip to Jacob Ballas Garden.md
       - Science/Sony Creative Science Award (BPPS) 2014.md
