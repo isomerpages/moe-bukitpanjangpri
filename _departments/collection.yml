@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/Sharing for Parents.md
       - Mathematics/P5 and P6 Parents.md
       - Mathematics/ICAN.md
       - Mathematics/LSM Programme.md
