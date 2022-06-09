@@ -27,3 +27,5 @@ The hissing cockroaches! Do you dare to touch them?
 
 <img src="/images/IMG_8682.jpg" 
      style="width:50%">
+		 
+Let me find out more about the cockroaches...
