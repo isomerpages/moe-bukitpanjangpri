@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Sony Creative Science Award (BPPS) 2014.md
       - Science/P1 Learning Trip to Singapore Zoo.md
       - Science/P2 Learning Trip to Jurong Bird Park.md
       - Science/.keep
