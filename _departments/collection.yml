@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/Learning Journey.md
       - Mathematics/Alternative Assessment, Formative Tasks.md
       - Mathematics/E Learning.md
       - Mathematics/Mathematics Leaders.md
