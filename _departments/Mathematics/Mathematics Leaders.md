@@ -41,3 +41,33 @@ The roles and responsibilities of **Mathematics Leaders** include the followin
 <img src="/images/Math%20Crafts%20Submitteed%20by%20Math%20Leaders%202.jpg" 
      style="width:50%"><img src="/images/Math%20Crafts%20Submitted%20by%20Math%20Leaders.jpg" 
      style="width:80%">
+		 
+		 
+<center>
+	
+**P4 Math Leader, Ng Jing Ru, submitted a Math board game.**
+
+</center>
+
+![](/images/Math%20Game%20submitted%20by%20Math%20Leader_Jing%20Ru.jpeg)
+
+<center>
+	
+**P2 to P6 Math Leaders 1st General Meeting**
+
+</center>
+
+![](/images/1st%20General%20Meeting%20for%20Math%20Leaders.jpeg)
+
+<center>
+	
+**Math Leaders 1st General Meeting led by Mr. Vanan**
+
+</center>
+
+![](/images/1st%20General%20Meeting%20for%20Math%20Leaders%202.jpeg)
+
+**Monthly Math Alive videos for the month of April & May contributed by Zoha Ali, Resilience 4 & Wong Kai Xuan, Compassion 5.**
+
+![](/images/April%20Math%20Video%20created%20by%20Math%20Leader_Zoha%20Ali.jpeg)
+![](/images/May%20Math%20Video%20created%20by%20Math%20Leader_Kai%20Xuan.jpeg)
