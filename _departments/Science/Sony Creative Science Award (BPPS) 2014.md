@@ -20,7 +20,6 @@ We hope that through the school competition, pupils will be given the opportunit
  
 
 Primary One
-
 ![](/images/P1.jpg)
 
 Gold         Chin Le Xuan (1H) Tumble Jungle
@@ -35,7 +34,6 @@ Bronze     Naomi Lim En Qi (1B) The Twister Carousel
 
 
 Primary Two
-
 ![](/images/P2.jpg)
 
 Gold           Theodore Zion Ong Xian (2G) Eye ball Shoot Out & Air Golf
@@ -54,8 +52,7 @@ Bronze      Wai Yi Xuan (2C) Sponge Bob Square Pants 1
 
 Bronze      Wong Yu Qing Skyler (2H) Low-Gravity Toy
 
-Primary Two
-
+Primary Three
 ![](/images/P3%20Winners.jpg)
 
 Gold           Heidi Koh Wee (3D) Fatal Ride
@@ -63,3 +60,13 @@ Gold           Heidi Koh Wee (3D) Fatal Ride
 Silver         Dhruva Manoj  (3G) The Ball Game
 
 Bronze       Nur Hazeera (3B) Owl Flute
+
+Primary Four
+![](/images/P3%20and%20P4%20Winners.jpg)
+
+Gold          Quah Boon Yi (4E) Extreme Skateboard
+
+Silver        Nivendran (4B), Kanthaguru (4D), Balaven (4B) 
+Sweet Launch
+
+Bronze      Arshul (4D), Reyes (4D), Rayner (4E)  Accuracy Tester
