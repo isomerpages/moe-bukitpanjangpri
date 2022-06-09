@@ -34,6 +34,6 @@ To care for the environment, ask questions, solve problems and develop scientifi
 |Earth Week |	Primary 1 - 6
  |[World Water Day](/departments/Science/Singapore-World-Water-Week-2021)	|Primary 1 - 6
  |Biodiversity Week|	Primary 1 - 6
- |Sony Creative Science Award	|Primary 1 - 6
+ |[Sony Creative Science Award](/departments/Science/Sony-Creative-Science-Award)|Primary 1 - 6
  |Learning Trip to Science Centre	|Primary 6
 | Performance Tasks	|Primary 3 - 4
