@@ -67,6 +67,6 @@ Oral and written activities will provide pupils with explicit instruction in ora
 	
 Building on the principles of the Modified Language Experience Approach (MLEA) at the Lower Primary, WPC continues to provide pupils with guidance in the processes of planning, writing and reviewing before they apply these skills in writing, independently. At the Upper Primary, the focus is more on the creative aspects of writing and encouraging the voice of the young writer. 
 
-Differentiated Instruction (DI)
+**Differentiated Instruction (DI)**
 
 Pupils are provided with differentiated support at various points of instruction to optimise their learning. Appropriate activities are designed to support, reinforce and extend their learning.
