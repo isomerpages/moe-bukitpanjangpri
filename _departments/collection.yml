@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/Remedial Programme.md
       - Mathematics/Provision for High Achievers.md
       - Mathematics/Learning Journey.md
       - Mathematics/Alternative Assessment, Formative Tasks.md
