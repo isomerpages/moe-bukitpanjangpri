@@ -14,4 +14,5 @@ Being a new CCA, which embarked this year, Robotics Club started by inviting the
      style="width:50%">
 <img src="/images/4%20(1).jpg" 
      style="width:50%;float:left">
-		 
+		 <img src="/images/5%20(2).jpg" 
+     style="width:50%">
