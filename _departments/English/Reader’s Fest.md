@@ -25,4 +25,6 @@ Students also participated in fringe activities. The Primary 1s and 2s wrote boo
      style="width:50%;float:left">
 <img src="/images/IMG-5434%201.jpg" 
      style="width:50%"><img src="/images/IMG-5435%201.jpg" 
-     style="width:50%"> 
+     style="width:50%">
+		 
+ ![](/images/IMG-5437%201.jpg)
