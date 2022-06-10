@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News and Announcement
           description: ""
-          url: ""
+          url: /bulletin/notifications
   - infopic:
       title: Reduce, Reuse and Recycle
       description: " Let us work towards a zero waste Singapore"
