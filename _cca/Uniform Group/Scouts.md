@@ -11,3 +11,5 @@ As the cub scouts progress through the years, they complete the prerequisite req
 Through all the various projects, camps and competitions carried out in school, the community and the district, the cub scouts learn to be concerned citizens and acquire the qualities to be future leaders, as part of our school vision.
 
 These efforts of our cub scouts have been reaffirmed through receiving the Frank Cooper Sands (Gold) for five consecutive years. The unit will continue to strive for greater heights as we continue our mission of developing our students holistically in a vibrant and caring environment.
+
+![](/images/Screenshot%20of%20cub%20scouts%20Founders%20Day.jpg)
