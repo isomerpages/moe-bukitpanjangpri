@@ -3,10 +3,10 @@ links:
   - title: About Us
     collection: about-us
   - title: Departments
-    url: /permalink
+    url: /departments/English/English
     sublinks:
       - title: English Language
-        url: /permalink
+        url: /departments/English/English
       - title: Mathematics
         url: /departments/Mathematics/Mathematics
       - title: Science
