@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/What tips can I use to help my child?.md
       - Mathematics/Remedial Programme.md
       - Mathematics/Provision for High Achievers.md
       - Mathematics/Learning Journey.md
