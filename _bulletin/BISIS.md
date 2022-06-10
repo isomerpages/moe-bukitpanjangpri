@@ -3,11 +3,8 @@ title: BISIS
 permalink: /bulletin/bisis
 description: ""
 ---
-<center>
-	
 **BRIGHT IDEAS – Student Innovation Scheme (BISIS)**
 	
-</center>
 
 ![](/images/BISIS.png)
 
