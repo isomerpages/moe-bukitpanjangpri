@@ -12,3 +12,5 @@ description: ""
 **Implementation of new PSLE scoring and S1 posting**<br>
 [Implementation of New PSLE](/files/Implementation%20of%20New%20PSLE.pdf)
 
+**P5 EL Sharing for Parents Comprehension Cloze**<br>
+[P5 EL Sharing for Parents Comprehension Cloze](/files/P5%20EL%20Sharing%20for%20Parents%20Comprehension%20Cloze.pdf)
