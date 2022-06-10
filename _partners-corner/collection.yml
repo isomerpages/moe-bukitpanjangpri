@@ -2,6 +2,7 @@ collections:
   partners-corner:
     output: true
     order:
+      - Family Matters @ School.md
       - BPPS Alumni.md
       - Application Forms.md
       - Coverage for Student Protection.md
