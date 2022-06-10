@@ -32,3 +32,7 @@ If your child is studying in Bukit Panjang Primary School, and you would like to
   
 
 We hope you can benefit by joining our group.
+
+**Parent-Teacher Meeting Session:**
+
+Please refer to the PG notification and In-Touch for more details.
