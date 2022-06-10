@@ -29,7 +29,7 @@ The roles and responsibilities of **Mathematics Leaders** include the followin
 </center>
 
 <img src="/images/Math%20Leader%20conducting%20stock_take%20of%20manipulatives.jpeg" 
-     style="width:50%">
+     style="width:35%">
 		 
 		 
 <center>
@@ -49,7 +49,8 @@ The roles and responsibilities of **Mathematics Leaders** include the followin
 
 </center>
 
-![](/images/Math%20Game%20submitted%20by%20Math%20Leader_Jing%20Ru.jpeg)
+<img src="/images/Math%20Game%20submitted%20by%20Math%20Leader_Jing%20Ru.jpeg" 
+     style="width:50%">
 
 <center>
 	
@@ -57,7 +58,8 @@ The roles and responsibilities of **Mathematics Leaders** include the followin
 
 </center>
 
-![](/images/1st%20General%20Meeting%20for%20Math%20Leaders.jpeg)
+<img src="/images/1st%20General%20Meeting%20for%20Math%20Leaders.jpeg" 
+     style="width:50%">
 
 <center>
 	
@@ -65,9 +67,12 @@ The roles and responsibilities of **Mathematics Leaders** include the followin
 
 </center>
 
-![](/images/1st%20General%20Meeting%20for%20Math%20Leaders%202.jpeg)
+<img src="/images/1st%20General%20Meeting%20for%20Math%20Leaders%202.jpeg" 
+     style="width:50%">
 
 **Monthly Math Alive videos for the month of April & May contributed by Zoha Ali, Resilience 4 & Wong Kai Xuan, Compassion 5.**
 
-![](/images/April%20Math%20Video%20created%20by%20Math%20Leader_Zoha%20Ali.jpeg)
-![](/images/May%20Math%20Video%20created%20by%20Math%20Leader_Kai%20Xuan.jpeg)
+<img src="/images/April%20Math%20Video%20created%20by%20Math%20Leader_Zoha%20Ali.jpeg" 
+     style="width:70%">
+<img src="/images/May%20Math%20Video%20created%20by%20Math%20Leader_Kai%20Xuan.jpeg" 
+     style="width:70%">
