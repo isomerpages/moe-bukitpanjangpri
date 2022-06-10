@@ -14,6 +14,15 @@ Students also participated in fringe activities. The Primary 1s and 2s wrote boo
      style="width:50%;float:left">
 		 
 <img src="/images/72916700-dea6-4c56-b3f2-646f82a4fa40.jpg" 
-     style="width:45%;float:left">
+     style="width:45%">
 <img src="/images/ed4e0977-42dc-41af-92f3-b219017341ef.jpeg" 
      style="width:50%;float:left">
+		 
+<img src="/images/f85699c1-4dd1-44ab-ac2a-42bc3d10fbff.jpeg" 
+     style="width:50%">
+		 <br><br>
+<img src="/images/IMG-5379%201.jpg" 
+     style="width:50%;float:left">
+<img src="/images/IMG-5434%201.jpg" 
+     style="width:50%"><img src="/images/IMG-5435%201.jpg" 
+     style="width:50%"> 
