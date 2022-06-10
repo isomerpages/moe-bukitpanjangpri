@@ -2,4 +2,5 @@ collections:
   partners-corner:
     output: true
     order:
+      - Coverage for Student Protection.md
       - Edusave Awards.md
