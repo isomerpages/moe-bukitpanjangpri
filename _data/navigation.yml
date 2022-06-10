@@ -19,3 +19,5 @@ links:
         url: /departments/Student-development-team
       - title: Info & Communication Tech
         url: /departments/ICT
+  - title: Departments
+    collection: departments
