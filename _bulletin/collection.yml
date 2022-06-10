@@ -1,0 +1,4 @@
+collections:
+  bulletin:
+    output: true
+    order: []
