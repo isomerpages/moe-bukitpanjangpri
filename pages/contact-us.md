@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Bukit Panjang Primary School
 locations:
   - address:
       - "109 Cashew Road   "
