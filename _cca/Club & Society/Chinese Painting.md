@@ -9,3 +9,11 @@ Chinese painting is an ancient art that captures the world in deceptively simpl
 Chinese painting members will learn how to handle the Chinese painting brush, execute brush strokes correctly and artistically, control the flow of ink, and load the brush correctly with the different shades of ink. To learn brush control, the foundation of Chinese Painting, members will also learn the basic skills in drawing various landscapes, such as flowers and animals. It is a technically demanding art form, requiring lots of patience, concentration, great skills and years of training.
 
 In the past years, our Chinese Painting members have actively taken part in various Exhibitions, e.g. 2019 [SG-HK-MACAU Students’ Art Exhibition](), [2020 Zhang Shou Shi National Calligraphy & Chinese Painting Exhibition]() and 2021 China-ASEAN Youth Art Exhibition.
+
+![](/images/chinesepainting.jpeg)
+![](/images/chinesepainting2.jpeg)
+![](/images/chinesepainting3.jpeg)
+![](/images/chinesepainting4.jpeg)
+![](/images/chinesepainting5.jpeg)
+![](/images/chinesepainting6.jpeg)
+![](/images/chinesepainting7.jpeg)
