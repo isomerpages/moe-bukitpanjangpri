@@ -49,6 +49,11 @@ All contributors of BRIGHT IDEAS will be notified of the outcome of their sugges
 
 All the BRIGHT IDEAS that are selected for implementation will be featured in the school website and school Facebook page. Their contributors will also receive a certificate of contribution.
 
+
+<center>
+	
 **It takes each of us to make a difference for all of us!**
 
 **LET’S BRING BPPS TO GREATER HEIGHTS TOGETHER.**
+
+</center>
