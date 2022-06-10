@@ -57,4 +57,5 @@ P5 and above<br>
 [How to Spot Signs of Phishing - 1 (English)](https://youtu.be/SawQL3w8rSc)<br>
 [How to Spot Signs of Phishing - 2](https://youtu.be/P2BzN1h1nkI)<br>
 [How to Choose An Anti-Virus Software and Enable Automatic Software Updates](https://youtu.be/q0Iz7ipyOrI)<br>
-[Use Strong Passwords and Enable 2FA - Marketing Video 1 (English)](https://youtu.be/OUHbUiiw1Q4)
+[Use Strong Passwords and Enable 2FA - Marketing Video 1 (English)](https://youtu.be/OUHbUiiw1Q4)<br>
+[Spot Signs of Phishing - Marketing Video 1 (English)](https://youtu.be/THZpzRRfvs0)
