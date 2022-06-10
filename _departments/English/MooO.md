@@ -20,5 +20,5 @@ This year, we also had a team of Primary 3 students taking part in a digital sto
 <img src="/images/Tan%20Yun%20Le%20from%20Responsibility%20in%20Barrel%20of%20Gold.jpeg" 
      style="width:50%;float:left">
 		 
-		 
-		
+ <img src="/images/YapPei%20Ting%20from%20Respect%205%20in%20Dan%20the%20flying%20man.jpeg" 
+     style="width:50%">
