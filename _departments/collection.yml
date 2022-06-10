@@ -2,6 +2,8 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
       - Mathematics/What tips can I use to help my child?.md
       - Mathematics/Remedial Programme.md
       - Mathematics/Provision for High Achievers.md
@@ -16,8 +18,6 @@ collections:
       - Mathematics/LSM Programme.md
       - Mathematics/Mathematics Activity Week.md
       - Mathematics/ICT @ Math.md
-      - Mathematics/Mathematics.md
-      - Mathematics/.keep
       - Science/.keep
       - Science/Science.md
       - Science/Sony Creative Science Award.md
