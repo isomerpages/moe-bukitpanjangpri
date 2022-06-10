@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/.keep
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/What tips can I use to help my child?.md
