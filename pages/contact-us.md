@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Agency Name
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - "109 Cashew Road   "
+      - "Singapore   "
+      - Singapore   679676
     operating_hours: []
     maps_link: ""
     title: Main Office
