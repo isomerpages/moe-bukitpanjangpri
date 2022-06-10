@@ -2,5 +2,6 @@ collections:
   partners-corner:
     output: true
     order:
+      - Application Forms.md
       - Coverage for Student Protection.md
       - Edusave Awards.md
