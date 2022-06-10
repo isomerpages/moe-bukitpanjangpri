@@ -64,4 +64,5 @@ P5 and above<br>
 [Let's Talk Cyber: Are We Really Safe Online? - YouTube](https://www.youtube.com/watch?v=8d8HG1X8m60)
 
 [#1ClickAway: What are E-Commerce Scams? - YouTube](https://www.youtube.com/watch?v=uC1B_IjMSfc)<br>
-[#1ClickAway: Tips to Guard Against E-Commerce Scams pt.1 - YouTube](https://www.youtube.com/watch?v=_n0rdY44yTI)
+[#1ClickAway: Tips to Guard Against E-Commerce Scams pt.1 - YouTube](https://www.youtube.com/watch?v=_n0rdY44yTI)<br>
+[#1ClickAway: Tips to Guard Against E-Commerce Scams pt.2 - YouTube](https://www.youtube.com/watch?v=ijO0YvQkE5k)
