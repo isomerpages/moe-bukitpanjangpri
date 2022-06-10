@@ -7,10 +7,9 @@ description: ""
 	
 **BRIGHT IDEAS – Student Innovation Scheme (BISIS)**
 	
-![](/images/BISIS.png)
-	
 </center>
 
+![](/images/BISIS.png)
 
 
 **Introduction**  
