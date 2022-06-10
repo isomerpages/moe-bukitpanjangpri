@@ -21,4 +21,4 @@ Past Achievements
 <img src="/images/Table%20Tennis%20Photo%206.jpeg" 
      style="width:50%">
 		 <img src="/images/Table%20Tennis%20Photo%208.jpeg" 
-     style="width:50%;float:left">
+     style="width:50%">
