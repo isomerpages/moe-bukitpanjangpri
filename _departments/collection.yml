@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Speak & Act.md
       - English/Extensive Reading Programme.md
       - English/MooO.md
       - English/Reader’s Fest.md
