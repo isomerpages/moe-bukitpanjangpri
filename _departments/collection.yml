@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Frequently Asked Questions on the EL.md
       - English/STELLAR.md
       - English/Odyssey of the Mind.md
       - English/Speak & Act.md
