@@ -25,4 +25,7 @@ With these activities, our students are greatly encouraged to inculcate the good
      style="width:50%;float:left">
 		 <img src="/images/IMG-3171.jpg"
      style="width:50%">
-		 
+		 <img src="/images/IMG-5504.jpg" 
+     style="width:50%;float:left">
+		  <img src="/images/IMG-5561.jpg"
+     style="width:50%">
