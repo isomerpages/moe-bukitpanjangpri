@@ -29,6 +29,6 @@ description: ""
 
 4\. How do I apply to be a parent volunteer in your school?
 
-    If your child is born in Year 2017, the parent volunteer application period will tentatively open to the public from March to April 2022. You can access the online application form at [https://www.bukitpanjangpri.moe.edu.sg/partners-corner/application-forms](https://www.bukitpanjangpri.moe.edu.sg/partners-corner/application-forms) .
+    If your child is born in Year 2017, the parent volunteer application period will tentatively open to the public from March to April 2022. You can access the online application form [here](/partners-corner/application-forms).
 
 Interviews will be conducted to shortlist parent volunteers who are able to contribute to the school.
