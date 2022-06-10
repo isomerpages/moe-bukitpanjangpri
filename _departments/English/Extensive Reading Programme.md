@@ -29,3 +29,4 @@ With these activities, our students are greatly encouraged to inculcate the good
      style="width:50%;float:left">
 		  <img src="/images/IMG-5561.jpg"
      style="width:50%">
+		 ![](/images/Inked8000dc04-f0a2-45e5-8830-0069e2dacebe_LI.jpg)
