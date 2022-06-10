@@ -59,3 +59,9 @@ P5 and above<br>
 [How to Choose An Anti-Virus Software and Enable Automatic Software Updates](https://youtu.be/q0Iz7ipyOrI)<br>
 [Use Strong Passwords and Enable 2FA - Marketing Video 1 (English)](https://youtu.be/OUHbUiiw1Q4)<br>
 [Spot Signs of Phishing - Marketing Video 1 (English)](https://youtu.be/THZpzRRfvs0)
+
+[Let's Talk Cyber: How Cyber Savvy Are You? - YouTube](https://www.youtube.com/watch?v=jBbESe2-QpQ)<br>
+[Let's Talk Cyber: Are We Really Safe Online? - YouTube](https://www.youtube.com/watch?v=8d8HG1X8m60)
+
+[#1ClickAway: What are E-Commerce Scams? - YouTube](https://www.youtube.com/watch?v=uC1B_IjMSfc)<br>
+[#1ClickAway: Tips to Guard Against E-Commerce Scams pt.1 - YouTube](https://www.youtube.com/watch?v=_n0rdY44yTI)
