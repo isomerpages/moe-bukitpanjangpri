@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club & Society/.keep
       - Sports/Badminton.md
       - Sports/Basketball.md
       - Sports/Football.md
