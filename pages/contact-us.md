@@ -16,5 +16,5 @@ contacts:
       - phone: +65 6769 1912
       - email: bpps@moe.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: "Feel free to contact us:"
 ---
