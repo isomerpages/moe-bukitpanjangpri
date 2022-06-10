@@ -45,11 +45,11 @@ P3 and above<br>
 [Cyber Sandra's Hacks - Anti-Virus Software - YouTube](https://www.youtube.com/watch?v=7KM-cvKHKWE)<br>
 [Cyber Sandra's Hacks - Protecting Yourself From Future Data Breaches - YouTube](https://www.youtube.com/watch?v=ayCrEM9iJBc)
 
-[Inspector Clif - How to protect yourself - Bank Impersonation Scam  Facebook](https://www.facebook.com/InspectorClif/videos/822155718323225/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
-[Inspector Clif - How to protect yourself - Phishing Scam  Facebook](https://www.facebook.com/InspectorClif/videos/3115769405133288/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
-[Inspector Clif - Beware of scammers impersonating your...  Facebook](https://www.facebook.com/InspectorClif/videos/831327664023504/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
-[Singapore Police Force - Never share your WhatsApp account verification codes or any One-Time Password (OTP) with anyone  Facebook](https://www.facebook.com/singaporepoliceforce/videos/708286759906333/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C)<br>
-[Bedok South NPC - From January to April 2020, at least... | Facebook](https://www.facebook.com/BedokSouthNPC/videos/206356900701550/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C)
+[Inspector Clif - How to protect yourself - Bank Impersonation Scam - Facebook](https://www.facebook.com/InspectorClif/videos/822155718323225/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
+[Inspector Clif - How to protect yourself - Phishing Scam - Facebook](https://www.facebook.com/InspectorClif/videos/3115769405133288/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
+[Inspector Clif - Beware of scammers impersonating your... - Facebook](https://www.facebook.com/InspectorClif/videos/831327664023504/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
+[Singapore Police Force - Never share your WhatsApp account verification codes or any One-Time Password (OTP) with anyone - Facebook](https://www.facebook.com/singaporepoliceforce/videos/708286759906333/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C)<br>
+[Bedok South NPC - From January to April 2020, at least... - Facebook](https://www.facebook.com/BedokSouthNPC/videos/206356900701550/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C)
 
 P5 and above<br>
 [How to Create Strong Passwords and Enable 2FA - 1 (English)](https://youtu.be/cKUeW7Laqis)<br>
