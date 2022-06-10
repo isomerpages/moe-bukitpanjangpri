@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club & Society/Robotics Club.md
       - Club & Society/Chinese Painting.md
       - Club & Society/Environmental Club.md
       - Club & Society/Infocomm(ICC).md
