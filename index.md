@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bukit Panjang Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -18,3 +18,4 @@ sections:
       image: /images/Bukit Panjang Primary School Rectangular banner.jpg
       alt: Image alt text
 ---
+
