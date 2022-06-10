@@ -4,7 +4,7 @@ permalink: /departments/Mathematics/Alternative-Assessment-Formative-Tasks
 description: ""
 third_nav_title: Mathematics
 ---
- _(P1 to P4)_
+_(P1 to P4)_
 
 *   Provide feedback on pupils' progress in the learning of Mathematics
 *   To develop and help pupils improve in the learning of Mathematics
@@ -15,15 +15,14 @@ third_nav_title: Mathematics
 <center>Can our iPads capture all these information?</center>
 
 <img src="/images/DSC03280.jpg" 
-     style="width:70%">
+     style="width:40%">
 
 <center>What a loooong bench!</center>
 
 <img src="/images/elearn4.jpg" 
-     style="width:50%">
+     style="width:40%">
 <center>Did I get it right?</center>	
 
 <img src="/images/ROC-P2%20004.jpg" 
-     style="width:50%">
-<center>Did we measure the height of the table accurately?</center>	
-
+     style="width:35%">
+<center>Did we measure the height of the table accurately?</center>
