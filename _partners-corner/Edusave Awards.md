@@ -18,4 +18,4 @@ Edusave Awards are given by the government annually to Singaporean students to e
 |Edusave Good Progress Award|   Within top 10% of the school’s level and course in terms of improvement in academic, and have demonstrated good conduct. | **Primary 2 to 3:** $100<br>**Primary 4 to 6:** $150
 
 
-_For more information, you may visit Ministry Of Education website at:_ [Edusave awards](https://www.moe.gov.sg/education/edusave/edusave-awards)
+_For more information, you may visit Ministry Of Education website at:_ [Edusave Awards](https://www.moe.gov.sg/education/edusave/edusave-awards)
