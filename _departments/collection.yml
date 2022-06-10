@@ -2,6 +2,8 @@ collections:
   departments:
     output: true
     order:
+      - English/.keep
+      - English/English.md
       - English/Frequently Asked Questions on the EL.md
       - English/STELLAR.md
       - English/Odyssey of the Mind.md
@@ -9,8 +11,6 @@ collections:
       - English/Extensive Reading Programme.md
       - English/MooO.md
       - English/Reader’s Fest.md
-      - English/English.md
-      - English/.keep
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/What tips can I use to help my child?.md
