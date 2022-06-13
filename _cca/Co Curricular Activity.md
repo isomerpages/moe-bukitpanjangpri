@@ -43,8 +43,8 @@ BPPS follows a set of principles when designing and implementing the CCA program
 
 | Performing Arts | Club & Society | Sports | Uniform Group
 | -------- | -------- | -------- | -------- | 
-| [Concert Band](/cca/Performing-Arts/concert-band)  | [Arts and Crafts](/cca/Club-and-Society/art-club)    | [Badminton](/cca/sports/badminton) | Red Cross Youth
-| [Choir](/cca/Performing-Arts/choir) | [undefined](/cca/Club-and-Society/robotics-club) | [Basketball](/cca/sports/basketball) | Scouts| 
+| [Concert Band](/cca/Performing-Arts/concert-band)  | [Arts and Crafts](/cca/Club-and-Society/art-club)    | [Badminton](/cca/sports/badminton) | [Red Cross Youth](/cca/uniform-group/red-cross-youth)
+| [Choir](/cca/Performing-Arts/choir) | [undefined](/cca/Club-and-Society/robotics-club) | [Basketball](/cca/sports/basketball) | [Scouts](/cca/uniform-group/scouts)| 
 | [Chinese Dance](/cca/Performing-Arts/chinese-dance) | [Chinese Painting](/cca/Club-and-Society/chinese-painting) | [Football](/cca/sports/football) | |
 | [Chinese Drums](/cca/Performing-Arts/chinese-drums) | [English Drama](/cca/Club-and-Society/english-drama) | [Hockey](/cca/sports/hockey) | | 
 | [Indian Dance ](/cca/Performing-Arts/indian-dance) | [Environmental Science](/cca/Club-and-Society/environmental-club) | [Table Tennis](/cca/sports/table-tennis) | |
