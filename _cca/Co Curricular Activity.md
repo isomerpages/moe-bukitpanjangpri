@@ -14,7 +14,7 @@ CCA is an integral component to the holistic development of students in Bukit Pa
 
   
 
-The **Visual and Performing Art**s instil in students a sense of graciousness and appreciation for the rich culture and heritage of a multi-racial society.   
+The **Visual and Performing Arts** instil in students a sense of graciousness and appreciation for the rich culture and heritage of a multi-racial society.   
 
 **Uniformed Group** activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others. 
 
@@ -52,3 +52,4 @@ BPPS follows a set of principles when designing and implementing the CCA program
 |[Modern Dance](/cca/Performing-Arts/modern-dance)|  |||
 
 [CCA @ BPPS Photo Gallery](https://www.flickr.com/photos/124355832@N02/collections)
+
