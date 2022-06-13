@@ -44,11 +44,11 @@ BPPS follows a set of principles when designing and implementing the CCA program
 | Performing Arts | Club & Society | Sports | Uniform Group
 | -------- | -------- | -------- | -------- | 
 | Concert Band    | Arts and Crafts     | Badminton   | Red Cross Youth
-| Choir | Robotics Club | Basketball | Scouts| 
-| Chinese Dance | Chinese Painting | Football | |
-| Chinese Drums | English Drama | Hockey | | 
-| Indian Dance | Environmental Science | Table Tennis | |
-| Malay Dance | IT (computing)| Wushu | |
-|Modern Dance|  |||
+| [Choir](/cca/Performing-Arts/choir) | Robotics Club | Basketball | Scouts| 
+| [Chinese Dance](/cca/Performing-Arts/chinese-dance) | Chinese Painting | Football | |
+| [Chinese Drums](/cca/Performing-Arts/chinese-drums) | English Drama | Hockey | | 
+| [Indian Dance ](/cca/Performing-Arts/indian-dance) | Environmental Science | Table Tennis | |
+| [Malay Dance](/cca/Performing-Arts/malay-dance) | IT (computing)| Wushu | |
+|[Modern Dance](/cca/Performing-Arts/modern-dance)|  |||
 
 [CCA @ BPPS Photo Gallery](https://www.flickr.com/photos/124355832@N02/collections)
