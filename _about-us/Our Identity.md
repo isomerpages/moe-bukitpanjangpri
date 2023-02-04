@@ -3,7 +3,6 @@ title: Our Identity
 permalink: /about-us/Our-Identity/
 description: ""
 ---
-
 History of the School
 ---------------------
 
@@ -80,3 +79,5 @@ Green represents vitality and growth, yellow symbolises loyalty to the school an
 
 School Song
 -----------
+
+![](/images/School%20Song.png)
