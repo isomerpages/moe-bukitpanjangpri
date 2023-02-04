@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our History.md
       - Our Beliefs.md
       - Principal's Message.md
       - Steering Committee.md
@@ -10,4 +11,3 @@ collections:
       - School Rules.md
       - Contact Us.md
       - School Services.md
-      - Our History.md
