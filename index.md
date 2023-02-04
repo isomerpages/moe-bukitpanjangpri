@@ -2,7 +2,7 @@
 layout: homepage
 title: Bukit Panjang Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo (2).png
 permalink: /
 notification: ""
 sections:
@@ -19,4 +19,5 @@ sections:
           description: ""
           url: ""
 ---
+
 
