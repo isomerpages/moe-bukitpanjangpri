@@ -4,46 +4,11 @@ permalink: /departments/English/Oracy-Speak-and-Act/
 description: ""
 third_nav_title: English
 ---
+Speak and Act is a programme planned for Primary 1 and 2 students to build their confidence in the use of English Language and creative thinking through drama, songs, poetry recitation and storytelling activities. In this programme, students get to experience the joy of expression through structured activities with focus on basic drama skills. Besides learning expression through body movements, students also get to broaden collaboration and communication skills through activities that build their confidence to perform in front of an audience.
 
-This July, the Primary 1 students will embark on Speak and Act programme. Students will be storytellers (narrators) and they also become the characters (where animals and objects also come alive!) in the story, the young actors will take turn to narrate the story to the audience (as a storyteller) and act out the drama and his/her role in the story (as an actor). This is known as storyteller-character in story theatre.  
+  
 
-The programme is customized to:
-
-• Introduce all primary 1 students to the world of story theatre
-
-• Develop every student to be a young storyteller and a young actor while the process also focuses on Social and Emotional Learning (SEL)
-
-• Equip the students with the skills and knowledge to tell, dramatize, stage, perform in, and present a story theatre
-
-• Enliven the students to imagine, explore, and create through a dramatic journey of text, words, sounds, movements, actions, shapes, and imagery
-
-• Develop the students’ competency in presenting a story from page to stage in an entertaining and theatrical style using verbal and non-verbal stage performance forms
-
-• Empower the students to perform with 3C - confidence, clarity, and control in a story theatre
-
-The school has selected the following 8 adapted story theatre scripts from our KSP library.
-
-They are based on a mixture of local and western tales.
-
-They are:
-
-• Badang and The Singapore Stone
-
-• Singapura
-
-• A Million Cats
-
-• The Bird and The Frog
-
-• Stone Soup
-
-• The Legend of Bukit Merah
-
-• Thumbelina
-
-• Where the Wild Things Are
-
-Each story will have meaningful messages to educate, enlighten, and inspire the students. Each class will be assigned a specific story to explore, tell, dramatise, and present it. The students will take on either the lead, supporting and/or ensemble roles in the story. Students will learn to use theatre as a communication tool to engage, entertain and educate the audience with a dramatic representation of the story.
+_These photographs are taken before COVID-19._
 
 
 
