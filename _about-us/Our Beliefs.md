@@ -3,33 +3,34 @@ title: Our Beliefs
 permalink: /about-us/Our-Beliefs/
 description: ""
 ---
-
-**Vision**
+Vision
+------
 
 Future Leaders, Concerned Citizens
 
-**Mission**
+Every learner an adaptable and compassionate leader who is grounded in school values and has the heart to serve others
 
-Developing our students holistically in a vibrant and caring environment 
+Mission
+-------
 
+Developing our students holistically in a vibrant and caring environment
 
+To provide students with rich and positive learning experiences to nurture and develop respectful and responsible students who show compassion and gratitude towards others, while upholding integrity and staying resilient
 
-**Motto**
+  
+
+Motto
+-----
 
 Endeavour
 
+  
 
+Core Values
+-----------
 
-**Core Values**
+Respect, Responsibility, Resilience, Integrity, Compassion, Gratitude
 
-Respect
+![](/images/Core%20Values.png)
 
-Responsibility
-
-Resilience
-
-Integrity
-
-Compassion
-
-Gratitude
+![](/images/Our%20beliefs%20place%20image%20at%20bottom%20of%20webpage%20Final.jpg)
