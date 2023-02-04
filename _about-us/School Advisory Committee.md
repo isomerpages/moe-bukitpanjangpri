@@ -3,30 +3,22 @@ title: School Advisory Committee
 permalink: /about-us/School-Advisory-Committee/
 description: ""
 ---
-Chairman
-
+**Chairman**<br>
 Mr Simon Neo Tiau Gee
 
-  
 
-Vice-Charman
-
+**Vice-Chairman**<br>
 Mr Manogar
 
   
 
-Treasurer
-
+**Treasurer**<br>
 Mr Wang Jiang Yong
 
   
 
-Members
-
-Ms Grace Yin
-
-Ms Agnes Chua
-
-Mr Eric Tan
-
+**Members**<br>
+Ms Grace Yin<br>
+Ms Agnes Chua<br>
+Mr Eric Tan<br>
 Mr Tan Lee Peng
