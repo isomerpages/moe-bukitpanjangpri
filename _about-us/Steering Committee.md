@@ -39,3 +39,23 @@ Key Personnel
 |Mr Koh Chung Heng|[koh_chung_heng@moe.edu.sg](mailto:koh_chung_heng@moe.edu.sg)|Assistant Year Head
 |Ms Jessica Yee|[kwai_ga_yee@moe.edu.sg](mailto:kwai_ga_yee@moe.edu.sg)|Subject Head (Partnership & Innovation)
 |Ms Valerie Teo|[valerie_teo@moe.edu.sg](mailto:valerie_teo@moe.edu.sg)|Level Head (Mathematics)
+
+ST and LT
+---------
+
+| Name| Email Address | Designation|
+| -------- | -------- | -------- |
+|Mr Peter Chutatape|[peter_chutatape@moe.edu.sg](mailto:peter_chutatape@moe.edu.sg)|Lead Teacher (English)
+|Mdm Sapia Bte Suki|[sapia_suki@moe.edu.sg](mailto:sapia_suki@moe.edu.sg)|Senior Teacher (English)
+|Mdm Suharti Bte Hassan|[suharti_bt_hassan@moe.edu.sg](mailto:suharti_bt_hassan@moe.edu.sg)|Senior Teacher (English)
+|Mdm Liew Siew Chiew|[liew_siew_chiew@moe.edu.sg](mailto:liew_siew_chiew@moe.edu.sg)|Senior Teacher (CL)
+|Mr Mohd Riad|[mohd_riad@moe.edu.sg](mailto:mohd_riad@moe.edu.sg)|Lead Teacher
+|Mdm Joanne Khaw|[joanne_khaw@moe.edu.sg](mailto:joanne_khaw@moe.edu.sg)|Senior Teacher (SEN)
+
+EAS Team
+--------
+
+| Name| Email Address | Designation|
+| -------- | -------- | -------- |
+|Mr Khoo Kay Peng|[khoo_kay_peng@moe.edu.sg](mailto:khoo_kay_peng@moe.edu.sg)|	
+Operations Manager
