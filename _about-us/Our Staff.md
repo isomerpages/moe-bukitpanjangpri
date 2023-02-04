@@ -49,12 +49,12 @@ description: ""
 
 | Resilience | Primary 5 Class Mentors | Email |
 | -------- | -------- | -------- |
-|1|Mrs Kristin Heng<br>Mr Mohamed Riad Bin Mohamed Padli<br>Mdm Siti Aisha Bte Mohamed Yusoff|kristin_heng@moe.edu.sg<br>mohd_riad@moe.edu.sg<br>siti_aisha_mohamed_yusoff@moe.edu.sg|
-|2|Mrs Joanne Khaw<br>Ms Toh Xin Yi Maxine|joanne_khaw@moe.edu.sg<br>maxine_toh_xin_yi@moe.edu.sg| 
-|3 	|Mdm Siti Noraisha Binte Mohd Noor<br> 	 Mdm Guo Yue|	siti_noraisha_mohd_noor@moe.edu.sg<br>guo_yue@moe.edu.sg|
-|4|Mdm Suharti Bte Hassan<br>Ms Gladys Zhang Shangmin|suharti_bt_hassan@moe.edu.sg<br>zhang_shangmin_gladys@moe.edu.sg|
-|5|Mr Peter Chutatape<br>Ms Leow Mei Leng|peter_chutatape@moe.edu.sg<br>leow_mei_leng@moe.edu.sg|
-|6|Ms Lim Boon Teng Mary<br>Mr Tan Choon Shing|lim_boon_teng_mary@moe.edu.sg<br>tan_choon_shing@moe.edu.sg |
+|1|Mdm Idayu Bte Sokkiman<br>Mdm Annie Azrina Bte Ibrahim<br>Mr Koh Chung Heng|[idayu_sokkiman@moe.edu.sg](mailto:idayu_sokkiman@moe.edu.sg)<br>[annie_azrina_ibrahim@moe.edu.sg](mailto:annie_azrina_ibrahim@moe.edu.sg)<br>[koh_chung_heng@moe.edu.sg](mailto:koh_chung_heng@moe.edu.sg)|
+|2|Mrs Joanne Khaw<br>Mr Saifudin Bin Mohammed Amin|[joanne_khaw@moe.edu.sg](mailto:joanne_khaw@moe.edu.sg)<br>[saifudin_mohammed_amin@moe.edu.sg](mailto:saifudin_mohammed_amin@moe.edu.sg)| 
+|3 	|Ms Teo Ping Hui Valerie<br> Mrs Catherine Kong (Tan Wee Peng)|	[valerie_teo@moe.edu.sg](mailto:valerie_teo@moe.edu.sg)<br>[tan_wee_peng_a@moe.edu.sg](mailto:tan_wee_peng_a@moe.edu.sg)|
+|4|Mr Lok Chee Weng Edward<br>Mr Liew Wai Kee|[lok_chee_weng@moe.edu.sg](mailto:lok_chee_weng@moe.edu.sg)<br>[liew_wai_kee@moe.edu.sg](mailto:liew_wai_kee@moe.edu.sg)|
+|5|Mdm Shariffa Bee Bte Syed Ahamad<br>Ms Chang May Ling|[shariffa_bee_syed_ahamad@moe.edu.sg](mailto:shariffa_bee_syed_ahamad@moe.edu.sg)<br>[chang_may_ling@moe.edu.sg](mailto:chang_may_ling@moe.edu.sg)|
+|6|Ms Yogeetha Rajagopal<br>Mdm Lek Siew Gek|[yogeetha_rajagopal@moe.edu.sg](mailto:yogeetha_rajagopal@moe.edu.sg)<br>[lek_siew_gek@moe.edu.sg](mailto:lek_siew_gek@moe.edu.sg)|
 
 | Gratitude | Primary 6 Class Mentors | Email |
 | -------- | -------- | -------- |
