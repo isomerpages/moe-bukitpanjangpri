@@ -31,12 +31,12 @@ description: ""
 
 | Compassion | Primary 3 Class Mentors | Email |
 | -------- | -------- | -------- |
-|1|Mdm Nazreen Sultana Binte Syed Ahmed<br>Mdm Chan Meng Yin|nazreen_sultana_syed_ahm@moe.edu.sg<br>chan_meng_yin@moe.edu.sg|
-|2|Mr Hasyim Tan Abdullah<br>Mrs Ang-Tan Wei Ling Rebekah|hasyim_tan_abdullah@moe.edu.sg<br>tan_wei_ling_rebekah@moe.edu.sg|
-|3|Mrs Dhillon (Benazir Binte Mohamed Shariff)<br>Mdm Sri Rahayu Bte<br>Mr Tan Zhuan Liang  Ramlan|benazir_mohamed_shariff@moe.edu.sg|sri_rahayu_ramlan@moe.edu.sg<br>tan_zhuan_liang@moe.edu.sg|
-|4|Mdm Eismawati Bte Bisri<br>Mr Teo Yee Sin Mike|eismawati_bisri@moe.edu.sg<br>teo_yee_sin@moe.edu.sg|
-|5|Mdm Nor Ezlin Bte Abdullah<br>Mdm Lisa Yap|nor_ezlin_abdullah@moe.edu.sg<br>lau_hui_miang@moe.edu.sg|
-|6|Mr Kwan Siew Tung<br>Mdm Soon Meiling<br>Mdm Nur Muliani Perdanawati 	|kwan_siew_tung@moe.edu.sg<br>soon_meiling@moe.edu.sg<br>nur_muliani_perdanawati@moe.edu.sg |
+|1|Mr Teo Jia Le Jarrell<br>Mr Lim Lai Huat David|[teo_jie_le_jarrell@moe.edu.sg](mailto:teo_jie_le_jarrell@moe.edu.sg)<br>[lim_lai_huat@moe.edu.sg](mailto:lim_lai_huat@moe.edu.sg)|
+|2|Mr Pang Peng Tiong<br>Mr Tan Choon Shing|[pang_peng_tiong@moe.edu.sg](mailto:pang_peng_tiong@moe.edu.sg)<br>[tan_choon_shing@moe.edu.sg](mailto:tan_choon_shing@moe.edu.sg)|
+|3|Mr Tan Zhuan Liang<br>Mdm Yeo Sze Wei|[tan_zhuan_liang@moe.edu.sg](mailto:tan_zhuan_liang@moe.edu.sg)<br>[yeo_sze_wei@moe.edu.sg](mailto:yeo_sze_wei@moe.edu.sg)|
+|4|Mdm Eismawati Bte Bisri<br>Ms Lim Boon Teng Mary|[eismawati_bisri@moe.edu.sg](mailto:eismawati_bisri@moe.edu.sg)<br>[lim_boon_teng_mary@moe.edu.sg](mailto:lim_boon_teng_mary@moe.edu.sg)|
+|5|Mrs Lisa Yap<br>Mdm Ang Wei Shan Serene|[lau_hui_miang@moe.edu.sg](mailto:lau_hui_miang@moe.edu.sg)<br>[serene_ang_wei_shan@moe.edu.sg](mailto:serene_ang_wei_shan@moe.edu.sg)|
+|6|Ms Loo Xin Yi Janice<br>Mdm Ho Mun Yee|[loo_xin_yi_janice@moe.edu.sg](mailto:loo_xin_yi_janice@moe.edu.sg)<br>[ho_mun_yee@moe.edu.sg](mailto:ho_mun_yee@moe.edu.sg) |
 
 | Integrity | Primary 4 Class Mentors | Email |
 | -------- | -------- | -------- |
