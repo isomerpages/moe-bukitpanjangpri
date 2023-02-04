@@ -20,14 +20,14 @@ description: ""
 
 | Responsibility | Primary 2 Class Mentors | Email |
 | -------- | -------- | -------- |
-|1|Mdm Yeo Sze Wei <br>  Ms Ng Sin Nee<br>  Ms Chen Ying Ying|yeo_sze_wei@moe.edu.sg<br>ng_sin_nee@moe.edu.sg<br>chen_ying-ying@moe.edu.sg|
-|2|Ms Tan Swee Leng Sharon <br>  Mr Lim Lai Huat David|tan_swee_leng_sharon@moe.edu.sg<br>lim_lai_huat@moe.edu.sg|
-|3|Mdm Sapia Bte Suki	<br>  Mdm Sun Ying|sapia_suki@moe.edu.sg<br>sun_ying_a@moe.edu.sg
-|4|Ms Grant Maureen Anne<br>Ms Yoong Keng Chi|grant_maureen_anne@moe.edu.sg<br>yoong_keng_chi@moe.edu.sg|
-|5|Mdm Liew Siew Chiew	<br> Ms Ng Shee Yih Winnie|liew_siew_chiew@moe.edu.sg<br>ng_shee_yih_winnie@moe.edu.sg|
-|6|Mr Ng Peng Kuan	<br> Ms Cheng Hui Meng|ng_peng_kuan@moe.edu.sg<br>cheng_hui_meng@moe.edu.sg|
-|7|Mdm Ho Mun Yee <br> Mdm Noraishah Bte Anwar|ho_mun_yee@moe.edu.sg<br>noraishah_anwar@moe.edu.sg|
-|8|Ms Aziemah Abdul Aziz 	<br>Miss Low Duo Jia, Dorcas |aziemah_abdul_aziz@moe.edu.sg<br>low_duo_jia_dorcas@moe.edu.sg|
+|1|Mr Tan Yee Ming<br>  Mdm Tham Jing Wen|yeo_sze_wei@moe.edu.sg<br>[tan_yee_ming@moe.edu.sg](mailto:tan_yee_ming@moe.edu.sg)<br>[tham_jing_wen@moe.edu.sg](mailto:tham_jing_wen@moe.edu.sg)|
+|2|Ms Naadiah Hanim Bte Abdullah <br>  Mdm Tang Pei Wen|[naadiah_hanim_abdullah@moe.edu.sg](mailto:naadiah_hanim_abdullah@moe.edu.sg)<br>[tang_peiwen@moe.edu.sg](mailto:tang_peiwen@moe.edu.sg)|
+|3|Mdm Lydiana Bte Ramli	<br>Mdm Wong Chin Yin|[lydiana_ramli@moe.edu.sg](mailto:lydiana_ramli@moe.edu.sg)<br>[wong_chin_yin@moe.edu.sg](mailto:wong_chin_yin@moe.edu.sg)
+|4|Mrs Toh-Zhao Weini<br>Mr Muhammad Shahrilnizam Bin Mustapha|[zhao_weini@moe.edu.sg](mailto:zhao_weini@moe.edu.sg)<br>[muhammad_shahrilnizam_b_m@moe.edu.sg](mailto:muhammad_shahrilnizam_b_m@moe.edu.sg)|
+|5|Mdm Suharti Bte Hassan<br>Mdm Sun Ying|[suharti_bt_hassan@moe.edu.sg](mailto:suharti_bt_hassan@moe.edu.sg)<br>[sun_ying_a@moe.edu.sg](mailto:sun_ying_a@moe.edu.sg)|
+|6|Ms Tan Swee Leng<br> Ms Ng Li Xuan|[tan_swee_leng_sharon@moe.edu.sg](mailto:tan_swee_leng_sharon@moe.edu.sg)<br>[ng_li_xuan@moe.edu.sg](mailto:ng_li_xuan@moe.edu.sg)|
+|7|Mr Saravanan s/o Pannesilvam<br>Ms Siti Zafirah Binte Mohamed Zefri|[saravanan_pannesilvam@moe.edu.sg](mailto:saravanan_pannesilvam@moe.edu.sg)<br>[siti_zafirah_mohamed_zefri@moe.edu.sg](mailto:siti_zafirah_mohamed_zefri@moe.edu.sg)|
+|8|Mdm Lim Chiew Har Ada	<br>Ms Nandhini|[lim_chiew_har_ada@moe.edu.sg](mailto:lim_chiew_har_ada@moe.edu.sg)<br>[nandhini_raman@moe.edu.sg](mailto:nandhini_raman@moe.edu.sg)|
 
 | Compassion | Primary 3 Class Mentors | Email |
 | -------- | -------- | -------- |
