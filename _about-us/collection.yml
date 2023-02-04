@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee.md
       - School Rules.md
       - Contact Us.md
       - School Services.md
