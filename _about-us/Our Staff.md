@@ -1,6 +1,6 @@
 ---
 title: Our Staff
-permalink: /about-us/staff
+permalink: /about-us/staff/
 description: ""
 ---
 ![](/images/BPPS%20Staff%202022.png)
@@ -9,14 +9,14 @@ description: ""
 
 | Respect | Primary 1 Class Mentors | Email |
 | -------- | -------- | -------- |
-| 1 |Mr Tan Yee Ming <br> Mdm Dong Rui 	|	tan_yee_ming@moe.edu.sg <br>dong_rui@moe.edu.sg |
-|2|Ms Naadiah Hanim Bte Abdullah <br>Ms Shidy Shariani bte Mohamed Ishak| naadiah_hanim_abdullah@moe.edu.sg<br>shidy_shariani@moe.edu.sg|
-|3|Mdm Lydiana Bte Ramli	<br> Mdm Ang Wei Shan Serene |lydiana_ramli@moe.edu.sg <br>serene_ang_wei_shan@moe.edu.sg|
-|4|Mrs Toh-Zhao Weini <br> Mrs Lee Siew Siew Irene|zhao_weini@moe.edu.sg<br>lee_siew_siew_irene@moe.edu.sg |
-|5|Mdm  Eng Mei Chen <br>Mdm Wang Jing Xuan Kay	| eng_mei_chen@moe.edu.sg <br>wang_jing_xuan_kay@moe.edu.sg|
-|6|Mdm Siti Nur Iryani Bte Waled <br> Ms Ng Li Xuan|siti_nur_iryani_waled@moe.edu.sg<br>ng_li_xuan@moe.edu.sg |
-|7|Mr Saravanan s/o Pannesilvam<br>Mdm Li Wen|saravanan_pannesilvam@moe.edu.sg<br>li_wen@moe.edu.sg|
-|8|Mdm Lim Chiew Har Ada 	<br> Mdm Vanitha Arivalakan|lim_chiew_har_ada@moe.edu.sg<br>vanitha_arivalakan@moe.edu.sg|
+| 1 |Mdm Siti Noraisha Binte Mohd Noor <br> Mdm Ng Lilian|	[siti_noraisha_mohd_noor@moe.edu.sg](mailto:siti_noraisha_mohd_noor@moe.edu.sg)<br>[ng_lilian@moe.edu.sg](mailto:ng_lilian@moe.edu.sg) |
+|2|Mdm Eng Mei Chen<br>Ms Nirisha Darshani| [eng_mei_chen@moe.edu.sg](mailto:eng_mei_chen@moe.edu.sg)<br>[nirisha_darshani@moe.edu.sg](mailto:nirisha_darshani@moe.edu.sg)|
+|3|Mdm Ramlah Bte Rahmat<br>Ms Lim Pei Rou Valerie |[ramlah_rahmat@moe.edu.sg](mailto:ramlah_rahmat@moe.edu.sg)<br>[valerie_lim_pei_rou@moe.edu.sg](mailto:valerie_lim_pei_rou@moe.edu.sg)|
+|4|Ms Grant Maureen Anne<br> Ms Leow Mei Leng|[grant_maureen_anne@moe.edu.sg](mailto:grant_maureen_anne@moe.edu.sg)<br>[leow_mei_leng@moe.edu.sg](mailto:leow_mei_leng@moe.edu.sg)|
+|5|Mr Ng Peng Kuan<br>Miss Low Duo Jia, Dorcas	| [ng_peng_kuan@moe.edu.sg](mailto:ng_peng_kuan@moe.edu.sg)<br>[low_duo_jia_dorcas@moe.edu.sg](mailto:low_duo_jia_dorcas@moe.edu.sg)|
+|6|Mdm Noraishah Bte Anwar<br>Ms Cheng Hui Meng<br>Ms Ng Sin Nee|[noraishah_anwar@moe.edu.sg](mailto:noraishah_anwar@moe.edu.sg)<br>[cheng_hui_meng@moe.edu.sg](mailto:cheng_hui_meng@moe.edu.sg)<br>[ng_sin_nee@moe.edu.sg](mailto:ng_sin_nee@moe.edu.sg)|
+|7|Ms Wang Pei Shan<br>Mdm Soon Meiling|[wang_peishan@moe.edu.sg](mailto:wang_peishan@moe.edu.sg)<br>[soon_meiling@moe.edu.sg](mailto:soon_meiling@moe.edu.sg)|
+|8|Mdm Sapia Bte Suki<br> Mdm Li Wen|[sapia_suki@moe.edu.sg](mailto:sapia_suki@moe.edu.sg)<br>[li_wen@moe.edu.sg](mailto:li_wen@moe.edu.sg)|
 
 | Responsibility | Primary 2 Class Mentors | Email |
 | -------- | -------- | -------- |
