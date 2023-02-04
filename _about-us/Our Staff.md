@@ -40,12 +40,12 @@ description: ""
 
 | Integrity | Primary 4 Class Mentors | Email |
 | -------- | -------- | -------- |
-|1|Mr Teo Jia Le Jarrell<br>Mdm Ramlah Bte Rahmat|teo_jie_le_jarrell@moe.edu.sg<br>ramlah_rahmat@moe.edu.sg |
-|2|Mrs Teri Toh (Foo Siew Fong)<br> Ms Chang May Ling|foo_siew_fong@moe.edu.sg<br>chang_may_ling@moe.edu.sg|
-|3|Ms Goh Wan Ling Alina<br>Mrs Lim-Chua Tien Wee|goh_wan_ling_alina@moe.edu.sg<br>chua_tien_wee@moe.edu.sg|
-|4|Mr Pang Peng Tiong<br>Mdm Tang Pei Wen|pang_peng_tiong@moe.edu.sg<br>tang_peiwen@moe.edu.sg|
-|5|Ms Wong Lai Yoke<br>Mr Saifudin Bin Mohammed Amin|wong_lai_yoke@moe.edu.sg|saifudin_mohammed_amin@moe.edu.sg|
-|6|Mdm Idayu Bte Sokkiman<br>Mdm Wong Chin Yin|idayu_sokkiman@moe.edu.sg<br>wong_chin_yin@moe.edu.sg|
+|1|Mdm Nazreen Sultana Binte Syed Ahmed<br>Mdm Chan Meng Yin|[nazreen_sultana_syed_ahm@moe.edu.sg](mailto:nazreen_sultana_syed_ahm@moe.edu.sg)<br>[chan_meng_yin@moe.edu.sg](mailto:chan_meng_yin@moe.edu.sg) |
+|2|Mr Hasyim Tan Abdullah<br>Mrs Ang-Tan Wei Ling Rebekah<br>Mdm Wang Jing Xuan Kay|[hasyim_tan_abdullah@moe.edu.sg](mailto:hasyim_tan_abdullah@moe.edu.sg)<br>[tan_wei_ling_rebekah@moe.edu.sg](mailto:tan_wei_ling_rebekah@moe.edu.sg)<br>[wang_jing_xuan_kay@moe.edu.sg](mailto:wang_jing_xuan_kay@moe.edu.sg)|
+|3|Mrs Dhillon (Benazir Binte Mohamed Shariff)<br>Ms Gladys Zhang Shangmin|[benazir_mohamed_shariff@moe.edu.sg](mailto:benazir_mohamed_shariff@moe.edu.sg)<br>[zhang_shangmin_gladys@moe.edu.sg](mailto:zhang_shangmin_gladys@moe.edu.sg)|
+|4|Mrs Teri Toh (Foo Siew Fong)<br>Mrs Phyllis Lim<br>Mr Teo Yee Sin Mike|[foo_siew_fong@moe.edu.sg](mailto:foo_siew_fong@moe.edu.sg)<br>[liyau_poh_cheng@moe.edu.sg](mailto:liyau_poh_cheng@moe.edu.sg)<br>[teo_yee_sin@moe.edu.sg](Mailto:teo_yee_sin@moe.edu.sg)|
+|5|Ms Ng Shee Yih Winnie<br>Mdm Balvin Kuar|[ng_shee_yih_winnie@moe.edu.sg](mailto:ng_shee_yih_winnie@moe.edu.sg)<br>[Kaur_Balvin_Betermarjit_S@moe.edu.sg](mailto:Kaur_Balvin_Betermarjit_S@moe.edu.sg)|
+|6|Mr Kwan Siew Tung<br>Ms Lee Siew Siew Irene|[kwan_siew_tung@moe.edu.sg](mailto:kwan_siew_tung@moe.edu.sg)<br>[lee_siew_siew_irene@moe.edu.sg](mailto:lee_siew_siew_irene@moe.edu.sg)|
 
 | Resilience | Primary 5 Class Mentors | Email |
 | -------- | -------- | -------- |
