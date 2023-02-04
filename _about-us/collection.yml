@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Mission and Vision.md
+      - Our Beliefs.md
       - Principal's Message.md
       - Steering Committee.md
       - Our Staff.md
