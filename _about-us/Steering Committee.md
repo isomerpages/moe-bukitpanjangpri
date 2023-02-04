@@ -57,5 +57,7 @@ EAS Team
 
 | Name| Email Address | Designation|
 | -------- | -------- | -------- |
-|Mr Khoo Kay Peng|[khoo_kay_peng@moe.edu.sg](mailto:khoo_kay_peng@moe.edu.sg)|	
-Operations Manager
+|Mr Khoo Kay Peng|[khoo_kay_peng@moe.edu.sg](mailto:khoo_kay_peng@moe.edu.sg)|Operations Manager
+|Mr Chang|[chang_kim_seng@moe.edu.sg](mailto:chang_kim_seng@moe.edu.sg)|Operations Manager
+|Mdm Neo Hwee Koon|[neo_hwee_koon@schools.gov.sg](mailto:neo_hwee_koon@schools.gov.sg)|Administrative Manager
+|Ms Cheah Sin Yi|[cheah_sin_yi@schools.gov.sg](mailto:cheah_sin_yi@schools.gov.sg)|Administrative Executive
