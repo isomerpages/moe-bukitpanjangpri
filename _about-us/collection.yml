@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our History.md
+      - Our Identity.md
       - Our Beliefs.md
       - Principal's Message.md
       - Steering Committee.md
