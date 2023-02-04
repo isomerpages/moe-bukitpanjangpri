@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English/.keep
-      - English/English.md
+      - English/English Language.md
       - English/Frequently Asked Questions on the EL.md
       - English/STELLAR.md
       - English/Odyssey of the Mind.md
