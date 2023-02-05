@@ -2,5 +2,6 @@ collections:
   info-hub:
     output: true
     order:
+      - Home Based Learning.md
       - Useful Links.md
       - Calendar of Events.md
