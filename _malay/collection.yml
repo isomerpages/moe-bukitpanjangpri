@@ -2,6 +2,7 @@ collections:
   malay:
     output: true
     order:
+      - Hari Raya Celebration 2022.md
       - Inter level competitions (ML) 2021.md
       - Cultural Performance Exposure Fund (CPEF) Programme.md
       - MTL Fortnight (ML).md
