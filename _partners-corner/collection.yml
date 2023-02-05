@@ -2,7 +2,7 @@ collections:
   partners-corner:
     output: true
     order:
-      - Parent Support Group (PSG).md
       - Application Forms.md
       - BPPS Alumni.md
       - Family Matters @ School.md
+      - Parent Support Group (PSG).md
