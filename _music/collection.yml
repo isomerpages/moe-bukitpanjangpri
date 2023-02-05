@@ -2,4 +2,5 @@ collections:
   music:
     output: true
     order:
+      - Music Aesthetics Learning Journey and Assembly Programme.md
       - BPPS Showtime.md
