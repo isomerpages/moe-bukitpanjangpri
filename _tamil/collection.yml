@@ -2,5 +2,6 @@ collections:
   tamil:
     output: true
     order:
+      - Deepavali 2021.md
       - Inter class Competitions (TL) 2021.md
       - MTL Fortnight (TL).md
