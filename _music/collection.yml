@@ -1,4 +1,5 @@
 collections:
   music:
     output: true
-    order: []
+    order:
+      - BPPS Showtime.md
