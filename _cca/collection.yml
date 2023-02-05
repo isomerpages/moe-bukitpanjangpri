@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Co Curricular Activity.md
-      - Club & Societies/.keep
-      - Club & Societies/Art Club.md
-      - Club & Societies/Robotics Club.md
-      - Club & Societies/Chinese Painting.md
-      - Club & Societies/Environmental Club.md
-      - Club & Societies/Infocomm(ICC).md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Clubs & Societies/Chinese Painting.md
+      - Clubs & Societies/Environmental Club.md
+      - Clubs & Societies/Infocomm(ICC).md
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Chinese Dance.md
