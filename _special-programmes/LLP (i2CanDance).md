@@ -28,3 +28,22 @@ The school adopts a pyramid approach in promoting the arts. Through this approac
 Tier 1: I2CanDance Programme for ALL
 
 At the first tier, the programme is planned for all levels. It aims to nurture in students an appreciation for dance, deepen understanding of cultures, as well as to develop their physical, social and emotional competencies. It is also part of the school’s effort in providing a holistic education to help each student discover their talent. The table below shows the various dance module targeted at each level:
+
+![](/images/LLP2.png)
+
+Tier 2: Enrichment Programmes and Dance CCAs
+
+Talents are identified and offered the opportunity to further develop and hone their skills through programmes planned at the second tier. Students in the Dance CCAs are also given the opportunities to participate. Programmes at this level focus on further exposure to the dance form, and dedicated training to strengthen students’ abilities.
+
+  
+
+Tier 3: Competitions and Performance – Going Beyond
+
+Forming the highest tier are students who go beyond the school curriculum and enrichment programmes, to seek further opportunities to hone their talents and skills, creating for themselves another pathway to success.
+
+  
+
+Photos
+------
+
+![](/images/LLP3.png)
