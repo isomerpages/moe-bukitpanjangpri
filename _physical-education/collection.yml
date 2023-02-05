@@ -2,4 +2,5 @@ collections:
   physical-education:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - SwimSafer 2.md
