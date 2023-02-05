@@ -2,6 +2,7 @@ collections:
   physical-education:
     output: true
     order:
+      - Adventure and Leadership Camp.md
       - Sports Carnival.md
       - Programme for Active Learning (PAL).md
       - SwimSafer 2.md
