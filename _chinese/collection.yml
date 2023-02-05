@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - Chinese New Year Celebration 2022.md
       - Learning Chinese Language through the Introduction of TCM Enrichment
         Programme.md
       - Cultural Performance Exposure Scheme (CPES).md
