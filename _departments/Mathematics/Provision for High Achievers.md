@@ -1,6 +1,6 @@
 ---
 title: Provision for High Achievers
-permalink: /departments/Mathematics/Provision-for-High-Achievers
+permalink: /departments/Mathematics/Provision-for-High-Achievers/
 description: ""
 third_nav_title: Mathematics
 ---
@@ -25,14 +25,9 @@ To expose students to different types of problem-solving skills, BPPS has engage
 
 The school has carefully selected various competitions organized within Singapore. Below are the list of competitions that BPPS took part in this year.
 
-1.     Raffles Institution's Primary Mathematics World Contest (RIPMWC) 2021
-
-2.     SINGAPORE MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (SMOPS) 2021
-
-3.     HWA CHONG INFO-COMMUNICATIONS CHALLENGE (HCIC) 2021
-
-4.     River Valley Mathematics Challenge (RVMC) 2021
-
-5.     PRIMARY MATHEMATICS PROJECT COMPETITION (PMPC) 2021
-
-6.     National Mathematical Olympiad of Singapore (NMOS) 2021
+1.  Raffles Institution's Primary Mathematics World Contest (RIPMWC) 2022
+2.  Singapore Mathematical Olympiad for Primary Schools 2022
+3.  Visual Spatial Mathlympics 2022
+4.  River Valley Mathematics Challenge (RVMC) 2022
+5.  Primary Mathematics Project Competition(PMPC) 2022
+6.  National Mathematical Olympiad of Singapore (NMOS) 2022
