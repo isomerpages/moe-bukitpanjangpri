@@ -1,0 +1,4 @@
+collections:
+  arts:
+    output: true
+    order: []
