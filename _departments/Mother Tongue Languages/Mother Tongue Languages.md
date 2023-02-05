@@ -32,3 +32,19 @@ Department Members
 |Members(TL)|Mdm Nirisha Darshani
 
 ![](/images/mothertongue.png)
+
+Useful Links
+------------
+
+CL - eZhishi:  
+[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
+
+  
+
+ML - Carian Umum:  
+[https://prpm.dbp.gov.my/cari1?keyword=kamus%20online](https://prpm.dbp.gov.my/cari1?keyword=kamus%20online)
+
+  
+
+TL - Tamil Keyboard:  
+[https://www.branah.com/tamil](https://www.branah.com/tamil)
