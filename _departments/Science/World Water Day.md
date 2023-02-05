@@ -4,28 +4,14 @@ permalink: /departments/Science/World-Water-Day/
 description: ""
 third_nav_title: Science
 ---
+Every March, we dedicate planned activities to celebrate Singapore World Water Day, to pledge our national commitment to spread the word on water conservation. The Environmental Science Club students kicked off the celebration by creating their own mini rain garden to learn about the uses of ground water.
 
-United Nations has officially identified World Water Day to be held annually on 22 March as a means of focusing attention on the importance of freshwater and advocating for the sustainable management of freshwater resources. This year, BPPS started the celebration of Singapore World Water Day on 22nd March 2021 with a video focusing on raising awareness of climate change’s impacts on water security in Singapore for P3 to P6 students while the P1 and P2 students were treated to an online story telling session with “The adventures of Water Wally and Sally”.
+  
 
- 
+In line with the World Water Day theme, the Environmental Science Club students shared with their peers on ground water – making the invisible visible and the impact of climate change. Climate change brings about rising sea level and extreme weather conditions which can jeopardise our water supply. A water rationing exercise was carried out in the canteen on 23 March 2022 with the support of our PSG to remind students the importance of conserving water. The staff also supported the event by wearing blue to commemorate World Water Day.
 
-All students were invited to assess the Student Learning Space (SLS) for a range of resources and activities to learn about the different ways in which water benefits our lives, we can value water properly and safeguard it effectively for everyone. Tokens were  awarded to the lucky students who participated in the activities in each class.
+  
 
- 
+All the students were invited to learn more about the ways of conserving water via the exhibition at the canteen area and a range of different activities in the Student Learning Space (SLS). The learning package teaches them to make every drop count and to nurture water-saving habits from young. The rich learning was captured via the students’ reflections in the SLS package. Let us continue to remind the students of the different ways to conserve water in their daily lives to make every drop count.
 
-Some of the P6 students had a firsthand experience setting up their own mini filtration system and learning about the importance of the system in obtaining clean water. Some of the P3 students created their very own mini rain garden to learn about conserving water.
-
-The students had fun carrying out the activities and enjoyed the learning.
-
-
-<center>Mini Rain Garden</center>
-
-<img src="/images/water1.jpg" 
-     style="width:50%"><img src="/images/water2.jpg" 
-     style="width:50%">
-		 
-<center>Filtration System</center>
-
-<img src="/images/water1.jpg" 
-     style="width:50%"><img src="/images/water1.jpg" 
-     style="width:50%">
+![](/images/worldwater.png)
