@@ -36,5 +36,5 @@ Department Members
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-|Earth Week |	Primary 1 - 6
- |[World Water Day](/departments/Science/Singapore-World-Water-Week-2021)	|Primary 1 - 6
+|[Earth Week](/Science/Earth-Week) |	Primary 1 - 6
+ |[World Water Day](/Science/World-Water-Day)	|Primary 1 - 6
