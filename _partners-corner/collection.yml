@@ -2,9 +2,9 @@ collections:
   partners-corner:
     output: true
     order:
-      - Parents as Partners.md
-      - Family Matters @ School.md
-      - BPPS Alumni.md
       - Application Forms.md
+      - BPPS Alumni.md
+      - Family Matters @ School.md
+      - Parents as Partners.md
       - Coverage for Student Protection.md
       - Edusave Awards.md
