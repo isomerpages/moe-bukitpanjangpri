@@ -36,5 +36,5 @@ Department Members
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-|[Earth Week](/Science/Earth-Week) |	Primary 1 - 6
- |[World Water Day](/Science/World-Water-Day)	|Primary 1 - 6
+|[Earth Week](/departments/Science/Earth-Week) |	Primary 1 - 6
+ |[World Water Day](/departments/Science/World-Water-Day)	|Primary 1 - 6
