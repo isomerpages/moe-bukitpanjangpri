@@ -2,5 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - Learning Chinese Language through the Introduction of TCM Enrichment
+        Programme.md
       - Cultural Performance Exposure Scheme (CPES).md
       - Mother Tongue Languages Fortnight (CL).md
