@@ -3,25 +3,25 @@ collections:
     output: true
     order:
       - Co Curricular Activity.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Chinese Dance.md
-      - Performing Arts/Indian Dance.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/.keep
+      - Club & Society/.keep
       - Club & Society/Art Club.md
       - Club & Society/Robotics Club.md
       - Club & Society/Chinese Painting.md
       - Club & Society/Environmental Club.md
       - Club & Society/Infocomm(ICC).md
-      - Club & Society/.keep
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Modern Dance.md
+      - Sports/.keep
       - Sports/Badminton.md
       - Sports/Basketball.md
       - Sports/Football.md
       - Sports/Hockey.md
       - Sports/Table Tennis.md
       - Sports/Wushu.md
-      - Sports/.keep
+      - Uniform Group/.keep
       - Uniform Group/Red Cross Youth.md
       - Uniform Group/Scouts.md
-      - Uniform Group/.keep
