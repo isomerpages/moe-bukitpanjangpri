@@ -1,12 +1,26 @@
 ---
 title: Science
-permalink: /departments/science
+permalink: /departments/science/
 description: ""
 third_nav_title: Science
 ---
-**Who Are We**
+Overview
+--------
 
+**Vision**
 
+Have a self-inquiring mind and love for the environment.
+
+  
+
+**Mission**
+
+To care for the environment, ask questions, solve problems and develop scientific skills for life-long learning.
+
+  
+
+Department Members
+------------------
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
@@ -14,15 +28,7 @@ third_nav_title: Science
 |Level Head 	|Ms Mary Lim 
  |Members|Mrs Phyllis Lim<br>Mr Kwan Siew Tung<br>Mr Edward Lok<br>Mdm Janice Loo<br>Ms Sam Poh Fong <br>Ms  Jody Chan Pei Lai <br>Ms Yogeetha d/o Rajagopal<br>Mrs Lim-Chua Tien Wee
  
- **Vision**
  
-Have a self-inquiring mind and love for the environment.
-
-
-**Mission**
-
-To care for the environment, ask questions, solve problems and develop scientific skills for life-long learning.
-
 
 **Key Programmes**
 
@@ -30,10 +36,5 @@ To care for the environment, ask questions, solve problems and develop scientifi
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-| [Science Week](/departments/Science/Science-Week-2015) |	Primary 1 - 6
 |Earth Week |	Primary 1 - 6
  |[World Water Day](/departments/Science/Singapore-World-Water-Week-2021)	|Primary 1 - 6
- |Biodiversity Week|	Primary 1 - 6
- |[Sony Creative Science Award](/departments/Science/Sony-Creative-Science-Award)|Primary 1 - 6
- |[Learning Trip to Science Centre](/departments/Science/P4-Learning-Trip-to-the-Science-Centre)	|Primary 6
-| Performance Tasks	|Primary 3 - 4
