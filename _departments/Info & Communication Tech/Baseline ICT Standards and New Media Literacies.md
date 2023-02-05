@@ -4,14 +4,10 @@ permalink: /departments/Info-and-Communication-Tech/Baseline-ICT-Standards-and-N
 description: ""
 third_nav_title: Info & Communication Tech
 ---
+The Baseline ICT Standards and New Media Literacies (NML) is a set of ICT and literacy skills that are infused into our curriculum. Our students are taught how to apply digital tools to locate and organise information (Curate). They also use digital creation tools and applications to create digital artefacts (Create). Finally, they learn how to use digital communication tools to communicate ideas with peers and share information (Connect).
 
-**Background**
+Our ICT Experience
+------------------
 
-The International Competitions and Assessments for Schools (ICAS) are independent skills-based assessments with a competition element. Commonly referred to as the UNSW tests, ICAS is unique, being the most comprehensive generally available suite of academic assessments and school tests for primary and secondary school students.
-
- 
-
-This year, we have 152 pupils from P3 to P6 took part in ICAS.
-
-<img src="/images/2014ICASCompSkillanimatedgif.gif" 
-     style="width:70%">
+![](/images/ictstandard.png)
+![](/images/ict.png)
