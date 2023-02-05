@@ -14,7 +14,7 @@ sections:
           url: /announcement
         - title: Quick Link
           description: ""
-          url: ""
+          url: /Quick-Link
         - title: Calendar of Events
           description: ""
           url: /info-hub/Calendar-of-Events/
