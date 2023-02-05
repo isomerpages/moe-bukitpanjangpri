@@ -2,5 +2,6 @@ collections:
   special-programmes:
     output: true
     order:
+      - LLP (i2CanDance).md
       - Eco Stewardship.md
       - Positive Behaviour Support (PBS).md
