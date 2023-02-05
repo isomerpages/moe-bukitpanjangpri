@@ -33,3 +33,10 @@ For technical assistance pertaining to the use of the online portals like Studen
 | -------- | -------- | -------- |
 |eZhishi Helpdesk|	67427555
 ||[service@ecombay.com](mailto:service@ecombay.com)
+
+User Guides
+-----------
+
+|  | |
+| -------- | -------- | 
+|Infographic on Student iCON| [Student iCON - Student EDM Onboarding Introducing Student iCON](/files/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON1%20002.pdf)
