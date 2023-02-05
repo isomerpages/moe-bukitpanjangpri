@@ -1,27 +1,31 @@
 ---
 title: Information & Communication Technology
-permalink: /departments/ICT
+permalink: /departments/ICT/
 description: ""
 third_nav_title: Info & Communication Tech
 ---
-| Who We Are |  | 
-| -------- | -------- | 
-| Head of Department     | 	Ms Yoong Keng Chi   | 
-| Coordinator | Mr Ng Peng Kuan|
-|Members  | Ms Benazir Dhillon<br>Mrs Lisa Yap<br>Mdm Siti Nur Iryani<br>Mdm Chan Meng Yin<br>Mr Tan Zhuan Liang |
-|ICT Manager|Mr Muhammad Radzif Bin Anif |
-|Desktop Engineers|Mr Shahreen Bin Supaat|
+Overview
+--------
 
 **Vision**
 
 Towards Self-Directed and Collaborative Learning
 
+  
+
 **Mission**
 
-To provide every pupil an ICT-enriched learning environment to enhance their learning, invoke their intellectual curiosity and develop their SDL and COL skills to become innovative and adaptable citizens of the 21st century.
+To provide every pupil an ICT-enriched learning environment to enhance their learning, invoke their intellectual curiosity and develop their SDL and COL skills to become innovative and adaptable citizens of the 21st century.
 
-**Key Programmes:**
+Department Members
+------------------
 
+|||
+| -------- | -------- | 
+| Head of Department     | 	Ms Yoong Keng Chi   | 
+| Coordinator | Mr Ng Peng Kuan|
+|Members  | Ms Benazir Dhillon<br>Mrs Lisa Yap<br>Mdm Siti Nur Iryani<br>Mdm Chan Meng Yin<br>Mr Tan Zhuan Liang |
+|Desktop Engineers|Mr Shahreen Bin Supaat|
 
 
 | Name of Programme | Target Level | 
