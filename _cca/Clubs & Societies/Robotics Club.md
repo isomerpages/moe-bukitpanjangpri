@@ -4,24 +4,17 @@ permalink: /cca/Clubs-and-Societies/robotics-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+Background
+----------
 
+Robotics Club is relatively new CCA as it had just started in 2021. Our members are continuously engaged through playful learning activities to think critically and solve complex problems, regardless of their learning level. From easy-entry projects to limitless creative design possibilities, Robotics Club members get to learn the essential STEAM and 21st century skills needed to become the innovative minds of tomorrow... while having fun!
 
+  
 
-Being a new CCA, which embarked this year, Robotics Club started by inviting the Primary 3 students. With that, a group of 25 members started on a journey of robot building using Lego Spike Prime set which consists of colourful building elements, easy-to-use hardware, and an intuitive drag-and-drop coding language based on Scratch. Our members are continuously engaged through playful learning activities to think critically and solve complex problems, regardless of their learning level. From easy-entry projects to limitless creative design possibilities, Robotics Club members get to learn the essential STEAM and 21st century skills needed to become the innovative minds of tomorrow... while having fun!
+Achievements/ Activities
+------------------------
 
-<img src="/images/1%20(1).jpg" 
-     style="width:50%;float:left">
-<img src="/images/2%20(2).jpg" 
-     style="width:50%">
-		 <img src="/images/3%20(1).jpg" 
-     style="width:50%">
-<img src="/images/4%20(1).jpg" 
-     style="width:50%;float:left">
-		 <img src="/images/5%20(2).jpg" 
-     style="width:50%">
-		 
-<img src="/images/robot6.jpg" 
-     style="width:50%;float:left"><img src="/images/robot7.jpg" 
-     style="width:50%">
-<img src="/images/robot8.jpg" 
-     style="width:50%;float:left">![](/images/9%20(1).jpg)
+Robotics Club members embark on a journey of robot building using mBot, which they experience the joys of hands-on creation through building robot from scratch. They also continue to use Lego Spike Prime set which consists of colourful building elements, easy-to-use hardware. To put what they had learnt to use, Robotics Club members will be participating in competitions such as the National Robotics Competition.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnn78mRXOvSytwDkmDtLdIYrafDiHG7YB9tJiEGZ8Wk2C4i86K4fWmTKUL7Id2EB7LhdhJYufGlH41/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
