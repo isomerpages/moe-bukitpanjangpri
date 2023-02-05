@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /bulletin/notifications
+          url: /announcement
         - title: Quick Link
           description: ""
           url: ""
