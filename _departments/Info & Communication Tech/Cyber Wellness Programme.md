@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness Programme
-permalink: /departments/Info-and-Communication-Tech/cyber
+permalink: /departments/Info-and-Communication-Tech/cyber/
 description: ""
 third_nav_title: Info & Communication Tech
 ---
@@ -24,6 +24,7 @@ Students are encouraged to share and reflect on CW issues with their peers. For 
 ![](/images/bpps2.jpg)
 ![](/images/bpps3.png)
 
-Some useful links on CW are found below:
-1. [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
-2. [https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
+Useful Links
+
+1.  [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
+2.  [https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
