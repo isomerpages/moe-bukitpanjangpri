@@ -26,3 +26,4 @@ Activities/Achievements
 Photos
 ------
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHKTiT7OEPenckv8puXDIG6w_FLoHEWCsrnLUza7YHw4eztAvdNDqhB_PCsMeWNcPGWJ0CuA8m6c7z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
