@@ -1,0 +1,4 @@
+collections:
+  music:
+    output: true
+    order: []
