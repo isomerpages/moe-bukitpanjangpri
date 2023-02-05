@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Development Team/Gratitude @ BPPS.md
       - Student Development Team/Student Leadership Programmes.md
       - Student Development Team/Prefectorial Board.md
       - Student Development Team/Sexuality Education.md
