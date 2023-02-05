@@ -1,0 +1,4 @@
+collections:
+  malay:
+    output: true
+    order: []
