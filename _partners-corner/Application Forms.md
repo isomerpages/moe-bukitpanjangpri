@@ -1,12 +1,30 @@
 ---
 title: Application Forms
-permalink: /partners-corner/application-forms
+permalink: /partners-corner/application-forms/
 description: ""
 ---
-[PSG Membership Form](/files/PSG%20Membership%20Form.pdf)
+[BPPS Alumni Form updated June 2022](/files/BPPS%20Alumni%20Form%20updated%20June%202022.pdf)
 
-[BPPS Alumni Form updated Feb 2019](/files/BPPS%20Alumni%20Form%20updated%20Feb%202019.pdf)
+[Waiting List Application Form](/files/Waiting%20List%20Application%20Form.pdf)
 
-[Waiting List Application Form](/files/0065_001.pdf)
+Application for leave of absence
+--------------------------------
 
-[BPPS Leave of Absence Form](https://form.gov.sg/60de88ba2be3f50011b17217)
+Please click on the [link](https://form.gov.sg/#!/60de88ba2be3f50011b17217) to submit your leave of absence.
+
+  
+
+Group Personal Accident Insurance Plan
+--------------------------------------
+
+All students of BPPS are covered under the Group Personal Accident (GPA) Insurance Plan from NTUC Income.
+
+  
+
+Should there be a need to make claims, you can submit your medical expenses claims through NTUC’s e-claim portal [https://studentgpa.incomegroupins.com.sg/](https://studentgpa.incomegroupins.com.sg/).
+
+  
+
+No login user or password is required.
+
+![](/images/PSG%20registration%20QR%20code.jpeg)
