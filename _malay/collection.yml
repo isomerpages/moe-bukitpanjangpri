@@ -2,5 +2,6 @@ collections:
   malay:
     output: true
     order:
+      - Inter level competitions (ML) 2021.md
       - Cultural Performance Exposure Fund (CPEF) Programme.md
       - MTL Fortnight (ML).md
