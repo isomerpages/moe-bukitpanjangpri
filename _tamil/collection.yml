@@ -2,4 +2,5 @@ collections:
   tamil:
     output: true
     order:
+      - Inter class Competitions (TL) 2021.md
       - MTL Fortnight (TL).md
