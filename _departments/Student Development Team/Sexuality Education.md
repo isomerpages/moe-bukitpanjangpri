@@ -86,6 +86,6 @@ Information for Parents
 
 8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form, which is available [](https://www.bukitpanjangpri.moe.edu.sg/departments/student-development-team/goog_863605543) [here](https://form.gov.sg/63c61d50bef23b00115e3c4c). The completed opt-out form is to be submitted by 31/01/2023.
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form, which is available [here](https://form.gov.sg/63c61d50bef23b00115e3c4c). The completed opt-out form is to be submitted by 31/01/2023.
 
 10.      Parents can contact the school at 6769 1912 for discussion or to seek clarification about the school’s Sexuality Education programme.
