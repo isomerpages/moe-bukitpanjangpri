@@ -2,4 +2,5 @@ collections:
   malay:
     output: true
     order:
+      - Cultural Performance Exposure Fund (CPEF) Programme.md
       - MTL Fortnight (ML).md
