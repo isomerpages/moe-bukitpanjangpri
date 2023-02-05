@@ -4,11 +4,24 @@ permalink: /departments/PE-Aesthetic-and-CCA/Physical-Education-Art-and-Music/
 description: ""
 third_nav_title: PE, Art & Music
 ---
+![](/images/PE%20Art%20and%20Music%20Dept.png)
 
+Vision
+------
 
-**Who We Are** 
+*   Physically active and healthy students engaged in visual and performing arts.
 
+  
 
+Mission
+-------
+
+*   Developing our students holistically through the teaching of physical education, art & music.
+
+  
+
+Department Members
+------------------
 
 |  |  | 
 | -------- | -------- | 
