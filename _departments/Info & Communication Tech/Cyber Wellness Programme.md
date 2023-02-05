@@ -20,9 +20,8 @@ In BPPS, we aim to empower our students to become responsible digital learners. 
 
 
 Students are encouraged to share and reflect on CW issues with their peers. For students with strong communication skills and leadership potential, they may be selected as CW monitors and/or CW Ambassadors. These student leaders serve as role models and advocates in sharing the messages of CW with their peers.
-![](/images/bpps1.jpg)
-![](/images/bpps2.jpg)
-![](/images/bpps3.png)
+
+![](/images/cyber.png)
 
 Useful Links
 
