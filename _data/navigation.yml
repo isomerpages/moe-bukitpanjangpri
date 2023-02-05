@@ -6,11 +6,7 @@ links:
     collection: departments
   - title: CCA
     collection: cca
+  - title: Special Programmes
+    collection: about-us
   - title: Parents' Corner
     collection: partners-corner
-  - title: Contact Us
-    collection: contact-us
-  - title: Bulletin
-    collection: bulletin
-  - title: Home-Based Learning
-    url: /home-based-learning
