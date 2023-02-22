@@ -3,10 +3,9 @@ title: Our Identity
 permalink: /about-us/Our-Identity/
 description: ""
 ---
-History of the School
----------------------
+## History of the School
 
-### January 1932: Establishment of A New School
+#### January 1932: Establishment of A New School
 
   
 
@@ -24,7 +23,7 @@ A week after, Mrs. Downe and a teacher were transferred out because of the small
 
   
 
-### 1941- 1945: The Japanese Occupation
+#### 1941- 1945: The Japanese Occupation
 
   
 
@@ -42,7 +41,7 @@ On 12th September 1945, the war ended when the Japanese surrendered to the Briti
 
   
 
-### January 1948: Swelling Student Intake
+#### January 1948: Swelling Student Intake
 
   
 
@@ -52,7 +51,7 @@ The principal, Mr. C.A. Peterson took office and left on transfer in 1951. He wa
 
   
 
-### July 1952: A New Beginning
+#### July 1952: A New Beginning
 
   
 
@@ -62,10 +61,9 @@ To cope with the increasing demand for places, The Bukit Panjang Government Afte
 
 Her legacy lives on with our annual newsletter and commemorative anniversary magazines till now.
 
-  
+  ----------------------------------------------------------
 
-School Crest
-------------
+## School Crest
 
 The rising sun signifies youthfulness and energy, and its rays radiate our desire to strive for excellence.
 
@@ -75,9 +73,7 @@ The burning torch lights up our quest for knowledge and leads the way to wisdom 
 
 Green represents vitality and growth, yellow symbolises loyalty to the school and nation. White signifies purity and honesty.
 
-  
-
-School Song
------------
+## School Song
+[Insert song]
 
 ![](/images/School%20Song.png)
