@@ -73,6 +73,8 @@ The burning torch lights up our quest for knowledge and leads the way to wisdom 
 
 Green represents vitality and growth, yellow symbolises loyalty to the school and nation. White signifies purity and honesty.
 
+----------------------------------
+
 ## School Song
 [Insert song]
 
