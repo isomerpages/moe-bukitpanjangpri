@@ -31,10 +31,8 @@ These may include suggestions that are related to one of the four categories bel
 Procedure
 ---------
 
-Suggestions should be submitted electronically using the google form link below:
-
-[https://forms.gle/NuqGzf7arCNHgDGe8](https://forms.gle/NuqGzf7arCNHgDGe8)
-
+Suggestions should be submitted electronically using the google form link below: 
+[https://forms.gle/NuqGzf7arCNHgDGe8](https://forms.gle/NuqGzf7arCNHgDGe8) <br>
 or complete the hardcopy and submit in the BRIGHT IDEAS suggestion box located outside the Makerspace Room. 
 
   
