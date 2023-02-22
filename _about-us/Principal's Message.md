@@ -19,6 +19,5 @@ I am happy to be appointed as the Principal of Bukit Panjang Primary School. Tog
 
   
 
-Teresa Kelly Len (Mdm)
-
+Teresa Kelly Len (Mdm)<br>
 Principal
