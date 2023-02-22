@@ -10,28 +10,39 @@ Attire
 2.  All students must be in full uniform/school attire when they are in school or when attending any activities organised by the school.
 3.  All students must be in school uniform during school days except on days when they have PE, CCA and PAL.
 
-![](/images/school%20rules.png)
+|   |   | 
+| -------- | -------- |
+| Girls  | - White blouse with green pinafore of decent length (as shown in the Student’s Diary), plain white socks and shoes. <br> - Name tag is to be sewn on the left side of the green pinafore, below the school badge. <br>- No wearing of headdress. <br>- No jewellery is allowed except for small black ear studs.| 
+|Boys| - White shirt with green shorts, plain white socks and shoes. <br>- Shirt must be tucked in at all times. <br>- Name tag is to be sewn on the left side of the white shirt, along the edge of the pocket, below the school badge. <br>- No jewellery is allowed.<br>|
+|PE| - White PE T-shirt and green shorts. <br>- T-shirt must be tucked in at all times. <br> - Name tag is to be sewn on the left side of the T-shirt, below the school badge. |
 
 ![](/images/Attire.png)
+
+---------------------------------------------------------------------
+
 
 Grooming
 --------
 
-![](/images/grooming.png)
+|   |   | 
+| -------- | -------- |
+|Girls| - Girls’ hair should be neat and tidy. <br>- The fringe should not touch eyebrows. <br>- Hair should be neatly tied up using hair accessories which are black or green only. <br>- No other accessories are allowed. <br>|
+|Boys| - Male students must be clean-shaven and neat in appearance.|
+|PE| - Dyeing of hair is not allowed. <br>- Hair-styling products are only allowed to keep hair in place to look neat and tidy. <br>- Nails must be kept short, clean and not painted.|
 
 ![](/images/Grooming2.png)
+
+----------------------------------
 
 General discipline
 ------------------
 
-Attendance
+##### Attendance
 
 1.  Students must attend school daily on school days. Skipping lessons and truancy are serious offenses.
     
 
-  
-
-Conduct
+##### Conduct
 
 1.  Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
     
