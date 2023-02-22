@@ -8,8 +8,7 @@ School Leaders
 
 | Name| Email Address | Designation|
 | -------- | -------- | -------- |
-| Mdm Teresa Kelly Len     | [bpps@moe.edu.sg](mailto:bpps@moe.edu.sg)     | 	
-Principal     |
+| Mdm Teresa Kelly Len     | [bpps@moe.edu.sg](mailto:bpps@moe.edu.sg)     | 	Principal     |
 |Mrs Tan - Kay Hwee Geak|[bpps@moe.edu.sg](mailto:bpps@moe.edu.sg) |Vice Principal (Academic)
 |Mr Chan Weng Kit Mark|[bpps@moe.edu.sg](mailto:bpps@moe.edu.sg) |Vice Principal (Academic)
 
@@ -40,6 +39,9 @@ Key Personnel
 |Ms Jessica Yee|[kwai_ga_yee@moe.edu.sg](mailto:kwai_ga_yee@moe.edu.sg)|Subject Head (Partnership & Innovation)
 |Ms Valerie Teo|[valerie_teo@moe.edu.sg](mailto:valerie_teo@moe.edu.sg)|Level Head (Mathematics)
 
+-------------------------------
+
+
 ST and LT
 ---------
 
@@ -51,6 +53,9 @@ ST and LT
 |Mdm Liew Siew Chiew|[liew_siew_chiew@moe.edu.sg](mailto:liew_siew_chiew@moe.edu.sg)|Senior Teacher (CL)
 |Mr Mohd Riad|[mohd_riad@moe.edu.sg](mailto:mohd_riad@moe.edu.sg)|Lead Teacher
 |Mdm Joanne Khaw|[joanne_khaw@moe.edu.sg](mailto:joanne_khaw@moe.edu.sg)|Senior Teacher (SEN)
+
+--------------------------------------------------------------- 
+
 
 EAS Team
 --------
