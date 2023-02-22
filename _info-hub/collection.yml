@@ -2,9 +2,9 @@ collections:
   info-hub:
     output: true
     order:
-      - Resource for Parents.md
       - BRIGHT IDEAS.md
       - Edusave Awards.md
       - Home Based Learning.md
       - Useful Links.md
       - Calendar of Events.md
+      - Resource for Parents.md
