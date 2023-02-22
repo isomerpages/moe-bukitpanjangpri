@@ -27,7 +27,8 @@ Tel: 91142186 <br>
 |Operating Hours|     |
 |-----| ------|
 |Wednesday and Thursday| 8.00 a.m. to 5.30 p.m <br>
-|Friday | 8.00am to 5.00pm <br>
+|Friday | 8.00am to 5.00pm <br>| 
+|
 
   
 
