@@ -25,7 +25,7 @@ For Parents
 *   [Parents Gateway](https://pg.moe.edu.sg/faq)
 *   [BPPS Facebook Page](https://www.facebook.com/people/Bukit-Panjang-Primary-School/100063784636440/)
 
-  
+  --------------------------------------------------
 
 For Students
 ------------
@@ -35,7 +35,8 @@ For Students
 *   [Zoom (Web Version)](https://zoom.us/)
 *   [Request for Reset of iCON/SLS Account Form](https://form.gov.sg/#!/61e4c58f80623800135f5afb)
 
-  
+  --------------------------------------
+	
 
 For Staff
 ---------
@@ -48,12 +49,12 @@ For Staff
 *   [iExams](https://iexams.seab.gov.sg/)
 *   [Resource Booking](https://rbs.avero-tech.com/)
 
-  
+------------------------------------------------------  
 
 Cyber Wellness
 --------------
 
-P1 and above
+##### **P1 and above**
 
 [Cyber Safety Kids: Monitor Your Online Activity - YouTube](https://www.youtube.com/watch?v=38a88qFJLpE)
 
@@ -63,7 +64,7 @@ P1 and above
 
   
 
-P3 and above
+##### **P3 and above**
 
 [Cyber Sandra's Hacks - Strong Passwords - YouTube](https://www.youtube.com/watch?v=7ya1t51lIcQ)
 
@@ -91,7 +92,7 @@ P3 and above
 
   
 
-P5 and above
+##### **P5 and above**
 
 [https://youtu.be/cKUeW7Laqis](https://youtu.be/cKUeW7Laqis)
 
