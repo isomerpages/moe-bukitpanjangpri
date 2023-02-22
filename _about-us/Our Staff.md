@@ -20,7 +20,7 @@ description: ""
 
 | Responsibility | Primary 2 Class Mentors | Email |
 | -------- | -------- | -------- |
-|1|Mr Tan Yee Ming<br>  Mdm Tham Jing Wen|yeo_sze_wei@moe.edu.sg<br>[tan_yee_ming@moe.edu.sg](mailto:tan_yee_ming@moe.edu.sg)<br>[tham_jing_wen@moe.edu.sg](mailto:tham_jing_wen@moe.edu.sg)|
+|1|Mr Tan Yee Ming<br>  Mdm Tham Jing Wen|[tan_yee_ming@moe.edu.sg](mailto:tan_yee_ming@moe.edu.sg)<br>[tham_jing_wen@moe.edu.sg](mailto:tham_jing_wen@moe.edu.sg)|
 |2|Ms Naadiah Hanim Bte Abdullah <br>  Mdm Tang Pei Wen|[naadiah_hanim_abdullah@moe.edu.sg](mailto:naadiah_hanim_abdullah@moe.edu.sg)<br>[tang_peiwen@moe.edu.sg](mailto:tang_peiwen@moe.edu.sg)|
 |3|Mdm Lydiana Bte Ramli	<br>Mdm Wong Chin Yin|[lydiana_ramli@moe.edu.sg](mailto:lydiana_ramli@moe.edu.sg)<br>[wong_chin_yin@moe.edu.sg](mailto:wong_chin_yin@moe.edu.sg)
 |4|Mrs Toh-Zhao Weini<br>Mr Muhammad Shahrilnizam Bin Mustapha|[zhao_weini@moe.edu.sg](mailto:zhao_weini@moe.edu.sg)<br>[muhammad_shahrilnizam_b_m@moe.edu.sg](mailto:muhammad_shahrilnizam_b_m@moe.edu.sg)|
@@ -64,4 +64,3 @@ description: ""
 |4|Ms Goh Wan Ling Alina<br>Mr Tan Guan Heng|[goh_wan_ling_alina@moe.edu.sg](mailto:goh_wan_ling_alina@moe.edu.sg)<br>[tan_guan_heng@moe.edu.sg](mailto:tan_guan_heng@moe.edu.sg)|
 |5|Mr Peter Chutatape<br>Mdm Liew Siew Chiew|[peter_chutatape@moe.edu.sg](mailto:peter_chutatape@moe.edu.sg)<br>[liew_siew_chiew@moe.edu.sg](mailto:liew_siew_chiew@moe.edu.sg)|
 |6|Ms Sam Poh Fong<br>Ms Yoong Keng Chi|[sam_poh_fong@moe.edu.sg](mailto:sam_poh_fong@moe.edu.sg)<br>[yoong_keng_chi@moe.edu.sg](mailto:yoong_keng_chi@moe.edu.sg)|
-
