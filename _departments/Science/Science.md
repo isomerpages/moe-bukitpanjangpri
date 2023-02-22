@@ -22,7 +22,7 @@ To care for the environment, ask questions, solve problems and develop scientifi
 Department Members
 ------------------
 
-| Column 1 | Column 2 | 
+| | | 
 | -------- | -------- | 
 | Head of Department	| Ms Chang May Ling
 |Level Head(science)|Ms Mary Lim 
