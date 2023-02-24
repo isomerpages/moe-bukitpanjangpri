@@ -7,7 +7,7 @@ third_nav_title: Clubs & Societies
 Background
 ----------
 
-The Art and Crafts Club is a platform that allows students interested in Art to further pursue their passion for Art beyond the regular Art classroom. Through each session, we hope to instil the passion for art making and widen students’ exposure to different kinds of Art forms. Students are also taught Art skills and knowledge such as Elements of Art and Principles of Design to deepen their understanding of Art. During Art making, they also learn proper studio habits that help them to manage their own work space and be a responsible student artist. In doing the different art projects, students are not just encouraged to work independently but also collaboratively, which in turn helps to instil the 21st&nbsp;Century Competencies such as self-management and relationship management.
+The Art and Crafts Club is a platform that allows students interested in Art to further pursue their passion for Art beyond the regular Art classroom. Through each session, we hope to instil the passion for art making and widen students’ exposure to different kinds of Art forms. Students are also taught Art skills and knowledge such as Elements of Art and Principles of Design to deepen their understanding of Art. During Art making, they also learn proper studio habits that help them to manage their own work space and be a responsible student artist. In doing the different art projects, students are not just encouraged to work independently but also collaboratively, which in turn helps to instil the 21st Century Competencies such as self-management and relationship management.
 
   
 
