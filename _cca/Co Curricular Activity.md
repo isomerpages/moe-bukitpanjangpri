@@ -34,8 +34,8 @@ BPPS follows a set of principles when designing and implementing the CCA program
 *   Provide social bonding and integration
 *   Consider available resources and safety
 
-**CCA in BPPS**
-
+CCA in BPPS
+------------------
 
 
 | Performing Arts | Club & Society | Sports | Uniform Group
