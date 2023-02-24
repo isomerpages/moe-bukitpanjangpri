@@ -76,6 +76,6 @@ Green represents vitality and growth, yellow symbolises loyalty to the school an
 ----------------------------------
 
 ## School Song
-[Insert song]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_z6jitTqlRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![](/images/School%20Song.png)
