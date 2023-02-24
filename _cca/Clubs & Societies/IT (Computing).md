@@ -21,7 +21,11 @@ These programmes are designed to be engaging and fun for our students to learn s
 
 Activities/Achievements
 -----------------------
-![](/images/IT.png)
+|Competition| Date| Achievements|
+|----|----|----|
+|DJI Online Robomaster Challenge| April 2022| 9th and 29 position out of 625 participants|
+|Coding Olympics Singapore 2022| 1 to 7 August 2022     |
+|DJI RoboMaster Youth Championship 2022 Singapore| 9, 16, 23 and 24 July| 3rd Runner-up (Primary Category)||
 
 Photos
 ------
