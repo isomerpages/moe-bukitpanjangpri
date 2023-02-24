@@ -4,7 +4,6 @@ permalink: /cca/Uniform-Group/Red-Cross-Youth/
 description: ""
 third_nav_title: Uniformed Group
 ---
-
 In Bukit Panjang Primary School, Red Cross is one of the co-curricular activities (CCA) which aims to combine character-building, leadership, essential life-saving skills and blood donation knowledge and local community service in its curriculum. Included in the curriculum is the Red Cross ethos and service to humanity as a core focus.
 
 Members visit Red Cross Home for the Disabled and other homes such as Sasco Evergreen. For this special year, we created cards and made a video for them to watch due to the current Covid-19 situation.
