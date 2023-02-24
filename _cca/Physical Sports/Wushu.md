@@ -24,7 +24,13 @@ Achievements
 
 3 of our WUSHU school team members represented our school in the&nbsp;**National School Games Wushu Competition 2022**&nbsp;and all of them did our school proud by clinching the following awards:
 
-![](/images/wushu.png)
+|Name of Student| Event (Senior Boys & Girls) | Award|
+|----|----|---|
+|Lee Jia Xuan| 4-Duan Spear| 6th|
+|Chua Jun Feng Clement| 24- Style Taijiquan| 3rd|
+|Tan En Kai| 1st International Broadsword| 4th|
+|Tan En Kai| 1st International Changquan| 3rd|
+|
 
 Photos
 ------
