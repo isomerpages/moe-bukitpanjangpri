@@ -14,9 +14,13 @@ BPPS Basketball aims to develop students' skills in basketball, teach values and
 Activities/Achievements
 -----------------------
 
-Training schedule
+##### **Training schedule**
 
-![](/images/basketschedule.png)
+|Day|Team| Start| End |
+|-----|-----|------|----|
+|Monday|Boys| 2 p.m. | 4.30 p.m.|
+|Tuesday|Girls| 2 p.m. | 4.30 p.m.|
+|Wednesday| Boys and Girls|  2 p.m. | 4.30 p.m.|
 
 Photos
 ------
