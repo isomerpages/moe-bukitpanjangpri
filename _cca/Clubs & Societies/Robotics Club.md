@@ -17,4 +17,3 @@ Achievements/ Activities
 Robotics Club members embark on a journey of robot building using mBot, which they experience the joys of hands-on creation through building robot from scratch. They also continue to use Lego Spike Prime set which consists of colourful building elements, easy-to-use hardware. To put what they had learnt to use, Robotics Club members will be participating in competitions such as the National Robotics Competition.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnn78mRXOvSytwDkmDtLdIYrafDiHG7YB9tJiEGZ8Wk2C4i86K4fWmTKUL7Id2EB7LhdhJYufGlH41/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
