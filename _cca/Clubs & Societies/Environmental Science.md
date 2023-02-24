@@ -26,14 +26,14 @@ These objectives will help to develop good habits of mind and character.
 
 **Some activities that the students participated in:**
 
-Production of eco-enzymes using orange / tangerine peels
+* Production of eco-enzymes using orange / tangerine peels
 
 ![](/images/environmentsci.png)
 
-Harvesting of hydroponics crops
+* Harvesting of hydroponics crops
 
 ![](/images/environmentsci2.png)
 
-Upcycling of milk bottles to become green planters
+* Upcycling of milk bottles to become green planters
 
 ![](/images/environmentsci3.png)
