@@ -41,11 +41,11 @@ CCA in BPPS
 | Performing Arts | Club & Society | Sports | Uniform Group
 | -------- | -------- | -------- | -------- | 
 | [Concert Band](/cca/Performing-Arts/concert-band)  | [Arts and Crafts](/cca/Club-and-Society/art-club)    | [Badminton](/cca/sports/badminton) | [Red Cross Youth](/cca/uniform-group/red-cross-youth)
-| [Choir](/cca/Performing-Arts/choir) | [undefined](/cca/Club-and-Society/robotics-club) | [Basketball](/cca/sports/basketball) | [Scouts](/cca/uniform-group/scouts)| 
+| [Choir](/cca/Performing-Arts/choir) | [Robotics Club](/cca/Club-and-Society/robotics-club) | [Basketball](/cca/sports/basketball) | [Scouts](/cca/uniform-group/scouts)| 
 | [Chinese Dance](/cca/Performing-Arts/chinese-dance) | [Chinese Painting](/cca/Club-and-Society/chinese-painting) | [Football](/cca/sports/football) | |
-| [Chinese Drums](/cca/Performing-Arts/chinese-drums) | [English Drama](/cca/Club-and-Society/english-drama) | [Hockey](/cca/sports/hockey) | | 
-| [Indian Dance ](/cca/Performing-Arts/indian-dance) | [Environmental Science](/cca/Club-and-Society/environmental-club) | [Table Tennis](/cca/sports/table-tennis) | |
-| [Malay Dance](/cca/Performing-Arts/malay-dance) | [IT (computing)](/cca/Club-and-Society/infocomm-icc)| [Wushu](/cca/sports/Wushu) | |
-|[Modern Dance](/cca/Performing-Arts/modern-dance)|  |||
+| [Festive Drums](/cca/Performing-Arts/festive-drums) | [IT (Computing)](/cca/Club-and-Society/infocomm-icc) | [Hockey](/cca/sports/hockey) | | 
+| [Modern Dance](/cca/Performing-Arts/modern-dance) | [Environmental Science](/cca/Club-and-Society/environmental-club) | [Table Tennis](/cca/sports/table-tennis) | |
+|  | | [Wushu](/cca/sports/Wushu) | |
+||  |||
 
 [CCA @ BPPS Photo Gallery](https://www.flickr.com/photos/124355832@N02/collections)
