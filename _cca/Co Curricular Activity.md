@@ -21,7 +21,8 @@ The **Visual and Performing Arts** instil in students a sense of graciousness 
 
 **Clubs and Societies** allow students to explore and extend their interest in wide ranging and specialised areas which may be knowledge-based or skill-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
 
-  
+  --------------------------------------------------
+
 
 Guiding Principles
 ------------------
@@ -33,6 +34,8 @@ BPPS follows a set of principles when designing and implementing the CCA program
 *   Provide challenge and enjoyment
 *   Provide social bonding and integration
 *   Consider available resources and safety
+
+-------------------------------------
 
 CCA in BPPS
 ------------------
@@ -48,4 +51,3 @@ CCA in BPPS
 |  | | [Wushu](/cca/sports/Wushu) | |
 ||  |||
 
-[CCA @ BPPS Photo Gallery](https://www.flickr.com/photos/124355832@N02/collections)
