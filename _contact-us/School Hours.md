@@ -1,6 +1,6 @@
 ---
 title: School Hours
-permalink: /contact-us/school-hours
+permalink: /contact-us/school-hours/
 description: ""
 ---
 **School Hours**

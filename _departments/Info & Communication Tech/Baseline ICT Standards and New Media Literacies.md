@@ -1,6 +1,6 @@
 ---
 title: Baseline ICT Standards and New Media Literacies
-permalink: /departments/Info-and-Communication-Tech/Baseline-ICT-Standards-and-New-Media-Literacies/
+permalink: /departments/info-and-communication-tech/baseline-ict-standards-and-new-media-literacies/
 description: ""
 third_nav_title: Info & Communication Tech
 ---

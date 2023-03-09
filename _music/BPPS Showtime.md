@@ -1,6 +1,6 @@
 ---
 title: BPPS Showtime
-permalink: /music/BPPS-Showtime/
+permalink: /music/bpps-showtime/
 description: ""
 ---
 BPPS Showtime is a non-competitive platform for pupils to showcase their diverse talents in the Aesthetics during recess. Through this platform, we aim to foster a vibrant Music performing culture in the school.

@@ -1,6 +1,6 @@
 ---
 title: Art Aesthetics Learning Journey and Assembly Programme
-permalink: /arts/Art-Aesthetics-Learning-Journey-and-Assembly-Programme/
+permalink: /arts/art-aesthetics-learning-journey-and-assembly-programme/
 description: ""
 ---
 P2 Virtual Learning Journey - Art by the Bay

@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /departments/Student-Development-Team/Sexuality-Education/
+permalink: /departments/student-development-team/sexuality-education/
 description: ""
 third_nav_title: Student Development Team
 ---

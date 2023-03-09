@@ -1,6 +1,6 @@
 ---
 title: Eco Stewardship
-permalink: /special-programmes/Eco-Stewardship/
+permalink: /special-programmes/eco-stewardship/
 description: ""
 ---
 Background and Objectives

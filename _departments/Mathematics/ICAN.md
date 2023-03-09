@@ -1,6 +1,6 @@
 ---
 title: ICAN
-permalink: /departments/Mathematics/ICAN
+permalink: /departments/mathematics/ican/
 description: ""
 third_nav_title: Mathematics
 ---

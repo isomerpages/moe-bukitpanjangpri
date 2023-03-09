@@ -1,6 +1,6 @@
 ---
 title: Positive Behaviour Support
-permalink: /departments/Student-Development-Team/Positive-Behaviour-Support/
+permalink: /departments/student-development-team/positive-behaviour-support/
 description: ""
 third_nav_title: Student Development Team
 ---

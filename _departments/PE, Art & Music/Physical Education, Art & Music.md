@@ -1,6 +1,6 @@
 ---
 title: Physical Education, Art & Music
-permalink: /departments/PE-Aesthetic-and-CCA/Physical-Education-Art-and-Music/
+permalink: /departments/pe-aesthetic-and-cca/physical-education-art-and-music/
 description: ""
 third_nav_title: PE, Art & Music
 ---

@@ -1,6 +1,6 @@
 ---
 title: School Services
-permalink: /contact-us/school-services
+permalink: /contact-us/school-services/
 description: ""
 ---
 Nascans@Bukit Panjang Student Care Centre

@@ -1,6 +1,6 @@
 ---
 title: Hari Raya Celebration 2022
-permalink: /malay/Hari-Raya-Celebration-2022/
+permalink: /malay/hari-raya-celebration-2022/
 description: ""
 ---
 After two years of online celebrations, students finally get to celebrate Hari Raya with a physical concert on Monday, 9 May, in the school hall.

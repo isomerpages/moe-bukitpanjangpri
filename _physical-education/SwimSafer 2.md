@@ -1,6 +1,6 @@
 ---
 title: SwimSafer 2
-permalink: /physical-education/SwimSafer-2/
+permalink: /physical-education/swimsafer-2/
 description: ""
 ---
 As part of the school’s programme to provide basic water confidence and personal water safety, we will be embarking on the SwimSafer 2.0 programme. Students will learn the essentials of water safety, survival and basic swimming skills.

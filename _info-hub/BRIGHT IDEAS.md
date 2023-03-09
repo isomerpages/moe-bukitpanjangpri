@@ -1,6 +1,6 @@
 ---
 title: BRIGHT IDEAS
-permalink: /info-hub/BRIGHT-IDEAS/
+permalink: /info-hub/bright-ideas/
 description: ""
 ---
 ![](/images/BISIS.png)

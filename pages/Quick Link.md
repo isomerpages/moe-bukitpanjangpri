@@ -1,6 +1,6 @@
 ---
 title: Quick Link
-permalink: /Quick-Link/
+permalink: /quick-link/
 description: ""
 ---
 *   [SLS](https://vle.learning.moe.edu.sg/login)

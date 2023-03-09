@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activity
-permalink: /cca/CCA/
+permalink: /cca/cca/
 description: ""
 ---
 CCA is an integral component to the holistic development of students in Bukit Panjang Primary School. Through CCA, students are provided with varied and authentic opportunities to develop character and competencies that are critical for students to meet the emerging challenges of the 21st Century.
@@ -44,10 +44,10 @@ CCA in BPPS
 | Performing Arts | Club & Society | Sports | Uniform Group
 | -------- | -------- | -------- | -------- | 
 | [Concert Band](/cca/Performing-Arts/concert-band)  | [Arts and Crafts](/cca/Club-and-Society/art-club)    | [Badminton](/cca/sports/badminton) | [Red Cross Youth](/cca/uniform-group/red-cross-youth)
-| [Choir](/cca/Performing-Arts/choir) | [Robotics Club](/cca/Club-and-Society/robotics-club) | [Basketball](/cca/sports/basketball) | [Scouts](/cca/uniform-group/scouts)| 
-| [Chinese Dance](/cca/Performing-Arts/chinese-dance) | [Chinese Painting](/cca/Club-and-Society/chinese-painting) | [Football](/cca/sports/football) | |
+| [Choir](/cca/performing-arts/choir) | [Robotics Club](/cca/Club-and-Society/robotics-club) | [Basketball](/cca/sports/basketball) | [Scouts](/cca/uniform-group/scouts)| 
+| [Chinese Dance](/cca/performing-arts/chinese-dance) | [Chinese Painting](/cca/Club-and-Society/chinese-painting) | [Football](/cca/sports/football) | |
 | [Festive Drums](/cca/Performing-Arts/festive-drums) | [IT (Computing)](/cca/Club-and-Society/infocomm-icc) | [Hockey](/cca/sports/hockey) | | 
-| [Modern Dance](/cca/Performing-Arts/modern-dance) | [Environmental Science](/cca/Club-and-Society/environmental-club) | [Table Tennis](/cca/sports/table-tennis) | |
+| [Modern Dance](/cca/performing-arts/modern-dance) | [Environmental Science](/cca/Club-and-Society/environmental-club) | [Table Tennis](/cca/sports/table-tennis) | |
 |  | | [Wushu](/cca/sports/Wushu) | |
 ||  |||
 

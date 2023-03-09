@@ -1,6 +1,6 @@
 ---
 title: Hockey
-permalink: /cca/Sports/hockey/
+permalink: /cca/sports/hockey/
 description: ""
 third_nav_title: Physical Sports
 ---

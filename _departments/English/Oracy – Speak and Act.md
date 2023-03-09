@@ -1,6 +1,6 @@
 ---
 title: Oracy – Speak and Act
-permalink: /departments/English/Oracy-Speak-and-Act/
+permalink: /departments/english/oracy-speak-and-act/
 description: ""
 third_nav_title: English
 ---

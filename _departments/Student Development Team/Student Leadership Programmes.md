@@ -1,6 +1,6 @@
 ---
 title: Student Leadership Programmes
-permalink: /departments/Student-Development-Team/Student-Leadership-Programmes/
+permalink: /departments/student-development-team/student-leadership-programmes/
 description: ""
 third_nav_title: Student Development Team
 ---

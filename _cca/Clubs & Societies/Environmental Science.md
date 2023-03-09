@@ -1,6 +1,6 @@
 ---
 title: Environmental Science
-permalink: /cca/Clubs-and-Societies/environmental-science/
+permalink: /cca/clubs-and-societies/environmental-science/
 description: ""
 third_nav_title: Clubs & Societies
 ---

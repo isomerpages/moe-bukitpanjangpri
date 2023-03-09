@@ -1,6 +1,6 @@
 ---
 title: ALP (CARE)
-permalink: /special-programmes/ALP-CARE/
+permalink: /special-programmes/alp-care/
 description: ""
 ---
 Applied Learning Programme - CAR2E

@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /departments/PE-Art-and-Music/Music/
+permalink: /departments/pe-art-and-music/music/
 description: ""
 third_nav_title: PE, Art & Music
 ---

@@ -1,6 +1,6 @@
 ---
 title: Parent Child Reading Packages
-permalink: /departments/Mother-Tongue-Languages/Parent-Child-Reading-Packages
+permalink: /departments/mother-tongue-languages/parent-child-reading-packages/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---

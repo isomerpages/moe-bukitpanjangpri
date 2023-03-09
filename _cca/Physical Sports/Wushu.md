@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /cca/Sports/wushu/
+permalink: /cca/sports/wushu/
 description: ""
 third_nav_title: Physical Sports
 ---

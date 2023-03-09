@@ -1,6 +1,6 @@
 ---
 title: Festive Drums
-permalink: /cca/Performing-Arts/Festive-Drums/
+permalink: /cca/performing-arts/festive-drums/
 description: ""
 third_nav_title: Performing Arts
 ---

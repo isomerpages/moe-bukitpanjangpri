@@ -1,6 +1,6 @@
 ---
 title: Learning Chinese Language through the Introduction of TCM Enrichment Programme
-permalink: /chinese/Learning-Chinese-Language-through-the-Introduction-of-TCM-Enrichment-Programme/
+permalink: /chinese/learning-chinese-language-through-the-introduction-of-tcm-enrichment-programme/
 description: ""
 ---
 This programme aims to spark students' interest in learning Chinese language and culture through the introduction of Traditional Chinese Medicine.

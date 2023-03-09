@@ -1,6 +1,6 @@
 ---
 title: LSM Programme
-permalink: /departments/Mathematics/LSM
+permalink: /departments/mathematics/lsm/
 description: ""
 third_nav_title: Mathematics
 ---

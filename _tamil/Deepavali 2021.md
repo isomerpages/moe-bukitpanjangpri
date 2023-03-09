@@ -1,6 +1,6 @@
 ---
 title: Deepavali 2021
-permalink: /tamil/Deepavali-2021/
+permalink: /tamil/deepavali-2021/
 description: ""
 ---
 Deepavali, also known as the “Festival of Lights”, is a joyous occasion celebrated by Hindus across the world. BPPS's Deepavali celebration took place on Monday 8 November 2021.

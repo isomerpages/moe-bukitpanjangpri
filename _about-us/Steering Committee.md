@@ -1,6 +1,6 @@
 ---
 title: Steering Committee
-permalink: /about-us/Steering-Committee/
+permalink: /about-us/steering-committee/
 description: ""
 ---
 School Leaders

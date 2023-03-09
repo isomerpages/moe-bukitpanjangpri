@@ -1,6 +1,6 @@
 ---
 title: Earth Week
-permalink: /departments/Science/Earth-Week/
+permalink: /departments/science/earth-week/
 description: ""
 third_nav_title: Science
 ---

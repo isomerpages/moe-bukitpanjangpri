@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year Celebration 2022
-permalink: /chinese/Chinese-New-Year-Celebration-2022/
+permalink: /chinese/chinese-new-year-celebration-2022/
 description: ""
 ---
 We celebrated Chinese New Year with a special appearance of the God of Fortune and the long missed lion dance, specially performed by our students.

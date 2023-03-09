@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /departments/English/English-Language/
+permalink: /departments/english/english-language/
 description: ""
 third_nav_title: English
 ---

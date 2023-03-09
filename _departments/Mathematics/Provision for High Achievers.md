@@ -1,6 +1,6 @@
 ---
 title: Provision for High Achievers
-permalink: /departments/Mathematics/Provision-for-High-Achievers/
+permalink: /departments/mathematics/provision-for-high-achievers/
 description: ""
 third_nav_title: Mathematics
 ---

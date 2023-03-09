@@ -1,6 +1,6 @@
 ---
 title: Inter class Competitions (TL) 2021
-permalink: /tamil/Inter-class-Competitions-TL-2021/
+permalink: /tamil/inter-class-competitions-tl-2021/
 description: ""
 ---
 The inter-class Tamil Competitions, Thiran Medai-திறன் மேடை, are held with the aim to develop students' interest in speaking the Tamil Language, encourage the use of Tamil Language through various competitions and provide students a platform to showcase their talents.

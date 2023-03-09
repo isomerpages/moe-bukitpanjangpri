@@ -1,6 +1,6 @@
 ---
 title: Art and Crafts
-permalink: /cca/Clubs-and-Societies/art-and-crafts/
+permalink: /cca/clubs-and-societies/art-and-crafts/
 description: ""
 third_nav_title: Clubs & Societies
 ---

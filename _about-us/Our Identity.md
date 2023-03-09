@@ -1,6 +1,6 @@
 ---
 title: Our Identity
-permalink: /about-us/Our-Identity/
+permalink: /about-us/our-identity/
 description: ""
 ---
 ## History of the School

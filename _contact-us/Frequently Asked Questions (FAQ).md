@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (FAQ)
-permalink: /contact-us/frequently-asked-questions
+permalink: /contact-us/frequently-asked-questions/
 description: ""
 ---
 1\. What do I need to do to transfer my child to your school?

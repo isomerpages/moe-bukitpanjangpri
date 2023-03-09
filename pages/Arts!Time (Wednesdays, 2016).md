@@ -1,6 +1,6 @@
 ---
 title: Arts!Time (Wednesdays, 2016)
-permalink: /arts-time-wednesday
+permalink: /arts-time-wednesday/
 description: ""
 ---
 <img src="/images/IMG-20160309-WA0025.jpg" 

@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /departments/Mother-Tongue-Languages/Mother-Tongue-Languages/
+permalink: /departments/mother-tongue-languages/mother-tongue-languages/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---

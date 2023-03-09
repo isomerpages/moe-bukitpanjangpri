@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /info-hub/HBL/
+permalink: /info-hub/hbl/
 description: ""
 ---
 Useful Links for HBL

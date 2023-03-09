@@ -1,6 +1,6 @@
 ---
 title: English Language Fortnight
-permalink: /departments/English/English-Language-Fortnight/
+permalink: /departments/english/english-language-fortnight/
 description: ""
 third_nav_title: English
 ---

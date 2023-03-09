@@ -37,5 +37,5 @@ Members|Mrs Phyllis Lim<br>Mr Kwan Siew Tung<br>Mr Edward Lok<br>Mdm Janice Loo<
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-|[Earth Week](/departments/Science/Earth-Week) |	Primary 1 - 6
- |[World Water Day](/departments/Science/World-Water-Day)	|Primary 1 - 6
+|[Earth Week](/departments/science/earth-week) |	Primary 1 - 6
+ |[World Water Day](/departments/science/world-water-day)	|Primary 1 - 6

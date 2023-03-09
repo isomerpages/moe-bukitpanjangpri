@@ -1,6 +1,6 @@
 ---
 title: Prefectorial Board
-permalink: /departments/Student-Development-Team/Prefectorial-Board/
+permalink: /departments/student-development-team/prefectorial-board/
 description: ""
 third_nav_title: Student Development Team
 ---

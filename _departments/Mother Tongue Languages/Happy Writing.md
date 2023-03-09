@@ -1,6 +1,6 @@
 ---
 title: Happy Writing
-permalink: /departments/Mother-Tongue-Languages/Happy-Writing
+permalink: /departments/mother-tongue-languages/happy-writing/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---

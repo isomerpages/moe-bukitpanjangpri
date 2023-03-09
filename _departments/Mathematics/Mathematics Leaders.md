@@ -1,6 +1,6 @@
 ---
 title: Mathematics Leaders
-permalink: /departments/Mathematics/Mathematics-Leaders/
+permalink: /departments/mathematics/mathematics-leaders/
 description: ""
 third_nav_title: Mathematics
 ---

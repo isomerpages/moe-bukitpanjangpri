@@ -1,6 +1,6 @@
 ---
 title: ICT @ Math
-permalink: /departments/Mathematics/ICT-at-Math
+permalink: /departments/mathematics/ict-at-math/
 description: ""
 third_nav_title: Mathematics
 ---

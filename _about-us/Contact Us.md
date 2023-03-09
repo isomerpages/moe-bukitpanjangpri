@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /about-us/Contact-Us/
+permalink: /about-us/contact-us/
 description: ""
 ---
 ## Bukit Panjang Primary School

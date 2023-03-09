@@ -1,6 +1,6 @@
 ---
 title: Adventure and Leadership Camp
-permalink: /physical-education/Adventure-and-Leadership-Camp/
+permalink: /physical-education/adventure-and-leadership-camp/
 description: ""
 ---
 **Purpose of the programme**

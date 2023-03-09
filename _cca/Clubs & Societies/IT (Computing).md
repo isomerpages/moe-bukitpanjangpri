@@ -1,6 +1,6 @@
 ---
 title: IT (Computing)
-permalink: /cca/Clubs-and-Societies/IT-Computing/
+permalink: /cca/clubs-and-societies/it-computing/
 description: ""
 third_nav_title: Clubs & Societies
 ---

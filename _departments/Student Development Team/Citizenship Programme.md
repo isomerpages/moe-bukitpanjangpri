@@ -1,6 +1,6 @@
 ---
 title: Citizenship Programme
-permalink: /departments/Student-Development-Team/Citizenship-Programme/
+permalink: /departments/student-development-team/citizenship-programme/
 description: ""
 third_nav_title: Student Development Team
 ---

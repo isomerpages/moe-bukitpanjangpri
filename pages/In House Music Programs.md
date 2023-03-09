@@ -1,6 +1,6 @@
 ---
 title: In House Music Programs
-permalink: /in-house-music-programs
+permalink: /in-house-music-programs/
 description: ""
 ---
 <img src="/images/music%20in%20house.jpg" 

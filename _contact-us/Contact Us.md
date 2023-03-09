@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us/contact-us
+permalink: /contact-us/contact-us/
 description: ""
 ---
 Feel free to contact us if you have any queries:

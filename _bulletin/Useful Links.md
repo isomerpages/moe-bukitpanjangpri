@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /bulletin/useful-links
+permalink: /bulletin/useful-links/
 description: ""
 ---
 **For Parents**

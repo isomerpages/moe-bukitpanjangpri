@@ -1,6 +1,6 @@
 ---
 title: BISIS
-permalink: /bulletin/bisis
+permalink: /bulletin/bisis/
 description: ""
 ---
 **BRIGHT IDEAS – Student Innovation Scheme (BISIS)**

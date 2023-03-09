@@ -1,6 +1,6 @@
 ---
 title: Learning Support Programme
-permalink: /departments/English/Learning-Support-Programme/
+permalink: /departments/english/learning-support-programme/
 description: ""
 third_nav_title: English
 ---

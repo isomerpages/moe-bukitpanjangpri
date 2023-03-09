@@ -1,6 +1,6 @@
 ---
 title: Our Beliefs
-permalink: /about-us/Our-Beliefs/
+permalink: /about-us/our-beliefs/
 description: ""
 ---
 ## Vision

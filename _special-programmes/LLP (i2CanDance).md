@@ -1,6 +1,6 @@
 ---
 title: LLP (i2CanDance)
-permalink: /special-programmes/LLP-i2CanDance/
+permalink: /special-programmes/llp-i2candance/
 description: ""
 ---
 Background and Objectives

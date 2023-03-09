@@ -1,6 +1,6 @@
 ---
 title: Notifications
-permalink: /bulletin/notifications
+permalink: /bulletin/notifications/
 description: ""
 ---
 [P5 EL Parent sharing Comprehension Open-ended](/files/P5%20EL%20Parent%20sharing%20Comprehension%20Open-ended.pdf)

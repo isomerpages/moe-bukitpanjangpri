@@ -1,6 +1,6 @@
 ---
 title: Robotics Club
-permalink: /cca/Clubs-and-Societies/robotics-club/
+permalink: /cca/clubs-and-societies/robotics-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---

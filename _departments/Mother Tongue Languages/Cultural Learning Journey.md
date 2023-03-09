@@ -1,6 +1,6 @@
 ---
 title: Cultural Learning Journey
-permalink: /departments/Mother-Tongue-Languages/Cultural-Learning-Journey/
+permalink: /departments/mother-tongue-languages/cultural-learning-journey/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---

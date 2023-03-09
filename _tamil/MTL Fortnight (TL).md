@@ -1,6 +1,6 @@
 ---
 title: MTL Fortnight (TL)
-permalink: /tamil/MTL-Fortnight-TL/
+permalink: /tamil/mtl-fortnight-tl/
 description: ""
 ---
 In conjunction with MTL fortnight, the P1-P5 Tamil students took part in 2 different workshops to learn about different forms of Art. The activities were conducted to increase the students’ awareness of Indian Culture, promote the usage of Tamil language usage and enhance their creative thinking skills.

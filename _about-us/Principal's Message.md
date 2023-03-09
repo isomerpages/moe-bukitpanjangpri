@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/Principals-Message/
+permalink: /about-us/principals-message/
 description: ""
 ---
 Bukit Panjang Primary School has just celebrated its 90th Anniversary on 18 November 2022. We are proud of the rich and long tradition and the many achievements over the years since the school started in 1932. The school has grown from strength to strength. Guided by a strong set of values, character building, excellence and an open mind, we have ensured that the students under our charge undergo a quality holistic education. 

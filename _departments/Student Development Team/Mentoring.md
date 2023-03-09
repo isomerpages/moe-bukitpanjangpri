@@ -1,6 +1,6 @@
 ---
 title: Mentoring
-permalink: /departments/Student-Development-Team/Mentoring/
+permalink: /departments/student-development-team/mentoring/
 description: ""
 third_nav_title: Student Development Team
 ---

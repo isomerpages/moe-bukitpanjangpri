@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /about-us/School-Rules/
+permalink: /about-us/school-rules/
 description: ""
 ---
 Attire

@@ -1,6 +1,6 @@
 ---
 title: Reading iRe@d, Library Programme & Little Red Dot
-permalink: /departments/English/Reading-i-Read-Library-Programme-and-Little-Red-Dot/
+permalink: /departments/english/reading-i-read-library-programme-and-little-red-dot/
 description: ""
 third_nav_title: English
 ---

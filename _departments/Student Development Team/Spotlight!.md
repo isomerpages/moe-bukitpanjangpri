@@ -1,6 +1,6 @@
 ---
 title: Spotlight!
-permalink: /departments/Student-Development-Team/Spotlight/
+permalink: /departments/student-development-team/spotlight/
 description: ""
 third_nav_title: Student Development Team
 ---

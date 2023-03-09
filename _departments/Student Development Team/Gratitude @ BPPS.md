@@ -1,6 +1,6 @@
 ---
 title: Gratitude @ BPPS
-permalink: /departments/Student-Development-Team/Gratitude-at-BPPS/
+permalink: /departments/student-development-team/gratitude-at-bpps/
 description: ""
 third_nav_title: Student Development Team
 ---

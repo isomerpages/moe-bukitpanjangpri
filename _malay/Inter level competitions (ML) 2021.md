@@ -1,6 +1,6 @@
 ---
 title: Inter level competitions (ML) 2021
-permalink: /malay/Inter-level-competitions-ML-2021/
+permalink: /malay/inter-level-competitions-ml-2021/
 description: ""
 ---
 The inter-level competition aims to spark interest and promote fun in learning Bahasa Melayu for the students. The students enjoyed the games, especially with the use of ICT.

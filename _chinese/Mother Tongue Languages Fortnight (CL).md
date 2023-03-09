@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages Fortnight (CL)
-permalink: /chinese/Mother-Tongue-Languages-Fortnight-CL/
+permalink: /chinese/mother-tongue-languages-fortnight-cl/
 description: ""
 ---
 Mooted in 2011, this 2-week long event aims to create an immersive environment for the learning of mother tongue languages. During the two consecutive weeks, a wide range of activities were conducted.

@@ -1,6 +1,6 @@
 ---
 title: Mathematics Activity Week
-permalink: /departments/Mathematics/Mathematics-Activity-Week
+permalink: /departments/mathematics/mathematics-activity-week/
 description: ""
 third_nav_title: Mathematics
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sports Carnival
-permalink: /physical-education/Sports-Carnival/
+permalink: /physical-education/sports-carnival/
 description: ""
 ---
 **Purpose of the programme**

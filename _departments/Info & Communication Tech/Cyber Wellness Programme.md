@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness Programme
-permalink: /departments/Info-and-Communication-Tech/cyber/
+permalink: /departments/info-and-communication-tech/cyber/
 description: ""
 third_nav_title: Info & Communication Tech
 ---

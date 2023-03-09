@@ -1,6 +1,6 @@
 ---
 title: Physical Health and Fitness (PHF)
-permalink: /physical-education/Physical-Health-and-Fitness-PHF/
+permalink: /physical-education/physical-health-and-fitness-phf/
 description: ""
 ---
 ![](/images/PHF.png)

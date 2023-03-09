@@ -1,6 +1,6 @@
 ---
 title: CCE (Form Teacher Guidance Period), CCE Lessons
-permalink: /departments/Student-Development-Team/CCE-Form-Teacher-Guidance-Period-CCE-Lessons/
+permalink: /departments/student-development-team/cce-form-teacher-guidance-period-cce-lessons/
 description: ""
 third_nav_title: Student Development Team
 ---

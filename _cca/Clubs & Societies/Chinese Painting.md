@@ -1,6 +1,6 @@
 ---
 title: Chinese Painting
-permalink: /cca/Clubs-and-Societies/chinese-painting/
+permalink: /cca/clubs-and-societies/chinese-painting/
 description: ""
 third_nav_title: Clubs & Societies
 ---

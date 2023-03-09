@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /home-based-learning
+permalink: /home-based-learning/
 description: ""
 ---
   

@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /partners-corner/Parent-Support-Group-PSG/
+permalink: /partners-corner/parent-support-group-psg/
 description: ""
 ---
 It takes a caring village to raise a child!

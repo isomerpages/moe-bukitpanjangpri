@@ -1,6 +1,6 @@
 ---
 title: Art Curriculum
-permalink: /arts/Art-Curriculum/
+permalink: /arts/art-curriculum/
 description: ""
 ---
 Our Visual Art curriculum is designed to develop our students’ aesthetic sensitivity and critical thinking skills by engaging students in experiencing, creating and appreciating Art in different forms and media.

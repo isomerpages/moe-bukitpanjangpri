@@ -1,6 +1,6 @@
 ---
 title: Music Aesthetics Learning Journey and Assembly Programme
-permalink: /music/Music-Aesthetics-Learning-Journey-and-Assembly-Programme/
+permalink: /music/music-aesthetics-learning-journey-and-assembly-programme/
 description: ""
 ---
 In BPPS, pupils are given opportunities to appreciate music, theatre and dance performances through the Aesthetics learning journeys. The learning journeys aim to inspire and increase students’ awareness, as well as appreciation of the Arts through live performances in a professional setting. They also aim to cultivate a love for the Arts in pupils through music, theatre and dance appreciation.

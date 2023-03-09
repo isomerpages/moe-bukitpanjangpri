@@ -1,6 +1,6 @@
 ---
 title: Information & Communication Technology
-permalink: /departments/ICT/
+permalink: /departments/ict/
 description: ""
 third_nav_title: Info & Communication Tech
 ---
@@ -30,6 +30,6 @@ Department Members
 
 | Name of Programme | Target Level | 
 | -------- | -------- |
-| [Cyber Wellness](/departments/Info-and-Communication-Tech/cyber)   | Primary 1 - 6    | 
+| [Cyber Wellness](/departments/info-and-communication-tech/cyber)   | Primary 1 - 6    | 
 |Baseline ICT Standards (New Media Literacies)  |Primary 1 - 6   |
-| [Code For Fun](/departments/Info-and-Communication-Tech/CFF) |Primary 6  |
+| [Code For Fun](/departments/info-and-communication-tech/cff) |Primary 6  |

@@ -1,6 +1,6 @@
 ---
 title: World Water Day
-permalink: /departments/Science/World-Water-Day/
+permalink: /departments/science/world-water-day/
 description: ""
 third_nav_title: Science
 ---

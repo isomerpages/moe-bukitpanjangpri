@@ -1,6 +1,6 @@
 ---
 title: Student Development Team
-permalink: /departments/Student-development-team/
+permalink: /departments/student-development-team/
 description: ""
 third_nav_title: Student Development Team
 ---

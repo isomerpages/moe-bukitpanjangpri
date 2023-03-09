@@ -1,6 +1,6 @@
 ---
 title: MTL Fortnight (ML)
-permalink: /malay/MTL-Fortnight-ML/
+permalink: /malay/mtl-fortnight-ml/
 description: ""
 ---
 The MTL Fortnight is an initiative by MOE to provide opportunities for schools to engage students in the learning and use of their mother tongue languages outside the context of their daily academic lessons.
