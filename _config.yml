@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-bukitpanjangpri-staging.netlify.app
-prod: https://moe-bukitpanjangpri-prod.netlify.app
+staging: https://staging.d2o5locvjdtgg0.amplifyapp.com/
+prod: https://master.d2o5locvjdtgg0.amplifyapp.com/
 shareicon: /images/logo (2).png
 is_government: false
 facebook-pixel: ""
