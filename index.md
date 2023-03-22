@@ -18,4 +18,24 @@ sections:
         - title: Calendar of Events
           description: ""
           url: /info-hub/Calendar-of-Events/
+  - infopic:
+      title: Infopic Title
+      description: Infopic description
+      button: Button Text
+      image: /images/banner 2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/BPSS_Banner 6_resized (1).png
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/banner4.jpg
+      alt: Image alt text
 ---
