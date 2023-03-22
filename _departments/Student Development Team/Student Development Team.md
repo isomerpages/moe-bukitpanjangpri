@@ -30,7 +30,7 @@ Who We Are 
 |Lead Teacher |Mr Mohd Riad|
 |Senior Teacher|Mdm Joanne Khaw (ST SEN)|
 |Members|Mrs Kristin Heng <br>Ms Alina Goh<br>Mrs Toh-Zhao Weini<br>Ms Valerie Lim<br>Mdm Idayu Bte Sokkiman <br>Mr Teo Jie Le Jarrell <br>Mdm Siti Noraisha|
-|SEN Officer|Mdm Nur Muliani Perdanawati
+|SEN Officer|Mdm Nur Muliani Perdanawati <br>Mr Yek Kok Hwa Caleb|
 |School Counsellor| Ms Teo Jia Min Carin
 
 **Key Programmes**
