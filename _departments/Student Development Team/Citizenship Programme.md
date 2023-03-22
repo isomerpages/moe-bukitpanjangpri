@@ -10,16 +10,13 @@ We aim to design learning experiences that strengthen our students’ citizenshi
 
 **A Sense of Belonging**
 
-To develop a deeper understanding of who we are, and a shared understanding of the values that are
-
-important to us as a nation.
+To develop a deeper understanding of who we are, and a shared understanding of the values that are important to us as a nation.
 
   
 
 **A Sense of Reality**
 
 To be aware of contemporary realities—including Singapore’s constraints and vulnerabilities—
-
 which affect us as a nation amidst the backdrop of a less predictable world.
 
   
@@ -27,10 +24,6 @@ which affect us as a nation amidst the backdrop of a less predictable world.
 **A Sense of Hope**
 
 To have confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
-
-(culminating in)
-
-  
 
 **The Will to Act**
 
@@ -98,15 +91,11 @@ National Day is a rallying call to Singaporeans to play our part to push forward
 
   
 
-**C) NE Infused in daily routines** e.g. students sing the National Anthem and recite the National Pledge to reinforce the values we stand for as a nation during Flag-Raising Ceremony as well as daily classroom
-
-cleaning.
+**C) NE Infused in daily routines** e.g. students sing the National Anthem and recite the National Pledge to reinforce the values we stand for as a nation during Flag-Raising Ceremony as well as daily classroom cleaning.
 
   
 
-**D) Out-of-school learning experiences** that enable students to explore their personal and collective
-
-Identity. These include both the core NE Learning Journeys, and cohort experiences such as level camps, and Pri 5 NE Show etc.
+**D) Out-of-school learning experiences** that enable students to explore their personal and collective Identity. These include both the core NE Learning Journeys, and cohort experiences such as level camps, and Pri 5 NE Show etc.
 
 ![](/images/Learning%20Journey%20Asian%20Civilisation%20Museum.jpeg)
 
