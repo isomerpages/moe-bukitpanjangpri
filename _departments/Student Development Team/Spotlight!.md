@@ -18,6 +18,3 @@ In Bukit Panjang Primary School, we want our students, staff and parents to feel
 
   
 
-**Here are some of our students who were caught doing right!**
-
-![](/images/spotlight.png)
