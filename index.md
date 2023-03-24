@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /info-hub/Calendar-of-Events/
   - infopic:
-      title: Vibrant Learning Culture
+      title: Vibrant Learning Environment
       image: /images/banner 2.jpg
       alt: Image alt text
   - infopic:
