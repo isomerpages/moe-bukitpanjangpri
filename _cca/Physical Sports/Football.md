@@ -14,7 +14,7 @@ Football CCA aims to equip every player with basic football skills such as passi
 Achievements/ Activities
 ------------------------
 
-During training sessions and matches, players learn about respect, self-discipline, teamwork, compassion and respect. Through the experiences of this beautiful game, our players have a holistic development that emphasises on their physical, emotional and social well-being. In 2022, our Senior Boys reached the Quarterfinals of the SPSSC Football West Zone Tournament. Our Junior Boys will be competing in the SPSSC Football National Tournament in July 2022.
+During training sessions and matches, players learn about respect, self-discipline, teamwork, compassion and respect. Through the experiences of this beautiful game, our players have a holistic development that emphasises on their physical, emotional and social well-being. <br> <br>In 2022, our Senior Boys reached the Quarterfinals of the SPSSC Football West Zone Championships while our Junior Boys competed in Tier 1 of the SPSSC Football National Championships.
 
   
 
