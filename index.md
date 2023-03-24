@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mainban1.jpg
+      background: /images/mainban3.jpg
       key_highlights:
         - title: Announcement
           description: ""
