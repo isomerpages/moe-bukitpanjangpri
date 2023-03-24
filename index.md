@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BPPS_Banner_1_22_Mar_23.jpeg
+      background: /images/mainban1.jpg
       key_highlights:
         - title: Announcement
           description: ""
