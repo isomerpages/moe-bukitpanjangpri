@@ -30,7 +30,8 @@ Achievements
 |Chua Jun Feng Clement| 24- Style Taijiquan| 3rd|
 |Tan En Kai| 1st International Broadsword| 4th|
 |Tan En Kai| 1st International Changquan| 3rd|
-|
+|Ang Hui En|3-Duan Nanquan|3rd|
+Koh Le Ann|4-Duan Nanquan|
 
 Photos
 ------
