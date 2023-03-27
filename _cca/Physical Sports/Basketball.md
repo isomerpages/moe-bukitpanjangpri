@@ -13,14 +13,20 @@ BPPS Basketball aims to develop students' skills in basketball, teach values and
 
 Activities/Achievements
 -----------------------
+##### **Achievement**
+|Year| Achievements|
+|---|---|
+|2022| Senior Girls West Zone 4th position
+|2023| Senior Girls West Zone 4th position
+|2023| Senior Girls National (ongoing)
 
 ##### **Training schedule**
 
 |Day|Team| Start| End |
 |-----|-----|------|----|
-|Monday|Boys| 2 p.m. | 4.30 p.m.|
-|Tuesday|Girls| 2 p.m. | 4.30 p.m.|
-|Wednesday| Boys and Girls|  2 p.m. | 4.30 p.m.|
+|Thursday|Boys| 3 p.m. | 5 p.m.|
+|Tuesday|Girls| 3 p.m. | 5 p.m.|
+
 
 Photos
 ------
