@@ -32,7 +32,7 @@ Department Members
 | Head of Department | Mrs Serene Loke
 |Level Head| Ms Valerie Teo|
 |School Staff Developer | Mr Tan Choon Shing
-| Members| Ms Ada Lim<br>Mdm Annie Azrina<br>Mdm Eng Mei Chen<br>Ms Foong Kah Yin <br>Mdm Naadiah Hanim Bte Abdullah  <br>Mdm Nor Ezlin Bte Abdullah    <br>Mr Saravanan Pannesilvam<br>Ms Sharon Tan<br>Mrs Teri Toh  <br>Ms Wong Lai Yoke  <br> Ms Wang Peishan
+| Members| Ms Ada Lim<br>Mdm Annie Azrina<br>Mdm Eng Mei Chen<br>Ms Foong Kah Yin <br> Ms Sharon Tan<br>Mrs Teri Toh  <br>Ms Wong Lai Yoke  <br> Ms Wang Peishan
 
 
 **Key Programmes**
