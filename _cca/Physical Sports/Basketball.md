@@ -24,8 +24,9 @@ Activities/Achievements
 
 |Day|Team| Start| End |
 |-----|-----|------|----|
-|Thursday|Boys| 3 p.m. | 5 p.m.|
 |Tuesday|Girls| 3 p.m. | 5 p.m.|
+|Thursday|Boys| 3 p.m. | 5 p.m.|
+
 
 
 Photos
