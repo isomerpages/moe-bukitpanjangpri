@@ -1,0 +1,10 @@
+collections:
+  info-hub:
+    output: true
+    order:
+      - BRIGHT IDEAS.md
+      - Edusave Awards.md
+      - Home Based Learning.md
+      - Useful Links.md
+      - Calendar of Events.md
+      - Resource for Parents.md

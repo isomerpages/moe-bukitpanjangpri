@@ -1,32 +1,33 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bukit Panjang Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo (2).png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/mainban3.jpg
+      key_highlights:
+        - title: Announcement
+          description: ""
+          url: /announcement
+        - title: Quick Link
+          description: ""
+          url: /info-hub/useful-links/
+        - title: Calendar of Events
+          description: ""
+          url: /info-hub/Calendar-of-Events/
+  - infopic:
+      title: Vibrant Learning Environment
+      image: /images/banner 2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Values-Centric Future Leaders
+      image: /images/BPSS_Banner 6_resized (1).png
+      alt: Image alt text
+  - infopic:
+      title: Skillful and Caring Staff
+      image: /images/banner4.jpg
+      alt: Image alt text
 ---
-

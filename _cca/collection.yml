@@ -1,0 +1,27 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co Curricular Activity.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art and Crafts.md
+      - Clubs & Societies/Chinese Painting.md
+      - Clubs & Societies/Environmental Science.md
+      - Clubs & Societies/IT (Computing).md
+      - Clubs & Societies/Robotics Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Festive Drums.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Modern Dance.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Hockey.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Wushu.md
+      - Uniformed Group/.keep
+      - Uniformed Group/Red Cross Youth.md
+      - Uniformed Group/Scouts.md
