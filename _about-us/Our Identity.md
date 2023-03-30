@@ -10,7 +10,7 @@ description: ""
   
 
 The first principal Mrs. Downe and her staff of three stood at attention as the Union Jack was raised to the strains of 'God Save the Queen'. Behind them stood the first sixty pupils of the school facing a new school building built from bricks and sturdy teakwood.
-
+ 
   
 
 Bukit Panjang English School (as it was then known) was one of the very few primary schools in the northern part of Singapore. Mrs. Downe and her staff had to go round Bukit Panjang Village and district to persuade parents to send their children to school. After much effort and with the assistance of Mr. Goh Tong Liang, a prominent resident; they managed to enroll the first sixty pupils.
