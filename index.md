@@ -14,7 +14,7 @@ sections:
           url: /info-hub/useful-links/
         - title: Calendar of Events
           description: ""
-          url: /info-hub/Calendar-of-Events/
+          url: /info-hub/calendar-of-events/
   - infopic:
       title: Vibrant Learning Environment
       image: /images/banner 2.jpg
