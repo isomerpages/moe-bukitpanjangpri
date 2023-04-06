@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/mainban3.jpg
       key_highlights:
-        - title: Announcement
-          description: ""
-          url: /announcement
         - title: Quick Link
           description: ""
           url: /info-hub/useful-links/
