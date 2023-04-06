@@ -9,15 +9,12 @@ sections:
   - hero:
       background: /images/mainban3.jpg
       key_highlights:
-        - title: Announcement
-          description: ""
-          url: /announcement
         - title: Quick Link
           description: ""
           url: /info-hub/useful-links/
         - title: Calendar of Events
           description: ""
-          url: /info-hub/Calendar-of-Events/
+          url: https://www.bukitpanjangpri.moe.edu.sg/info-hub/calendar-of-events/
   - infopic:
       title: Vibrant Learning Environment
       image: /images/banner 2.jpg
