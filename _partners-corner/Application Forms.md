@@ -28,7 +28,3 @@ Should there be a need to make claims, you can submit your medical expenses clai
 No login user or password is required.
 
 ![](/images/PSG%20registration%20QR%20code.jpeg)
-
-2023/24 Bukit Panjang Primary School Parent Volunteer Application Form
---------------------------------------
-To register, please click [here](https://form.gov.sg/63d52a36a65b4800118cc9f6)
