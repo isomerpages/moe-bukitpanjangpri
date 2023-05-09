@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Canteen Advertisements.md
       - BRIGHT IDEAS.md
       - Edusave Awards.md
       - Home Based Learning.md
