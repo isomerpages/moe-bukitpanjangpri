@@ -16,6 +16,8 @@ description: ""
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
+[Canteen Stall Application Form]()
+
 [Canteen stall application FormBF7.pdf](Canteen%20stall%20application%20FormBF7.pdf)
 
 2\. Attached the following documents together with the application form:
