@@ -18,6 +18,7 @@ description: ""
 
 [Canteen Vendor Application Form](/files/canteen%20stall%20application%20formbf7.pdf)
 
+[Canteen Vendor Application Form](/files/canteen%20stall%20application%20formbf7.pdf)
 
 
 2\. Attached the following documents together with the application form:
