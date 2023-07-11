@@ -15,7 +15,7 @@ Towards Self-Directed and Collaborative Learning
 
 **Mission**
 
-To provide every pupil an ICT-enriched learning environment to enhance their learning, invoke their intellectual curiosity and develop their SDL and COL skills to become innovative and adaptable citizens of the 21st century.
+To provide every pupil an ICT-enriched learning environment to enhance their learning, invoke their intellectual curiosity and develop their SDL and COL skills to become innovative and adaptable citizens of the 21st&nbsp;century.
 
 Department Members
 ------------------
@@ -24,8 +24,9 @@ Department Members
 | -------- | -------- | 
 | Head of Department     | 	Ms Yoong Keng Chi   | 
 | Coordinator | Mr Ng Peng Kuan|
-|Members  | Ms Benazir Dhillon<br>Mrs Lisa Yap<br>Mdm Siti Nur Iryani<br>Mdm Chan Meng Yin<br>Mr Tan Zhuan Liang |
-|Desktop Engineers|Mr Shahreen Bin Supaat|
+|Members  | Ms Benazir Dhillon<br>Mrs Lisa Yap<br>Mdm Chan Meng Yin<br>Mr Tan Zhuan Liang |
+|ICT Manager| Mr Chin Wee Kuong|
+|Desktop Engineers|Mr Shahreen Bin Supaat <br> Mr Muhammad Haikal |
 
 
 | Name of Programme | Target Level | 

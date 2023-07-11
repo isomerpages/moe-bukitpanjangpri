@@ -22,11 +22,11 @@ Key Personnel
 |Ms Chang May Ling|[chang_may_ling@moe.edu.sg](mailto:chang_may_ling@moe.edu.sg)|Head of Department (Science)
 |Ms Lee Siew Siew Irene|[lee_siew_siew_irene@moe.edu.sg](mailto:lee_siew_siew_irene@moe.edu.sg)|Head of Department (Mother Tongue Languages)
 |Ms Yoong Keng Chi|[yoong_keng_chi@moe.edu.sg](mailto:yoong_keng_chi@moe.edu.sg)|Head of Department (ICT)
-|Ms Leow Mei Leng|[leow_mei_leng@moe.edu.sg](mailto:leow_mei_leng@moe.edu.sg)|Head of Department (Character & Citizenship Education)
+|Ms Leow Mei Leng|[leow_mei_leng@moe.edu.sg](mailto:leow_mei_leng@moe.edu.sg)|Head of Department (Character &amp; Citizenship Education)
 |Mrs Teo-Ng Sin Nee|[ng_sin_nee@moe.edu.sg](mailto:ng_sin_nee@moe.edu.sg)|Year Head (P1 and P2)
 |Mrs Rebekah Ang|[tan_wei_ling_rebekah@moe.edu.sg](mailto:tan_wei_ling_rebekah@moe.edu.sg)|	Year Head (P3 and P4)
 |Mr Tan Guan Heng|[tan_guan_heng@moe.edu.sg](mailto:tan_guan_heng@moe.edu.sg)|Year Head (P5 and P6)
-|Mr Mike Teo|[teo_yee_sin@moe.edu.sg](mailto:teo_yee_sin@moe.edu.sg)|Head of Department<br>(Physical & Health Education, Aesthetics & CCA)
+|Mr Mike Teo|[teo_yee_sin@moe.edu.sg](mailto:teo_yee_sin@moe.edu.sg)|Head of Department<br>(Physical &amp; Health Education, Aesthetics &amp; CCA)
 |Mr Tan Choon Shing|[tan_choon_shing@moe.edu.sg](mailto:tan_choon_shing@moe.edu.sg)|School Staff Developer
 |Mdm Badhrunnisa|[badhrunnisa_jalil@moe.edu.sg](mailto:badhrunnisa_jalil@moe.edu.sg)|Level Head (English)
 |Ms Mary Lim|[lim_boon_teng_mary@moe.edu.sg](mailto:lim_boon_teng_mary@moe.edu.sg)|Level Head (Science)
@@ -36,7 +36,7 @@ Key Personnel
 |Mdm Ho Mun Yee|[ho_mun_yee@moe.edu.sg](mailto:ho_mun_yee@moe.edu.sg)|Assistant Year Head
 |Mdm Wong Chin Yin|[wong_chin_yin@moe.edu.sg](mailto:wong_chin_yin@moe.edu.sg)|	Subject Head (Student Well-Being)
 |Mr Koh Chung Heng|[koh_chung_heng@moe.edu.sg](mailto:koh_chung_heng@moe.edu.sg)|Assistant Year Head
-|Ms Jessica Yee|[kwai_ga_yee@moe.edu.sg](mailto:kwai_ga_yee@moe.edu.sg)|Subject Head (Partnership & Innovation)
+|Ms Jessica Yee|[kwai_ga_yee@moe.edu.sg](mailto:kwai_ga_yee@moe.edu.sg)|Subject Head (Partnership &amp; Innovation)
 |Ms Valerie Teo|[valerie_teo@moe.edu.sg](mailto:valerie_teo@moe.edu.sg)|Level Head (Mathematics)
 
 -------------------------------
@@ -66,3 +66,4 @@ EAS Team
 |Mr Chang|[chang_kim_seng@moe.edu.sg](mailto:chang_kim_seng@moe.edu.sg)|Operations Manager
 |Mdm Neo Hwee Koon|[neo_hwee_koon@schools.gov.sg](mailto:neo_hwee_koon@schools.gov.sg)|Administrative Manager
 |Ms Cheah Sin Yi|[cheah_sin_yi@schools.gov.sg](mailto:cheah_sin_yi@schools.gov.sg)|Administrative Executive
+|Mr Chin Wee Kuong| [chin\_wee\_kuong@moe.edu.sg](mailto:chin_wee_kuong@moe.edu.sg).|  ICT Manager
