@@ -7,12 +7,12 @@ To apply, please refer to requirements below
 
 **Service Requirements**
 
-1. Call for proposal
+1. 
 [Call for Proposal]()
-2. Agreement for Appointment of School Bus operator 
+2. 
 [Agreement for appointment]()
 
-**Application Procedure **
+**Application Procedure**
 
 1. Complete the form below
 [Call for proposal Annex A]()
