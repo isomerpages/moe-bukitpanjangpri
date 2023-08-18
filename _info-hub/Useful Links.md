@@ -33,7 +33,7 @@ For Students
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Student iCON](https://workspace.google.com/dashboard)
 *   [Zoom (Web Version)](https://zoom.us/)
-*   [Request for Reset of iCON/SLS Account Form](https://form.gov.sg/#!/61e4c58f80623800135f5afb)
+* [Unlock students icon/SLS](https://form.gov.sg/64cb63b7ffd90d0012e92915)
 
   --------------------------------------
 	

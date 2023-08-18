@@ -44,7 +44,7 @@ description: ""
 |2|Mr Hasyim Tan Abdullah<br>Mrs Ang-Tan Wei Ling Rebekah<br>Mdm Wong Chin Yin|[hasyim_tan_abdullah@moe.edu.sg](mailto:hasyim_tan_abdullah@moe.edu.sg)<br>[tan_wei_ling_rebekah@moe.edu.sg](mailto:tan_wei_ling_rebekah@moe.edu.sg)<br>[wong\_chin\_yin@moe.edu.sg](mailto:wong_chin_yin@moe.edu.sg)|
 |3|Mrs Dhillon (Benazir Binte Mohamed Shariff)<br>Ms Gladys Zhang Shangmin|[benazir_mohamed_shariff@moe.edu.sg](mailto:benazir_mohamed_shariff@moe.edu.sg)<br>[zhang_shangmin_gladys@moe.edu.sg](mailto:zhang_shangmin_gladys@moe.edu.sg)|
 |4|Mrs Teri Toh (Foo Siew Fong)<br>Ms Jody Chan<br>Mr Teo Yee Sin Mike|[foo_siew_fong@moe.edu.sg](mailto:foo_siew_fong@moe.edu.sg)<br>[chan_pei_lai@moe.edu.sg](mailto:chan_pei_lai@moe.edu.sg)<br>[teo_yee_sin@moe.edu.sg](Mailto:teo_yee_sin@moe.edu.sg)|
-|5|Ms Ng Shee Yih Winnie<br>Mdm Ezlin Abdullah|[ng_shee_yih_winnie@moe.edu.sg](mailto:ng_shee_yih_winnie@moe.edu.sg)<br>[nor\_ezlin\_abdullah@schools.gov.sg](mailto:nor_ezlin_abdullah@schools.gov.sg)|
+|5|Ms Ng Shee Yih Winnie<br>Mdm Ezlin Abdullah|[ng_shee_yih_winnie@moe.edu.sg](mailto:ng_shee_yih_winnie@moe.edu.sg)<br>[nor\_ezlin\_abdullah@moe.edu.sg](mailto:nor_ezlin_abdullah@moe.edu.sg)|
 |6|Mr Kwan Siew Tung<br>Ms Lee Siew Siew Irene|[kwan_siew_tung@moe.edu.sg](mailto:kwan_siew_tung@moe.edu.sg)<br>[lee_siew_siew_irene@moe.edu.sg](mailto:lee_siew_siew_irene@moe.edu.sg)|
 
 | Resilience | Primary 5 Class Mentors | Email |
@@ -54,7 +54,7 @@ description: ""
 |3 	|Ms Teo Ping Hui Valerie<br> Mrs Catherine Kong (Tan Wee Peng)|	[valerie_teo@moe.edu.sg](mailto:valerie_teo@moe.edu.sg)<br>[tan_wee_peng_a@moe.edu.sg](mailto:tan_wee_peng_a@moe.edu.sg)|
 |4|Mr Lok Chee Weng Edward<br>Mr Liew Wai Kee<br>Ms Chen Ying Ying|[lok_chee_weng@moe.edu.sg](mailto:lok_chee_weng@moe.edu.sg)<br>[liew_wai_kee@moe.edu.sg](mailto:liew_wai_kee@moe.edu.sg)<br>[Chen\_Ying-Ying@moe.edu.sg](mailto:Chen_Ying-Ying@moe.edu.sg)|
 |5|Mdm Shariffa Bee Bte Syed Ahamad<br>Ms Chang May Ling|[shariffa_bee_syed_ahamad@moe.edu.sg](mailto:shariffa_bee_syed_ahamad@moe.edu.sg)<br>[chang_may_ling@moe.edu.sg](mailto:chang_may_ling@moe.edu.sg)|
-|6|Ms Yogeetha Rajagopal<br>Mdm Lek Siew Gek<br> Ms Jessica Yee<br> |[yogeetha_rajagopal@moe.edu.sg](mailto:yogeetha_rajagopal@moe.edu.sg)<br>[lek_siew_gek@moe.edu.sg](mailto:lek_siew_gek@moe.edu.sg)<br> [kwai\_ga\_yee@moe.edu.sg](mailto:kwai_ga_yee@moe.edu.sg)|
+|6|Ms Yogeetha Rajagopal<br>Mdm Lek Siew Gek<br> |[yogeetha_rajagopal@moe.edu.sg](mailto:yogeetha_rajagopal@moe.edu.sg)<br>[lek_siew_gek@moe.edu.sg](mailto:lek_siew_gek@moe.edu.sg)<br> |
 
 | Gratitude | Primary 6 Class Mentors | Email |
 | -------- | -------- | -------- |
