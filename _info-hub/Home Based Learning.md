@@ -15,7 +15,7 @@ Technical Assistance
 --------------------
 
 **Account Unlock/Password Reset:**<br>
-Please click on [Account Unlock Form (SLS / Student iCON)](https://form.gov.sg/#!/61e4c58f80623800135f5afb).
+Please click on&nbsp;[Account Unlock Form (SLS / Student iCON)](https://form.gov.sg/64cb63b7ffd90d0012e92915)
 
   
 
