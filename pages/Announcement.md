@@ -5,6 +5,14 @@ description: ""
 ---
 **Closure of school premise on 31st August**
 
-Please note that the school will be used as a polling centre for the upcoming Presidential Election 2023. 
+Dear Ex-Students,
 
-As such the school premise will be closed by 2pm on the 31st August in preparation for the election, and we regret that we will not be able to host the ex-students on that day.
+We would like to inform you of an important update regarding 31st August.
+
+This year, our school has been selected as a polling centre for the upcoming Presidential Election, access to the school premises will be restricted on 31 August.
+
+Unfortunately, this means that you will not be allowed to visit the school to meet with your former teachers. 
+
+We kindly request your cooperation in adhering to this restriction.
+
+We appreciate your kind understanding. Thank you for your cooperation.
