@@ -15,6 +15,9 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://www.bukitpanjangpri.moe.edu.sg/info-hub/calendar-of-events/
+        - title: Announcement
+          description: ""
+          url: /announcement/
   - infopic:
       title: Vibrant Learning Environment
       image: /images/banner 2.jpg
