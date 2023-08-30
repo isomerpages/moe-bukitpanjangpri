@@ -5,4 +5,4 @@ description: ""
 ---
 **School Bus Services**
 
-[School Bus Operator and Bus Fare](/files/bpps%20wdls%20transport%20nte%20bus%20fares%202023.pdf)
+[School Bus Operator and Fares](/files/bpps%20wdls%20transport%20nte%20bus%20fares%202023.pdf)
