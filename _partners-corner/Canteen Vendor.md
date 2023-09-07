@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing date | Requirements|
 | -------- | -------- | -------- |
-| Halal Western Food Stall    | 31st May 2023    | NIL     |
+| Halal Western Food Stall    | 31st March 2024   | NIL     |
 
 **Application Procedure**
 
