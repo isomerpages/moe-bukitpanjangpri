@@ -2,7 +2,6 @@ collections:
   partners-corner:
     output: true
     order:
-      - School Bus Service Jan 2022 to Dec 2023.md
       - Application Forms.md
       - BPPS Alumni.md
       - Family Matters @ School.md
