@@ -3,6 +3,6 @@ title: Jan 2022 to Dec 2023 School Bus Operator and Bus Fare
 permalink: /partners-corner/permalink/
 description: ""
 ---
-Please click on the below to access the bus fare operator and bus fare
+Please click on the below to access the bus fare operator and bus fare.
 
-[School Bus Operator and Bus Fare    ](/files/2023%20bus%20fare.pdf)
+[School Bus Operator and Bus Fare    ](/files/2023%20bus%20fare.pdf) 
