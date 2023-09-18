@@ -24,6 +24,8 @@ Email:&nbsp;[bkpscc@nascans.com](mailto:bkpscc@nascans.com)
 
 Dental Therapist: Ms Cheryl Yeo <br>
 Tel: 91142186 <br>
+
+
 |Operating Hours|     |
 |-----| ------|
 |Wednesday and Thursday| 8.00 a.m. to 5.30 p.m <br>
