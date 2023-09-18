@@ -25,16 +25,16 @@ Email:&nbsp;[bkpscc@nascans.com](mailto:bkpscc@nascans.com)
 Dental Therapist: Ms Cheryl Yeo <br>
 Tel: 91142186 <br>
 
+**Operating Hours**
 
-|Operating Hours|     |
-|-----| ------|
-|Wednesday and Thursday| 8.00 a.m. to 5.30 p.m <br>
-|Friday | 8.00am to 5.00pm <br>| 
-|
+Wednesday and Thursday    8.00 a.m. to 5.30 p.m
+
+Friday                                       8.00am to 5.00pm 
+
 
   
 
-\*Parent/s are advised to enrol your child/ward in the dental programme via Child Consent Portal @&nbsp;[http://childconsent.hpb.gov.sg](http://childconsent.hpb.gov.sg/)
+\*Parents are advised to enrol your child/ward in the dental programme via Child Consent Portal @&nbsp;[http://childconsent.hpb.gov.sg](http://childconsent.hpb.gov.sg/)
 
   
 ------------------------------------------------
