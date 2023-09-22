@@ -17,22 +17,24 @@ Monday to Friday: 11am to 7pm
 
 **School Holidays (Except Centre Closure Days)**<br>
 Monday to Friday: 7.30am to 7pm<br>
-Email: [bkpscc@nascans.com](mailto:bkpscc@nascans.com)
+Email:&nbsp;[bkpscc@nascans.com](mailto:bkpscc@nascans.com)
 
 -------------------------------------------------
 ### School Dental Clinic
 
-Dental Therapist: Mr Tan Soon Lee & Ms Nur Aqilah <br>
+Dental Therapist: Ms Cheryl Yeo <br>
 Tel: 91142186 <br>
-|Operating Hours|     |
-|-----| ------|
-|Wednesday and Thursday| 8.00 a.m. to 5.30 p.m <br>
-|Friday | 8.00am to 5.00pm <br>| 
-|
+
+**Operating Hours**
+
+Wednesday and Thursday    8.00 a.m. to 5.30 p.m
+
+Friday                                       8.00am to 5.00pm 
+
 
   
 
-\*Parent/s are advised to enrol your child/ward in the dental programme via Child Consent Portal @ [http://childconsent.hpb.gov.sg](http://childconsent.hpb.gov.sg/)
+\*Parents are advised to enrol your child/ward in the dental programme via Child Consent Portal @&nbsp;[http://childconsent.hpb.gov.sg](http://childconsent.hpb.gov.sg/)
 
   
 ------------------------------------------------
