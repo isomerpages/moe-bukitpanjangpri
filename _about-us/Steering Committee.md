@@ -36,7 +36,6 @@ Key Personnel
 |Mdm Ho Mun Yee|[ho_mun_yee@moe.edu.sg](mailto:ho_mun_yee@moe.edu.sg)|Assistant Year Head
 |Mdm Wong Chin Yin|[wong_chin_yin@moe.edu.sg](mailto:wong_chin_yin@moe.edu.sg)|	Subject Head (Student Well-Being)
 |Mr Koh Chung Heng|[koh_chung_heng@moe.edu.sg](mailto:koh_chung_heng@moe.edu.sg)|Assistant Year Head
-|Ms Jessica Yee|[kwai_ga_yee@moe.edu.sg](mailto:kwai_ga_yee@moe.edu.sg)|Subject Head (Partnership &amp; Innovation)
 |Ms Valerie Teo|[valerie_teo@moe.edu.sg](mailto:valerie_teo@moe.edu.sg)|Level Head (Mathematics)
 
 -------------------------------
