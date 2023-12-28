@@ -4,7 +4,6 @@ permalink: /about-us/staff/
 description: ""
 variant: markdown
 ---
-
 ![](/images/BPPS_Staff_Photo.jpg)
 
 
@@ -34,14 +33,14 @@ variant: markdown
 | -------- | -------- | -------- |
 |1| Mr Teo Jia Le Jarrell<br>Ms Siti Zafirah Binte Mohamed Zefri | teo_jie_le_jarrell@moe.edu.sg <br> siti_zafirah_mohamed_zefri@moe.edu.sg |
 |2| Mrs Dhillon (Benazir Binte Mohamed Shariff)<br> Mrs Teri Toh (Foo Siew Fong) | benazir_mohamed_shariff@moe.edu.sg<br> foo_siew_fong@moe.edu.sg |
-|3| <br> Mdm Yeo Sze Wei | <br> yeo_sze_wei@moe.edu.sg |
+|3| Ms Grace Stephen Louisesamy<br> Mdm Yeo Sze Wei | grace_stephen_louisesamy@moe.edu.sg<br> yeo_sze_wei@moe.edu.sg |
 |4| Ms Gladys Zhang Shangmin<br> Mr Hasyim Tan Abdullah <br> Mrs Ang-Tan Wei Ling Rebekah | zhang_shangmin_gladys@moe.edu.sg<br> hasyim_tan_abdullah@moe.edu.sg <br> tan_wei_ling_rebekah@moe.edu.sg  |
 |5| Mr Ng Peng Kuan <br> Mdm Chan Meng Yin | ng_peng_kuan@moe.edu.sg <br> chan_meng_yin@moe.edu.sg |
 |6| Mr Saravanan s/o Pannesilvam<br> Mr Teo Yee Sin Mike | saravanan_pannesilvam@moe.edu.sg <br> teo_yee_sin@moe.edu.sg |
 
 | Integrity | Primary 4 Class Mentors | Email |
 | -------- | -------- | -------- |
-|1| <br> Mr Lim Lai Huat David <br>  | <br> lim_lai_huat@moe.edu.sg <br> |
+|1| Ms Charlene Ng Su Xian<br> Mr Lim Lai Huat David <br> Ms Jessie Tan  | ng_su_xian@moe.edu.sg<br> lim_lai_huat@moe.edu.sg <br>tan_jessie@moe.edu.sg |
 |2| Mr Pang Peng Tiong<br> Mr Tan Choon Shing | pang_peng_tiong@moe.edu.sg<br>tan_choon_shing@moe.edu.sg |
 |3|  Mr Tan Zhuan Liang<br> Ms Yoong Keng Chi | tan_zhuan_liang@moe.edu.sg<br> yoong_keng_chi@moe.edu.sg |
 |4| Mdm Eismawati Bte Bisri <br> Ms Lim Boon Teng Mary | eismawati_bisri@moe.edu.sg <br> lim_boon_teng_mary@moe.edu.sg |
