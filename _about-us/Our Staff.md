@@ -4,8 +4,8 @@ permalink: /about-us/staff/
 description: ""
 variant: markdown
 ---
-[](/images/BPPS_Staff_Photo.jpg)
 
+![](/images/BPPS_Staff_Photo.jpg)
 
 
 | Respect | Primary 1 Class Mentors | Email |
