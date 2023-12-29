@@ -15,7 +15,7 @@ variant: markdown
 |4| Mdm Ong Pyng Jing <br> Mdm Liew Siew Chiew | ong_pyng_jing@moe.edu.sg <br> liew_siew_chiew@moe.edu.sg |
 |5| Mrs Toh-Zhao Weini <br> Wang Jing Xuan Kay | zhao_weini@moe.edu.sg <br> wang_jing_xuan_kay@moe.edu.sg <br>|
 |6| Ms Naadiah Hanim Bte Abdullah <br> Ms Ng Li Xuan | naadiah_hanim_abdullah@moe.edu.sg <br> ng_li_xuan@moe.edu.sg <br>| 
-|7| Mdm Lim Chiew Har Ada <br> Ms Dong Rui | lim_chiew_har_ada@moe.edu.sg <br> dong_rui@moe.edu.sg <br>|
+|7| Mdm Lim Chiew Har Ada <br> Mdm Dong Rui | lim_chiew_har_ada@moe.edu.sg <br> dong_rui@moe.edu.sg <br>|
 |8| Mdm Lydiana Bte Ramli <br> Mdm Tham Jing Wen <br> Mdm Ho Mun Yee | lydiana_ramli@moe.edu.sg <br> tham_jing_wen@moe.edu.sg <br> ho_mun_yee@moe.edu.sg <br>| 
 
 | Responsibility | Primary 2 Class Mentors | Email |
