@@ -50,7 +50,7 @@ variant: markdown
 | Resilience | Primary 5 Class Mentors | Email |
 | -------- | -------- | -------- |
 |1| Ms Ng Shee Yih Winnie<br> Ms Jody Chan <br> Mr Koh Chung Heng  | ng_shee_yih_winnie@moe.edu.sg<br>chan_pei_lai@moe.edu.sg <br>koh_chung_heng@moe.edu.sg | 
-|2| Mrs Kristin Heng<br>Mdm Mency Lee | kristin_heng@moe.edu.sg<br>mency_lee@moe.edu.sg| 
+|2| Mrs Kristin Heng<br>Mdm Mency Lee <br> Mr Muhammad Shahrilnizam Bin&nbsp;Mustapha | kristin_heng@moe.edu.sg<br>mency_lee@moe.edu.sg <br> muhammad_shahrilnizam_b_m@moe.edu.sg| 
 |3| Ms Wong Lai Yoke<br> Mdm Leong Sue Yin Serene | wong_lai_yoke@moe.edu.sg <br> leong_sue_yin_serene@moe.edu.sg| 
 |4| Ms Foong Kah Yin<br> Ms Chen Ying Ying | foong_kah_yin@moe.edu.sg<br>Chen_Ying-Ying@moe.edu.sg| 
 |5| Ms Teo Ping Hui Valerie<br> Ms Loo Xin Yi Janice | valerie_teo@moe.edu.sg <br>loo_xin_yi_janice@moe.edu.sg| 
