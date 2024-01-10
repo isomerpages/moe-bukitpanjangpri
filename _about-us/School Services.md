@@ -4,7 +4,7 @@ permalink: /about-us/school-services/
 description: ""
 variant: markdown
 ---
-School-Based Services
+School Services
 ---------------------
 
   
