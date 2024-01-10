@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 1\. What do I need to do to transfer my child to your school?
 
@@ -28,5 +29,13 @@ permalink: /faq/
 
 4\. How do I apply to be a parent volunteer in your school?
 
-If your child is born in Year 2018, the parent volunteer application period had ended on 30 April 2023. <br><br>
-If your child is born in Year 2019, the application period will commence in 2024 Term 1. Please email bpps@moe.edu.sg to confirm the application period in late January 2025.
+If your child is born in Year 2018, the parent volunteer application period had ended on 30 April 2023.<br>
+
+If your child is born in Year 2019, the application period will commence in early March 2024. The online application will be available on the school website https://www.bukitpanjangpri.moe.edu.sg/partners-corner/application-forms/ when application period is open.<br>
+
+
+
+
+
+
+
