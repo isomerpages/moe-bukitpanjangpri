@@ -8,6 +8,16 @@ School-Based Services
 ---------------------
 
   
+### School Bookshop
+
+Pacific Bookstores Pte Ltd <br>
+Contact: 90918583 <br>
+Operating hours: <br>
+Wed: 8:30am to 2pm <br>
+Mon, Tue, Thu, Fri: 8:30am to 3pm <br>
+Kindly note that during school term, parents are only allowed to enter the school to purchase at the school bookshop from 2pm to 3pm. <br>
+
+
 
 ### Nascans@Bukit Panjang Student Care Centre 
 
