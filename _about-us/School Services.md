@@ -54,7 +54,7 @@ Please call clinic to enquire.
 **Woodlands Transport Solutions Pte Ltd** <br>
 Transport Hotline: 90255803 (Sri) <br>
 Ops Email / registration: bpps@woodlandstransport.com.sg <br>
-<br>
+2024 Bus Fare<br>
 ![](/images/Transport_Fare.png)
 
 ------------------------------------------------------
