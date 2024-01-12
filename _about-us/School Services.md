@@ -2,11 +2,22 @@
 title: School Services
 permalink: /about-us/school-services/
 description: ""
+variant: markdown
 ---
-School-Based Services
+School Services
 ---------------------
 
   
+### School Bookshop
+
+Pacific Bookstores Pte Ltd <br>
+Contact: 90918583 <br>
+Operating hours: <br>
+Wed: 8:30am to 2pm <br>
+Mon, Tue, Thu, Fri: 8:30am to 3pm <br>
+Kindly note that during school term, parents are only allowed to enter the school to purchase at the school bookshop from 2pm to 3pm. <br>
+
+
 
 ### Nascans@Bukit Panjang Student Care Centre 
 
@@ -22,19 +33,17 @@ Email:&nbsp;[bkpscc@nascans.com](mailto:bkpscc@nascans.com)
 -------------------------------------------------
 ### School Dental Clinic
 
-Dental Therapist: Ms Cheryl Yeo <br>
 Tel: 91142186 <br>
 
 **Operating Hours**
 
-Wednesday and Thursday    8.00 a.m. to 5.30 p.m
+Please call clinic to enquire.
 
-Friday                                       8.00am to 5.00pm 
 
 
   
 
-\*Parents are advised to enrol your child/ward in the dental programme via Child Consent Portal @&nbsp;[http://childconsent.hpb.gov.sg](http://childconsent.hpb.gov.sg/)
+
 
   
 ------------------------------------------------
@@ -42,10 +51,12 @@ Friday                                       8.00am to 5.00pm
 ### School Transport Service
 
 
-**Woodlands Transport Service Pte Ltd** <br>
-8 Gul Circle, S629564 <br>
-Tel: 65598988 <br>
-Fax: 68982395<br>
+**Woodlands Transport Solutions Pte Ltd** <br>
+Transport Hotline: 90255803 (Sri) <br>
+Ops Email / registration: bpps@woodlandstransport.com.sg <br>
+<br>
+**2024 Bus Fare**<br>
+![](/images/Transport_Fare.png)
 
 ------------------------------------------------------
 
