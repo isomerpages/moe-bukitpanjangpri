@@ -1,0 +1,13 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Identity.md
+      - Our Beliefs.md
+      - Principal's Message.md
+      - Steering Committee.md
+      - Our Staff.md
+      - School Advisory Committee.md
+      - School Rules.md
+      - Contact Us.md
+      - School Services.md

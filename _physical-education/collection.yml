@@ -1,0 +1,9 @@
+collections:
+  physical-education:
+    output: true
+    order:
+      - Physical Health and Fitness (PHF).md
+      - Adventure and Leadership Camp.md
+      - Sports Carnival.md
+      - Programme for Active Learning (PAL).md
+      - SwimSafer 2.md

@@ -1,0 +1,7 @@
+collections:
+  bulletin:
+    output: true
+    order:
+      - Notifications.md
+      - BISIS.md
+      - Useful Links.md

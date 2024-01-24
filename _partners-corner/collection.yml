@@ -1,0 +1,9 @@
+collections:
+  partners-corner:
+    output: true
+    order:
+      - Application Forms.md
+      - BPPS Alumni.md
+      - Family Matters @ School.md
+      - Parent Support Group (PSG).md
+      - School Canteen Advertisement.md

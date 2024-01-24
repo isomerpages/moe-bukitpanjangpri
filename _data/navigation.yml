@@ -1,0 +1,14 @@
+logo: /images/logo (2).png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Special Programmes
+    collection: special-programmes
+  - title: Partner's Corner
+    collection: partners-corner
+  - title: Info Hub
+    collection: info-hub

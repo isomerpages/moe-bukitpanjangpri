@@ -1,0 +1,56 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Student Development Team/Positive Behaviour Support.md
+      - Student Development Team/Citizenship Programme.md
+      - Student Development Team/CCE (Form Teacher Guidance Period), CCE
+        Lessons.md
+      - Student Development Team/Mentoring.md
+      - Student Development Team/Values in Action.md
+      - Student Development Team/Gratitude @ BPPS.md
+      - Student Development Team/Student Leadership Programmes.md
+      - Student Development Team/Prefectorial Board.md
+      - Student Development Team/Sexuality Education.md
+      - Student Development Team/Spotlight!.md
+      - Student Development Team/Student Development Team.md
+      - Student Development Team/.keep
+      - English/.keep
+      - English/English Language.md
+      - English/English Language Fortnight.md
+      - English/Reading iRe@d, Library Programme & Little Red Dot.md
+      - English/Oracy – Speak and Act.md
+      - English/Enrichment Programme.md
+      - English/Learning Support Programme.md
+      - Info & Communication Tech/.keep
+      - Info & Communication Tech/Information & Communication Technology.md
+      - Info & Communication Tech/Cyber Wellness Programme.md
+      - Info & Communication Tech/Baseline ICT Standards and New Media
+        Literacies.md
+      - Info & Communication Tech/Code For Fun.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/LSM Programme.md
+      - Mathematics/ICAN.md
+      - Mathematics/Mathematics Activity Week.md
+      - Mathematics/ICT @ Math.md
+      - Mathematics/Provision for High Achievers.md
+      - Mathematics/Mathematics Leaders.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/Happy Writing.md
+      - Mother Tongue Languages/Reading Programme.md
+      - Mother Tongue Languages/Cultural Learning Journey.md
+      - Mother Tongue Languages/Parent Child Reading Packages.md
+      - Mother Tongue Languages/Chinese.md
+      - Mother Tongue Languages/Malay.md
+      - Mother Tongue Languages/Tamil.md
+      - PE, Art & Music/.keep
+      - PE, Art & Music/Physical Education, Art & Music.md
+      - PE, Art & Music/Physical Education.md
+      - PE, Art & Music/Arts.md
+      - PE, Art & Music/Music.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Earth Week.md
+      - Science/World Water Day.md

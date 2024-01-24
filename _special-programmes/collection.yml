@@ -1,0 +1,8 @@
+collections:
+  special-programmes:
+    output: true
+    order:
+      - ALP (CARE).md
+      - LLP (i2CanDance).md
+      - Eco Stewardship.md
+      - Positive Behaviour Support (PBS).md

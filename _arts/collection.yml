@@ -1,0 +1,6 @@
+collections:
+  arts:
+    output: true
+    order:
+      - Art Curriculum.md
+      - Art Aesthetics Learning Journey and Assembly Programme.md
