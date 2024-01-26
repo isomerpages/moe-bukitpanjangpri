@@ -92,6 +92,8 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
+                <p></p>
+                <p></p>
                 <p>Edusave Good Progress Awards</p>
             </td>
             <td rowspan="1" colspan="1">
