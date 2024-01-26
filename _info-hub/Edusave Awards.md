@@ -92,8 +92,6 @@ variant: tiptap
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <br>
                     <br><strong>Primary 4 to 6:</strong>&nbsp;$250</p>
             </td>
         </tr>
