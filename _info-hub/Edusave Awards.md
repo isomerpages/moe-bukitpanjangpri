@@ -72,7 +72,7 @@ variant: tiptap
                     household income does not exceed $7,500 (or per capita income does not
                     exceed $1,875)</p>
                 <p></p>
-                <p><strong>Other levels</strong>
+                <p><strong>Other levels</strong> 
                     <br>Within the top 25% of their school’s level and course in terms of academic
                     performance, have demonstrated good conduct and whose monthly household
                     income does not exceed $7,500 (or per capita income does not exceed $1,875).</p>
@@ -84,6 +84,9 @@ variant: tiptap
                 </p>
                 <p></p>
                 <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
                 <p><strong>Primary 4 to 6:</strong>&nbsp;$250</p>
             </td>
         </tr>
@@ -92,12 +95,39 @@ variant: tiptap
                 <p>Edusave Good Progress Awards</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Within top 10% of the school’s level and course in terms of improvement
+                <p><strong>Primary 2 and Primary 3</strong>
+                    <br>Students who do not qualify for Edusave Merit Bursary, but showed the
+                    greatest improvement in learning disposition in the course of the year
+                    and have demonstrated good conduct.</p>
+                <p></p>
+                <p><strong>Other levels</strong>
+                    <br>Within top 10% of the school’s level and course in terms of improvement
                     in academic, and have demonstrated good conduct.</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>Primary 2 to 3:</strong>&nbsp;$100
-                    <br><strong>Primary 4 to 6:</strong>&nbsp;$150</p>
+                    <br>
+                </p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p><strong>Primary 4 to 6:</strong>&nbsp;$150</p>
             </td>
         </tr>
         <tr>
