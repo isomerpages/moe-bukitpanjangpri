@@ -84,8 +84,8 @@ variant: tiptap
                 <p><strong>Other levels</strong> 
                     <br>Within the top 25% of their school’s level and course in terms of academic
                     performance, have demonstrated good conduct and whose monthly household
-                    income does not exceed $7,500 (or per capita income does not exceed $1,875).</p>
-                <p>Students must not be recipients of an Edusave Scholarship.</p>
+                    income does not exceed $7,500 (or per capita income does not exceed $1,875).
+                    Students must not be recipients of an Edusave Scholarship.</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>Primary 1 to 3:</strong>&nbsp;$200
