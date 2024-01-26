@@ -95,19 +95,18 @@ variant: tiptap
                 <p>Edusave Good Progress Awards</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Primary 2 and Primary 3</strong>
+                <p><strong>Primary 2 and Primary 3</strong> 
                     <br>Students who do not qualify for Edusave Merit Bursary, but showed the
                     greatest improvement in learning disposition in the course of the year
                     and have demonstrated good conduct.</p>
                 <p></p>
-                <p><strong>Other levels</strong>
+                <p><strong>Other levels</strong> 
                     <br>Within top 10% of the school’s level and course in terms of improvement
                     in academic, and have demonstrated good conduct.</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Primary 2 to 3:</strong>&nbsp;$100
-                    <br>
-                </p>
+                <p><strong>Primary 2 to 3:</strong>&nbsp;$100</p>
+                <p></p>
                 <p></p>
                 <p></p>
                 <p></p>
