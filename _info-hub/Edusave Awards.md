@@ -66,15 +66,14 @@ variant: tiptap
                 <p>Edusave Merit Bursary (EMB)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Primary 1 and 2</strong>
+                <p><strong>Primary 1 and 2</strong> 
                     <br>Students who consistently demonstrated positive learning dispositions
                     in the course of the year, have demonstrated good conduct and whose monthly
                     household income does not exceed $7,500 (or per capita income does not
                     exceed $1,875)</p>
                 <p></p>
                 <p><strong>Other levels</strong>
-                </p>
-                <p>Within the top 25% of their school’s level and course in terms of academic
+                    <br>Within the top 25% of their school’s level and course in terms of academic
                     performance, have demonstrated good conduct and whose monthly household
                     income does not exceed $7,500 (or per capita income does not exceed $1,875).</p>
                 <p>Students must not be recipients of an Edusave Scholarship.</p>
@@ -83,6 +82,8 @@ variant: tiptap
                 <p><strong>Primary 1 to 3:</strong>&nbsp;$200
                     <br>
                 </p>
+                <p></p>
+                <p></p>
                 <p><strong>Primary 4 to 6:</strong>&nbsp;$250</p>
             </td>
         </tr>
