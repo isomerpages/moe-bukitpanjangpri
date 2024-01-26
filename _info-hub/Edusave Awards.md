@@ -66,7 +66,7 @@ variant: tiptap
                 <p>Edusave Merit Bursary (EMB)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Primary 1 and 2               </strong>Students who consistently
+                <p><strong>Primary 1 and 2                </strong>Students who consistently
                     demonstrated positive learning dispositions in the course of the year,
                     have demonstrated good conduct and whose monthly household income does
                     not exceed $7,500 (or per capita income does not exceed $1,875)</p>
