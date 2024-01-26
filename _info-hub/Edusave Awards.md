@@ -63,7 +63,16 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Edusave Merit Bursary (EMB)</p>
+                <p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>Edusave Merit Bursary (EMB)</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>Primary 1 and 2</strong> 
@@ -81,32 +90,16 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p><strong>Primary 1 to 3:</strong>&nbsp;$200
                     <br>
-                </p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p><strong>Primary 4 to 6:</strong>&nbsp;$250</p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br><strong>Primary 4 to 6:</strong>&nbsp;$250</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
                 <p>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
                     <br>
                     <br>
                     <br>
@@ -126,9 +119,12 @@ variant: tiptap
             </td>
             <td rowspan="1" colspan="1">
                 <p><strong>Primary 2 to 3:</strong>&nbsp;$100</p>
-                <p></p>
-                <p></p>
-                <p><strong>Primary 4 to 6:</strong>&nbsp;$150</p>
+                <p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br><strong>Primary 4 to 6:</strong>&nbsp;$150</p>
             </td>
         </tr>
         <tr>
