@@ -108,24 +108,6 @@ variant: tiptap
                 <p><strong>Primary 2 to 3:</strong>&nbsp;$100</p>
                 <p></p>
                 <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
                 <p><strong>Primary 4 to 6:</strong>&nbsp;$150</p>
             </td>
         </tr>
