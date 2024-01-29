@@ -2,11 +2,12 @@
 title: Our Beliefs
 permalink: /about-us/our-beliefs/
 description: ""
+variant: markdown
 ---
 ## Vision
 Future Leaders, Concerned Citizens
 
-Every learner an adaptable and compassionate leader who is grounded in school values and has the heart to serve others
+Every learner an adaptable and empathetic leader who is grounded in school values and has the heart to serve others
 
 ---------------------------
 ## Mission
