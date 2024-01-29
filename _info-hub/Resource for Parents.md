@@ -10,7 +10,7 @@ Resource for Parents
 ### Briefing Slides for Meet and Greet
 
 
-  Please find the slides for the parents briefing
+  Please find the slides for the parents briefing 2024 at the links below.
 	
 [P2 Meet and Greet](/files/Meet_Greet_P2_2024.pdf)
 
