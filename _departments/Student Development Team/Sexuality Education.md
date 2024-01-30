@@ -45,7 +45,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h2>Overview of Bukit Panjang Primary&nbsp;School’s&nbsp;Sexuality Education Programme</h2>
+<h3>Overview of Bukit Panjang Primary&nbsp;School’s&nbsp;Sexuality Education Programme</h3>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -57,11 +57,11 @@ in the school curriculum.</p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
+<p>a. Science
+<br>b. Character and Citizenship Education (CCE)</p>
 </li>
 </ol>
-<p>a. Science</p>
-<p>b. Character and Citizenship Education (CCE)</p>
-<p><strong>Sexuality Education Lessons:</strong>
+<p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -73,37 +73,36 @@ ready for sexual activity sooner without necessarily having the corresponding
 cognitive or emotional maturity to modulate their behaviours. Furthermore,
 our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
-guidance so that they can respond with discernment to the sexual messages
-in the media and other sources.</p>
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
 </li>
 </ol>
 <p>7.&nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
-at Primary 5 and 6. In SEd, students learn to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships including those with members of the opposite
-sex, and make wise, informed and responsible decisions on sexuality matters.</p>
-<p>At Bukit Panjang Primary School, the following Sexuality Education lessons
-will be taught in 2023:</p>
+at Primary 5 and 6. Through these lessons, students will learn healthy
+ways to manage the physiological, social and emotional changes in their
+growing years. They learn to build healthy and rewarding relationships
+with others, including those with members of the opposite sex. Students
+are also guided to make wise, informed and responsible decisions to keep
+themselves safe from sexuality-related risks.</p>
+<p><strong>At Bukit Panjang Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 P5 Sexuality Education" src="/images/2024_Sexuality_Education_P5_3_140.png">
+<img style="width: 100%" height="auto" width="100%" alt="P5 Sexuality Education" src="/images/2024_Sexuality_Education_P5_3_140.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 P6 sexuality Education" src="/images/2024_Sexuality_Education_P6_140_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="2024 P6 Sexuality Education" src="/images/2024_Sexuality_Education_P6_140_4.png">
 </div>
 <p></p>
-<p><strong>Please Note:</strong>
-</p>
-<p><strong>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong>
-</p>
 <h2>Information for Parents</h2>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form,
-which is available&nbsp;<a href="https://form.gov.sg/63c61d50bef23b00115e3c4c" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
-completed opt-out form is to be submitted by 31/01/2023.</p>
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated to parents at the start of the year and
+is also downloadable <a href="https://form.gov.sg/65b82e2fb64ed538019eb815" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 19/02/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6769
 1912 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
