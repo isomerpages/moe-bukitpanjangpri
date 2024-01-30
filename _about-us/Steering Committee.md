@@ -439,7 +439,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h2>SAT Team</h2>
+<h2>School Admin Team</h2>
 <table>
 <tbody>
 <tr>
