@@ -390,10 +390,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suharti Bte Hassan</p>
+<p>Mdm Shariffa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suharti_bt_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suharti_bt_hassan@moe.edu.sg</a>
+<p><a href="mailto:shariffa_bee_syed_ahamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffa_bee_syed_ahamad@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -421,7 +421,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Lead Teacher (PE)</p>
 </td>
 </tr>
 <tr>
@@ -439,7 +439,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h2>EAS Team</h2>
+<h2>SAT Team</h2>
 <table>
 <tbody>
 <tr>
@@ -467,7 +467,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chang</p>
+<p>Mr Chang Kim Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_kim_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_kim_seng@moe.edu.sg</a>
@@ -486,19 +486,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheah Sin Yi</p>
+<p>Mdm Cheah Sin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheah_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_sin_yi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>Administration Executive</p>
 </td>
 </tr>
 <tr>
