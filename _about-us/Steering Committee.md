@@ -378,6 +378,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Mohd Riad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_riad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_riad@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (PE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Sapia Bte Suki</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -385,7 +397,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (English)</p>
+<p>Senior Teacher (Lower Primary Learners)</p>
 </td>
 </tr>
 <tr>
@@ -410,18 +422,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (CL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Riad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_riad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_riad@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher (PE)</p>
 </td>
 </tr>
 <tr>
