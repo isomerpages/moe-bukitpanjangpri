@@ -27,5 +27,4 @@ and resilient individuals who will make meaningful contributions to society.</p>
 efforts and unwavering commitment, we will continue to inspire, educate,
 and shape the future leaders of tomorrow.</p>
 <p>Teresa Kelly Len (Mdm)
-<br>Principal
 <br>Principal</p>
