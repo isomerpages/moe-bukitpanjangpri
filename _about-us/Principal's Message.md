@@ -2,22 +2,30 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: tiptap
 ---
-Bukit Panjang Primary School has just celebrated its 90th Anniversary on 18 November 2022. We are proud of the rich and long tradition and the many achievements over the years since the school started in 1932. The school has grown from strength to strength. Guided by a strong set of values, character building, excellence and an open mind, we have ensured that the students under our charge undergo a quality holistic education. 
-
-  
-
-As an educator, I firmly believe that all students can have the ability to learn, unlearn and relearn. Learning can take place at any time and any place. Thus, it is important to create spaces and opportunities for learning to happen and allowing our students the time and space to experience and reflect upon their learning. Learning is a life-long journey and so the students need to learn and want to take ownership of it.
-
-  
-
-Here at Bukit Panjang Primary School, character building and a wide range of experiences are what we provide in education outside of the academic domain. Many of our alumni have children in our school and so do many of our teachers and teachers from other schools which is a testimony to the continuing search for excellence and providing a wide range of experiences which students remember for life. 
-
-  
-
-I am happy to be appointed as the Principal of Bukit Panjang Primary School. Together with all staff, parents as well as the community, we will continue to prepare our students to be “Future Leaders, Concerned Citizens”.
-
-  
-
-Teresa Kelly Len (Mdm)<br>
-Principal
+<p>I am pleased to extend a warm welcome to all students, parents, guardians,
+teachers, and staff as we commence another exciting year at Bukit Panjang
+Primary School.</p>
+<p>As we stride into 2024, it's important to reflect on our journey and celebrate
+our successes. With great pride, I can share that our school has continued
+to excel in both academic outcomes and holistic development.</p>
+<p>In today's rapidly changing world, the importance of equipping our students
+with the skills necessary for success cannot be overstated. Hence, alongside
+our continued dedication to academic excellence, we have increasingly emphasized
+the cultivation of 21st-century competencies (21CC) among our students.
+These essential skills, including critical thinking, creativity, collaboration,
+communication, and digital literacy, are vital for their future success
+and fulfillment in an ever-evolving global landscape.</p>
+<p>At Bukit Panjang Primary School, we are committed to cultivating not only
+academic excellence but also strong character and values in our students.
+Our vision of nurturing "Future Leaders, Concerned Citizens" remains at
+the forefront of everything we do. Together, let us continue to work hand
+in hand, guiding and empowering our students to become empathetic, responsible,
+and resilient individuals who will make meaningful contributions to society.</p>
+<p>As we embark on this new academic year, I am confident that with our collective
+efforts and unwavering commitment, we will continue to inspire, educate,
+and shape the future leaders of tomorrow.</p>
+<p>Teresa Kelly Len (Mdm)
+<br>Principal
+<br>Principal</p>
