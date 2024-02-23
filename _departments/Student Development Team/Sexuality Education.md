@@ -88,11 +88,12 @@ themselves safe from sexuality-related risks.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 Sexuality Education" src="/images/2024_Sexuality_Education_P5_3_140.png">
+<img style="width: 100%" height="auto" width="100%" alt="P5 Sexuality Table rev 1" src="/images/Primary_5_Sexuality_Table_adjust_rev_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 P6 Sexuality Education" src="/images/2024_Sexuality_Education_P6_140_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="P6 Sexuality Table Rev 1" src="/images/Primary_6_Sexuality_Table_rev_1.jpg">
 </div>
+<p></p>
 <p></p>
 <h2>Information for Parents</h2>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
