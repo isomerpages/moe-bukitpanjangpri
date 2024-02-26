@@ -105,8 +105,8 @@ This form will be communicated to parents at the start of the year and
 is also downloadable <a href="https://form.gov.sg/65b82e2fb64ed538019eb815" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by 19/02/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6769
-1912 for discussion or email the school at <a href="bpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@moe.edu.sg </a>to seek clarification about
-the school’s Sexuality Education programme.</p>
+1912 for discussion or email the school at <a href="mailto:bpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@moe.edu.sg </a>to seek clarification
+about the school’s Sexuality Education programme.</p>
 <p>Do refer to the cover letter for the Sexuality Education programme via
 this<a href="/files/2024_SED_Letter__signed_.pdf" rel="noopener noreferrer nofollow" target="_blank"> link.</a>
 </p>
