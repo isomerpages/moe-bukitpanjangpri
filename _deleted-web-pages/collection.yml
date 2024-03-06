@@ -2,4 +2,5 @@ collections:
   deleted-web-pages:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Test.md
