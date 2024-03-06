@@ -1,0 +1,4 @@
+collections:
+  deleted-web-pages:
+    output: true
+    order: []
