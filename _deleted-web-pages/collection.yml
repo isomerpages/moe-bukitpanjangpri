@@ -1,4 +1,5 @@
 collections:
   deleted-web-pages:
     output: true
-    order: []
+    order:
+      - Test.md
