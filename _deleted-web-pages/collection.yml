@@ -2,5 +2,5 @@ collections:
   deleted-web-pages:
     output: true
     order:
-      - School Canteen Advertisement.md
+      - School Canteen Advertisement (Moved from Partners Corner).md
       - Test.md
