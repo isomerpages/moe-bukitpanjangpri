@@ -1,5 +1,5 @@
 ---
-title: School Canteen Advertisement
+title: School Canteen Advertisement (Moved from Partners Corner)
 permalink: /partners-corner/permalink/canteen/
 description: ""
 variant: tiptap
