@@ -116,7 +116,4 @@ all of them did our school proud by clinching the following awards:</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8ZeS11G9Wc8wjYL0OCsU8jyqPv6a-lHm-WbAwKEyaGzAFRzYZk5Nxn1Etq5a6o8-LS-w3UA_6Hizn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRu10itRQxlvczufJXU2m3TJkc6Liuiy4Zochscos3W1AmZ8SlmsLTKw3a6BeWUUJYmo9FzkgiTHJOx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
