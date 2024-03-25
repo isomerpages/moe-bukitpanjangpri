@@ -3,6 +3,7 @@ title: Art and Crafts
 permalink: /cca/clubs-and-societies/art-and-crafts/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 Background
 ----------
@@ -21,4 +22,4 @@ Students get to experiment and learn to handle different Art mediums such as pos
 Photos
 ------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRDWtNzZaoXqG0T6KFg1EoMvp_GV4pSsdLjdJcAnpGaEZqiRBTMyF9CniwpAbJ1KoU48l04rD921fL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjptt2aPhPvC6hpP8TckhUiS8H_CV14W4mP8P5B4c4tH0_EfbDgthRbcPz1XpgsVaDp9Fk41U_VVs9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
