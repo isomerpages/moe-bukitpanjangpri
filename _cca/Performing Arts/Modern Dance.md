@@ -28,7 +28,4 @@ Teamwork are also stressed upon during the training sessions.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5m663sV0PvQod5lnQjEuSDPa7OOV8Ur-hb9uZg2h2SQG-V8vSeYq93j--KCENNri9XiFdZ6o4QFor/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUnFlKfX9ydxkJb0ZYIzROfSASY5t0VZJr6jmq6MkGQ6_lR1DhGolfJqgZ-vE3YS-WTss-aa_vBDuy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
