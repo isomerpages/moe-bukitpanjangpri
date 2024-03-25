@@ -57,7 +57,4 @@ their child’s love for Badminton and their academic obligations.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkHR6rOPfCS23hM163uZi0wrZRUshZVso5WhcQqepedfmQP1zOQV2E6Pyly4mNs1R-neygfYqRZNEg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWewSuiwsHEJgEuGEAGp3nOmt9adRqgudi6AgloPYKE-ZbWw9rWQiOWofI1jHy0n9J9NOjxuScQJ1I/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
