@@ -27,5 +27,3 @@ Photos
 ------
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3HEIbNi9phYPm8EMrbTI8aQwaxY-8osOE78DtSBTTmT2IXAzb70omNqeS1PcCZlVmWSvI5aI2wLIU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7FsCjPn4CYaD4_30izlLca6bsKzfZLgEgDZCwsS_Aj9ZV775raqI8JnKJZXf7ZS-UAEU3nbwCE0e3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
