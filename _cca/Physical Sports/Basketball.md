@@ -106,7 +106,4 @@ higher standard.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZIBoz5rfpHOnvFwW3wCxj-YRkdSHrVrVPiffYfZXzV7kDrY-xCZRAo5HglIwagGPQ8ygPu169EKDG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbJ2hehbWhhZAZewuU74uSefkh8tsicYJzitZlUztuvNZPKYapB9XuOmOwV4T_qwHA1blrr3UpnAvC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
