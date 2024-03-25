@@ -17,9 +17,6 @@ community drumming event “Celebration of Drums”.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnk9ITU4VXnZodUqvytRVFmOLha-PwlVMtsUCdO8r4T_jkRxsibpYhGlsod_ZeLz_5T_XxF2xpH883/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdk8XZ-INEuM5cX7Ep54HHosYfyebTX_30Kp7gSYtTCuUJdo3j2Rr4z1Rlw_JwKMv80mrXZV3MJyL0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p>Community drumming event&nbsp;<strong>“Celebration of Drums”</strong>
 </p>
 <div class="isomer-image-wrapper">
