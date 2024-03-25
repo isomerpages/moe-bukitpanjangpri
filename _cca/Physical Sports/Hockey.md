@@ -23,7 +23,4 @@ year while working hard to improve in all aspects of our game.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRICK_8Cd6Atuqvl4Jr6qZZAgEtN0_RRBbD3SDeUir1qp5qVQDKvF6d9wo6nmMC3a7W4cL_vIkR0ZhE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwc5gNum6spjfqlGoAGgx3Dur-8KvRTZjyoM2CULcaFpJJtWTpzfv_wulg48x0rz1DEo4xvaUFsCD_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
