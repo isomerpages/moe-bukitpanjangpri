@@ -63,7 +63,4 @@ school.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbxjQJ-z9-gzAu0HTfs1951mgkP9bRHI9_MBPjD_RjUBA6pTYjv6el-DUjLSiaDvVB54BP3OrqYLr1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYR_uUocVhh1RtDggMlms6KSxk9rlXGseMfSyoabx1iGvFCBA8fzzqiCK4Zn433XF0dLnbIUDjyvqP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
