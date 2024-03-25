@@ -23,7 +23,4 @@ such as the National Robotics Competition.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAsoBxa8qu_DDO9oX-8ktt1FCz2hMMXsSscIlBKGEdnLL63G5PHlaLn97V-gJdSue2RtBGAV485TmY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnn78mRXOvSytwDkmDtLdIYrafDiHG7YB9tJiEGZ8Wk2C4i86K4fWmTKUL7Id2EB7LhdhJYufGlH41/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
