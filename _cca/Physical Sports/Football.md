@@ -26,7 +26,4 @@ good team. BPPS Woosh!</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIRQ-2s8OfKxjI1Mf5REkfW3Cy7TyB59-l9gAwIlfFd3TR0h8a1JZ23QJenG8stcr45g0Rv87De1zw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdfvpSyk6Lb0tK0AxnnGueNzUoR8Svfmulz1PCOnKVPzc58-45FC_c0T-rRxTGbFkV72f7Y8-nuBzg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
