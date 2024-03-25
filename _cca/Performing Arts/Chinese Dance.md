@@ -34,7 +34,4 @@ and National Day celebration.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSP57YKvcEBxkiwt4kzKXs0ZCyDXOdJ1IQYXMGlPCDurKGQD7GjubqXCgjUD1-0TyJdvtDeIXqqYFXQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMTYv2hP8zkUci2BhyfCV5PXvdyAJCMFtn1PTOMRdJtb9fVs_PKpC2n2aZ6P57s1d5j7y6FmU0hdOE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
