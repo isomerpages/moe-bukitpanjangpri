@@ -79,7 +79,4 @@ to learn skills needed for them to cope better in the technological world.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8XvK-rkMSut4-I_TZ5Ii9bnEC6Qn1yPhfQQc-A3VMCiVpANM3WEm6yJ-5C7LGRwYbJH9KwTvfO7ms/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHKTiT7OEPenckv8puXDIG6w_FLoHEWCsrnLUza7YHw4eztAvdNDqhB_PCsMeWNcPGWJ0CuA8m6c7z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
