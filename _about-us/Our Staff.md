@@ -21,7 +21,7 @@ variant: markdown
 | Responsibility | Primary 2 Class Mentors | Email |
 | -------- | -------- | -------- |
 |1| Mdm Siti Noraisha Binte Mohd Noor <br> Mdm Ng Lilian | siti_noraisha_mohd_noor@moe.edu.sg <br> ng_lilian@moe.edu.sg |
-|2| Ms Tan Swee Leng <br> Ms Nirisha Darshani | tan_swee_leng_sharon@moe.edu.sg <br> nirisha_darshani@moe.edu.sg |
+|2| Ms Tan Swee Leng Sharon<br> Ms Nirisha Darshani | tan_swee_leng_sharon@moe.edu.sg <br> nirisha_darshani@moe.edu.sg |
 |3| Ms Lim Pei Rou Valerie<br> Mdm Ramlah Bte Rahmat | valerie_lim_pei_rou@moe.edu.sg<br> ramlah_rahmat@moe.edu.sg |
 |4| Ms Grant Maureen Anne <br> Ms Leow Mei Leng |  grant_maureen_anne@moe.edu.sg<br> leow_mei_leng@moe.edu.sg |
 |5| Mdm Suharti Bte Hassan <br> Miss Low Duo Jia, Dorcas | suharti_bt_hassan@moe.edu.sg<br> low_duo_jia_dorcas@moe.edu.sg |
