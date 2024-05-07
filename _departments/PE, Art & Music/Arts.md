@@ -5,11 +5,8 @@ description: ""
 third_nav_title: PE, Art & Music
 variant: tiptap
 ---
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="/arts/art-curriculum/" rel="noopener noreferrer nofollow" target="_blank">Art Curriculum</a>
-</p>
-</li>
 <li>
 <p><a href="/arts/art-curriculum" rel="noopener noreferrer nofollow" target="_blank">Art Curriculum</a>
 </p>
