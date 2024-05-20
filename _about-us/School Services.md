@@ -16,27 +16,34 @@ the school to purchase at the school bookshop from 2pm to 3pm.
 <br>
 </p>
 <h3>Nascans@Bukit Panjang Student Care Centre</h3>
-<p><strong>School Term</strong>
+<p><strong>School Term</strong> 
 <br>Monday to Friday: 11am to 7pm</p>
-<p><strong>School Holidays (Except Centre Closure Days)</strong>
+<p><strong>School Holidays (Except Centre Closure Days)</strong> 
 <br>Monday to Friday: 7.30am to 7pm
 <br>Email:&nbsp;<a href="mailto:bkpscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">bkpscc@nascans.com</a>
 </p>
 <hr>
 <h3>School Dental Clinic</h3>
-<p>Tel: 91142186
-<br>
+<p>Dental Therapist: Ms Cheryl Yeo &amp; Mr Raiyan</p>
+<p>Operating hours:</p>
+<p>Monday, Wednesday &amp; Friday: 8am-5pm</p>
+<p>Tuesday and Thursday:</p>
+<p>8am-5.30pm</p>
+<p>Lunch Time:</p>
+<p>1pm-2pm</p>
+<p>Handphone:</p>
+<p>9114&nbsp;2186 (Call and WhatsApp)</p>
+<p>Child consent portal:</p>
+<p><a href="https://consent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg</a>
 </p>
-<p><strong>Operating Hours</strong>
-</p>
-<p>Please call clinic to enquire.</p>
+<p></p>
 <hr>
 <h3>School Transport Service</h3>
 <p><strong>Woodlands Transport Solutions Pte Ltd</strong> 
 <br>Transport Hotline: 90255803 (Sri)
 <br>Ops Email / registration: <a href="mailto:bpps@woodlandstransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@woodlandstransport.com.sg </a>
 <br>
-<br><strong>2024 Bus Fare</strong>
+<br><strong>2024 Bus Fare</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
