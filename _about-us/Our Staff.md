@@ -494,12 +494,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Shee Yih Winnie
 <br>Ms Jody Chan
-<br>Mr Koh Chung Heng</p>
+<br>Mr Koh Chung Heng
+<br>Mr Lim Peng Yiam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_shee_yih_winnie@moe.edu.sg
 <br>chan_pei_lai@moe.edu.sg
-<br>koh_chung_heng@moe.edu.sg</p>
+<br>koh_chung_heng@moe.edu.sg
+<br>lim_peng_yiam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -536,11 +538,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foong Kah Yin
-<br>Ms Chen Ying Ying</p>
+<br>Ms Chen Ying Ying
+<br>Ms Ng Sok Mei Vivien</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foong_kah_yin@moe.edu.sg
-<br>Chen_Ying-Ying@moe.edu.sg</p>
+<br>Chen_Ying-Ying@moe.edu.sg
+<br>ng_sok_mei_vivien@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -562,11 +566,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Phyllis Lim
-<br>Mr Peter Chutatape</p>
+<br>Mr Peter Chutatape
+<br>Mr Fariz Ramlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liyau_poh_cheng@moe.edu.sg
-<br>peter_chutatape@moe.edu.sg</p>
+<br>peter_chutatape@moe.edu.sg
+<br>fariz_ramlan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -641,10 +647,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lok Chee Weng Edward
 <br>Mr Liew Wai Kee</p>
+<p>Mrs Lisa Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lok_chee_weng@moe.edu.sg
-<br>liew_wai_kee@moe.edu.sg</p>
+<br>liew_wai_kee@moe.edu.sg
+<br>lau_hui_miang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
