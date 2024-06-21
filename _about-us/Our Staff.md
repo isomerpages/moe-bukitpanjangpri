@@ -539,7 +539,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Foong Kah Yin
 <br>Ms Chen Ying Ying
-<br>Ms Ng Sok Mei Vivien</p>
+<br>Ms Ng Sok Mei, Vivien</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foong_kah_yin@moe.edu.sg
@@ -646,8 +646,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lok Chee Weng Edward
-<br>Mr Liew Wai Kee</p>
-<p>Mrs Lisa Yap</p>
+<br>Mr Liew Wai Kee
+<br>Mrs Lisa Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lok_chee_weng@moe.edu.sg
