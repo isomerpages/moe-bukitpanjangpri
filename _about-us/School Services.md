@@ -30,7 +30,8 @@ the school to purchase at the school bookshop from 2pm to 3pm.
 <p>Tuesday and Thursday:</p>
 <p>8am-5.30pm</p>
 <p>Lunch Time:</p>
-<p>1pm-2pm</p>
+<p>1pm-2pm
+<br>12pm-1pm (Only Sch Holidays)</p>
 <p>Handphone:</p>
 <p>9114&nbsp;2186 (Call and WhatsApp)</p>
 <p>Child consent portal:</p>
