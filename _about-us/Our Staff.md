@@ -69,11 +69,11 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Pyng Jing
+<p>Mrs Lisa Yap
 <br>Mdm Liew Siew Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_pyng_jing@moe.edu.sg
+<p>lau_hui_miang@moe.edu.sg
 <br>liew_siew_chiew@moe.edu.sg</p>
 </td>
 </tr>
