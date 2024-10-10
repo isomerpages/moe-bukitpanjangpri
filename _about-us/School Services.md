@@ -27,17 +27,15 @@ the school to purchase at the school bookshop from 2pm to 3pm.
 <p>Dental Therapist: Ms Cheryl Yeo &amp; Mr Raiyan</p>
 <p>Operating hours:</p>
 <p>Monday, Wednesday &amp; Friday: 8am-5pm</p>
-<p>Tuesday and Thursday:</p>
-<p>8am-5.30pm</p>
-<p>Lunch Time:</p>
-<p>1pm-2pm
+<p>Tuesday and Thursday: 8am-5.30pm</p>
+<p>Lunch Time: 1pm-2pm
 <br>12pm-1pm (Only Sch Holidays)</p>
-<p>Handphone:</p>
-<p>9114&nbsp;2186 (Call and WhatsApp)</p>
-<p>Child consent portal:</p>
-<p><a href="https://consent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg</a>
+<p>Handphone: 9114&nbsp;2186 (Call and WhatsApp)</p>
+<p>Child consent portal: <a href="https://consent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg</a>
 </p>
-<p></p>
+<p>Please note that the dental clinic is open on alternate week.</p>
+<p>&nbsp;For more information on which day the clinic is open, please call
+the above handphone number or BPPS General Office at Tel: 67691912. &nbsp;</p>
 <hr>
 <h3>School Transport Service</h3>
 <p><strong>Woodlands Transport Solutions Pte Ltd</strong> 
@@ -52,14 +50,27 @@ the school to purchase at the school bookshop from 2pm to 3pm.
 </div>
 <hr>
 <h3>School Uniform Supplier</h3>
-<p><strong>YangTzeKiang Tailor</strong> 
-<br>51 Bukit Batok Crescent #05-14 Unity Centre
-<br>Singapore 658077
-<br>Tel: 67691260&nbsp;</p>
-<p>Operating hours:
-<br>Mon-Fri: 9am - 5:30pm
-<br>Sat: 9am - 3:30pm
-<br>Closed on Sunday and Public Holidays
+<p><strong>&nbsp;Yangtze Kiang Tailor</strong>
+</p>
+<p>A booth will be set up <u>in front of the school bookshop</u>  <strong>every Wednesday</strong> during <strong>school term</strong> from <strong><u>2:00pm to 3.30pm</u></strong> for
+the sale of school uniform.</p>
+<p>&nbsp;Alternatively, you can also purchase uniform at:</p>
+<p>&nbsp;1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online eshop at
+<a rel="noopener noreferrer nofollow" target="_blank">www.yangtzekiang.com.sg/eshop</a>
+</p>
+<p>&nbsp;2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Walk-in to their retail
+outlet at 51 Bukit Batok Crescent, Unity Center #05-14&nbsp;during their
+operating hours&nbsp;</p>
+<p>Operating hours&nbsp;:</p>
+<p>Mon-Fri: 9:00am - 5:30pm</p>
+<p>Sat: 9:00am - 3:30pm</p>
+<p>Closed on Sunday and Public Holidays</p>
+<p>For more information, you may contact them at:</p>
+<p>Contact number: 67691260 / 8697 1660</p>
+<p>Sms &amp; whatsapp: 8697 1660</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">yangtzekiang@singnet.com.sg</a>
+</p>
+<p>
 <br>
 </p>
 <hr>
