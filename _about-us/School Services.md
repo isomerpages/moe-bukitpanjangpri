@@ -27,17 +27,15 @@ the school to purchase at the school bookshop from 2pm to 3pm.
 <p>Dental Therapist: Ms Cheryl Yeo &amp; Mr Raiyan</p>
 <p>Operating hours:</p>
 <p>Monday, Wednesday &amp; Friday: 8am-5pm</p>
-<p>Tuesday and Thursday:</p>
-<p>8am-5.30pm</p>
-<p>Lunch Time:</p>
-<p>1pm-2pm
+<p>Tuesday and Thursday: 8am-5.30pm</p>
+<p>Lunch Time: 1pm-2pm
 <br>12pm-1pm (Only Sch Holidays)</p>
-<p>Handphone:</p>
-<p>9114&nbsp;2186 (Call and WhatsApp)</p>
-<p>Child consent portal:</p>
-<p><a href="https://consent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg</a>
+<p>Handphone: 9114&nbsp;2186 (Call and WhatsApp)</p>
+<p>Child consent portal: <a href="https://consent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg</a>
 </p>
-<p></p>
+<p>Please note that the dental clinic is open on alternate week.</p>
+<p>&nbsp;For more information on which day the clinic is open, please call
+the above handphone number or BPPS General Office at Tel: 67691912. &nbsp;</p>
 <hr>
 <h3>School Transport Service</h3>
 <p><strong>Woodlands Transport Solutions Pte Ltd</strong> 
