@@ -647,12 +647,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lok Chee Weng Edward
 <br>Mr Liew Wai Kee
-<br>Mrs Lisa Yap</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lok_chee_weng@moe.edu.sg
-<br>liew_wai_kee@moe.edu.sg
-<br>lau_hui_miang@moe.edu.sg</p>
+<br>liew_wai_kee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
