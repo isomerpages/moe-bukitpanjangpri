@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Staff Portal.md
       - BRIGHT IDEAS.md
       - Edusave Awards.md
       - Home Based Learning.md
