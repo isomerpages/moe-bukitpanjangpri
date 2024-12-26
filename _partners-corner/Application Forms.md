@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><a href="/files/BPPS%20Alumni%20Form%20updated%20June%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">BPPS Alumni Form updated June 2022</a>
 </p>
-<p><a href="/files/Waiting%20List%20Application%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Waiting List Application Form</a>
+<p><a href="https://form.gov.sg/6752a34a4e57bb828de6159f" rel="noopener nofollow" target="_blank">Waiting List Application Form</a>
 </p>
 <h2>Application for leave of absence</h2>
 <p>Please click on the&nbsp;<a href="https://form.gov.sg/#!/60de88ba2be3f50011b17217" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
