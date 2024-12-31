@@ -437,6 +437,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:benazir_mohamed_shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benazir_mohamed_shariff@moe.edu.sg</a>
+<br>
 <br><a href="mailto:foo_siew_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siew_fong@moe.edu.sg</a>
 </p>
 </td>
