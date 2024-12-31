@@ -30,16 +30,14 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Noraisha Binte Mohd Noor</p>
-<p>Ms Lee Siew Siew Irene</p>
-<p>Ms Sim Chor Kiang</p>
+<p>Mdm Siti Noraisha Binte Mohd Noor
+<br>Ms Lee Siew Siew Irene
+<br>Ms Sim Chor Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_noraisha_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noraisha_mohd_noor@moe.edu.sg</a>
-</p>
-<p><a href="mailto:lee_siew_siew_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_siew_irene@moe.edu.sg</a>
-</p>
-<p><a href="mailto:sim_chor_kiang_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_chor_kiang_B@moe.edu.sg</a>
+<br><a href="mailto:lee_siew_siew_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_siew_irene@moe.edu.sg</a>
+<br><a href="mailto:sim_chor_kiang_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_chor_kiang_B@moe.edu.sg</a>
 </p>
 </td>
 </tr>
