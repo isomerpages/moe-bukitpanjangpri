@@ -699,11 +699,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Ping Hui Valerie
-<br>Ms Loo Xin Yi Janice</p>
+<br>Mdm Suharti Bte Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:valerie_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valerie_teo@moe.edu.sg</a>
-<br><a href="mailto:loo_xin_yi_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_xin_yi_janice@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">suharti_bt_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
