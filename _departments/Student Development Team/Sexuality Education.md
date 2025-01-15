@@ -84,7 +84,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p><strong>At Bukit Panjang Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At Bukit Panjang Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p></p>
 <p></p>
