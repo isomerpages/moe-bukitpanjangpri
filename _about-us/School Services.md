@@ -24,7 +24,7 @@ the school to purchase at the school bookshop from 2pm to 3pm.
 </p>
 <hr>
 <h3>School Dental Clinic</h3>
-<p>Dental Therapist: Ms Cheryl Yeo &amp; Mr Raiyan</p>
+<p>Dental Therapist: Mdm Rozilawati</p>
 <p>Operating hours:</p>
 <p>Monday, Wednesday &amp; Friday: 8am-5pm</p>
 <p>Tuesday and Thursday: 8am-5.30pm</p>
