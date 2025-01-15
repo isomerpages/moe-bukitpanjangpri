@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Development Team
 variant: tiptap
 ---
-<h2>MOE Sexuality Education in Schools</h2>
+<h2>MOE SEXUALITY EDUCATION IN SCHOOLS</h2>
 <ol>
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -45,7 +45,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h3>Overview of Bukit Panjang Primary&nbsp;School’s&nbsp;Sexuality Education Programme</h3>
+<h3>OVERVIEW OF BUKIT PANJANG PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
