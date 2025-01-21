@@ -7,9 +7,17 @@ variant: tiptap
 <h1>Resource for Parents</h1>
 <h3>Briefing Slides for Meet and Greet</h3>
 <p>Please find the slides for the parents briefing 2025 at the links below.</p>
-<p>
+<p>P2 Meet and Greet (Principal)
 <br><a href="/files/P2_Meet___Greet_2025__AYH_.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Meet and Greet (AYH)</a>
 </p>
+<p>P3 Meet and Greet (Principal)
+<br>P3 Meet and Greet (AYH)</p>
+<p>P4 Meet and Greet (Principal)
+<br>P4 Meet and Greet (AYH)</p>
+<p>P5 Meet and Greet (Principal)
+<br>P5 Meet and Greet (AYH)</p>
+<p>P6 Meet and Greet (Principal)
+<br>Pg Meet and Greet (AYH)</p>
 <p><a href="/files/Meet___Greet_P3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Meet and Greet</a>
 </p>
 <p><a href="/files/Meet___Greet_P4_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Meet and Greet</a>
