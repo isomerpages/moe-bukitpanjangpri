@@ -14,10 +14,12 @@ variant: tiptap
 <br>P3 Meet and Greet (AYH)</p>
 <p>P4 Meet and Greet (Principal)
 <br>P4 Meet and Greet (AYH)</p>
-<p>P5 Meet and Greet (Principal)
-<br>P5 Meet and Greet (AYH)</p>
-<p>P6 Meet and Greet (Principal)
-<br>P6 Meet and Greet (AYH)</p>
+<p><a href="/files/P5_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Meet and Greet (Principal)</a> 
+<br><a href="/files/P5_Meet___Greet_2025__Year_Head_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Meet and Greet (YH)</a>
+</p>
+<p><a href="/files/P6_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Meet and Greet (Principal)</a> 
+<br><a href="/files/P6_Meet___Greet_2025__AYH_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Meet and Greet (AYH)</a>
+</p>
 <p></p>
 <h3>CL Sharing with Parents</h3>
 <p><a href="/files/2024____________P5_P6_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024家长分享会-华文作文 (P5&amp;P6)</a>
