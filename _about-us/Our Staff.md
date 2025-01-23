@@ -537,7 +537,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:saifudin_mohammed_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saifudin_mohammed_amin@moe.edu.sg</a>
 <br><a href="mailto:tan_wee_peng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_peng_a@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">sim_chor_miang@moe.edu.sg</a>
+<br>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sim_chor_miang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
