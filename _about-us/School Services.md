@@ -42,7 +42,7 @@ the above handphone number or BPPS General Office at Tel: 67691912. &nbsp;</p>
 <br>Transport Hotline: 90255803 (Sri)
 <br>Ops Email / registration: <a href="mailto:bpps@woodlandstransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@woodlandstransport.com.sg </a>
 <br>
-<br><strong>2024 Bus Fare</strong> 
+<br><strong>2025 Bus Fare</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
