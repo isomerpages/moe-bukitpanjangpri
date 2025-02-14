@@ -306,7 +306,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – Applied Learning Programme</p>
+<p>Subject Head – (Applied Learning Programme)</p>
 </td>
 </tr>
 <tr>
