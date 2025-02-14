@@ -34,6 +34,5 @@ invaluable to us, and we look forward to a fruitful year ahead, filled
 with collaboration, growth, and shared successes that we can all celebrate.</p>
 <p>&nbsp;Thank you once again for being an integral part of our school family.
 Here’s to a fantastic academic year ahead!</p>
-<p>&nbsp;</p>
-<p>Teresa Kelly Len (Mdm)
-<br>Principal</p>
+<p>Teresa Kelly Len (Mdm)</p>
+<p>Principal</p>
