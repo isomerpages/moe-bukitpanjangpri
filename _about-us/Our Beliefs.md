@@ -33,4 +33,4 @@ Respect, Responsibility, Resilience, Integrity, Compassion, Gratitude
 
 ![](/images/Core%20Values.png)
 
-![](/images/Our%20beliefs%20place%20image%20at%20bottom%20of%20webpage%20Final.jpg)
+![](/images/BPPS_strategy_map_website.jpg)

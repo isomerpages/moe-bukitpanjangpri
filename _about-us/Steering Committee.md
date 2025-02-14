@@ -154,18 +154,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leow Mei Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leow_mei_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_mei_leng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (Character &amp; Citizenship Education)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Teo-Ng Sin Nee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,18 +239,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mary Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_boon_teng_mary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_boon_teng_mary@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (Science)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Kay Wang Jing Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,6 +247,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head (Mother Tongue)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mary Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_boon_teng_mary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_boon_teng_mary@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (High Ability Learners)</p>
 </td>
 </tr>
 <tr>
@@ -311,6 +299,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Jiayi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_jia_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_yi_a@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head – (Applied Learning Programme)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ho Mun Yee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,7 +318,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P1)</p>
+<p>Assistant Year Head (P2)</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +330,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P4)</p>
+<p>Assistant Year Head (P3)</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +342,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P5) (covering)</p>
+<p>Assistant Year Head (P6)</p>
 </td>
 </tr>
 <tr>
