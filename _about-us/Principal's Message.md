@@ -4,27 +4,36 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>I am pleased to extend a warm welcome to all students, parents, guardians,
-teachers, and staff as we commence another exciting year at Bukit Panjang
-Primary School.</p>
-<p>As we stride into 2024, it's important to reflect on our journey and celebrate
-our successes. With great pride, I can share that our school has continued
-to excel in both academic outcomes and holistic development.</p>
-<p>In today's rapidly changing world, the importance of equipping our students
-with the skills necessary for success cannot be overstated. Hence, alongside
-our continued dedication to academic excellence, we have increasingly emphasized
-the cultivation of 21st-century competencies (21CC) among our students.
-These essential skills, including critical thinking, creativity, collaboration,
-communication, and digital literacy, are vital for their future success
-and fulfillment in an ever-evolving global landscape.</p>
-<p>At Bukit Panjang Primary School, we are committed to cultivating not only
-academic excellence but also strong character and values in our students.
-Our vision of nurturing "Future Leaders, Concerned Citizens" remains at
-the forefront of everything we do. Together, let us continue to work hand
-in hand, guiding and empowering our students to become empathetic, responsible,
-and resilient individuals who will make meaningful contributions to society.</p>
-<p>As we embark on this new academic year, I am confident that with our collective
-efforts and unwavering commitment, we will continue to inspire, educate,
-and shape the future leaders of tomorrow.</p>
+<p>As we embark on yet another exciting academic year, I would like to take
+this opportunity to extend a warm welcome back to each and every one of
+you. We are thrilled to have our returning families rejoin us and are delighted
+to welcome our new Primary 1 parents into our growing school community.
+Together, we create the vibrant and nurturing spirit essential for the
+growth and development of our children as they navigate their educational
+journey.</p>
+<p>&nbsp;I would like to express my heartfelt appreciation for the unwavering
+support you provided throughout 2024. Your collaboration with the school
+and active participation in various activities have played a significant
+role in developing and nurturing our students. The positive outcomes of
+our collective efforts are evident in the impressive results our school
+achieved last year. These achievements reflect the hard work, determination,
+and dedication of our students and teachers, all striving to help our children
+realize their aspirations. This success, which we all take pride in, would
+not have been possible without your active involvement and continuous encouragement.</p>
+<p>&nbsp;As we move forward into this new school year, we are eager to continue
+fostering authentic and meaningful learning experiences for all our students.
+To this end, we will be organizing informative “Meet-and-Greet” sessions
+during Weeks 2 and 3 of this term. These sessions will provide an opportunity
+to share specific information about the curriculum and expectations for
+each year level while fostering deeper connections within our school community.</p>
+<p>&nbsp;We firmly believe that by working together as partners in education,
+we can create countless opportunities and enriching experiences for our
+children. These opportunities will not only enhance their learning but
+also support their personal and social development. Your partnership is
+invaluable to us, and we look forward to a fruitful year ahead, filled
+with collaboration, growth, and shared successes that we can all celebrate.</p>
+<p>&nbsp;Thank you once again for being an integral part of our school family.
+Here’s to a fantastic academic year ahead!</p>
+<p>&nbsp;</p>
 <p>Teresa Kelly Len (Mdm)
 <br>Principal</p>
