@@ -33,6 +33,7 @@ Grooming
 |PE| - Dyeing of hair is not allowed. <br>- Hair-styling products are only allowed to keep hair in place to look neat and tidy. <br>- Nails must be kept short, clean and not painted.|
 
 ![](/images/Grooming2.png)
+![](/images/Grooming_2025.png)
 
 ----------------------------------
 
