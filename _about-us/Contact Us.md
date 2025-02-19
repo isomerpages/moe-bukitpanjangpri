@@ -14,7 +14,11 @@ variant: tiptap
 <h2>School Hours</h2>
 <p>Mon - Fri : 7.30 a.m to 1.30 p.m.</p>
 <h2>Recess Hours</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -34,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4 and 5</p>
+<p>Primary 5 and 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.30 to 10.00 a.m</p>
@@ -42,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 and 6</p>
+<p>Primary 3 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.00 to 10.30 a.m</p>
