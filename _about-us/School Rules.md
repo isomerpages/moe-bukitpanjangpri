@@ -2,6 +2,7 @@
 title: School Rules
 permalink: /about-us/school-rules/
 description: ""
+variant: markdown
 ---
 Attire
 ------
@@ -17,6 +18,7 @@ Attire
 |PE| - White PE T-shirt and green shorts. <br>- T-shirt must be tucked in at all times. <br> - Name tag is to be sewn on the left side of the T-shirt, below the school badge. |
 
 ![](/images/Attire.png)
+![](/images/Uniform_2025.png)
 
 ---------------------------------------------------------------------
 
