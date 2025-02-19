@@ -37,7 +37,8 @@ when they have PE, CCA and PAL.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p><strong>Girls</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- White blouse with green pinafore of decent length, plain white socks
@@ -52,7 +53,8 @@ logo.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
+<p><strong>Boys</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- White shirt with green shorts, plain white socks and shoes.
@@ -66,7 +68,8 @@ logo.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE Attire</p>
+<p><strong>PE Attire</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- White PE T-shirt and green shorts.
