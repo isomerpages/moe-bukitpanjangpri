@@ -4,7 +4,7 @@ permalink: /about-us/school-rules/
 description: ""
 variant: tiptap
 ---
-<h2>Attire</h2>
+<h2>School Rules</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
@@ -20,6 +20,7 @@ school.</p>
 when they have PE, CCA and PAL.</p>
 </li>
 </ol>
+<h3>School Uniform</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -80,7 +81,7 @@ badge.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform_2025.png">
 </div>
 <hr>
-<h2>Personal Grooming</h2>
+<h3>Personal Grooming</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
