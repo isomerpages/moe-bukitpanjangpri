@@ -17,7 +17,6 @@ Attire
 |Boys| - White shirt with green shorts, plain white socks and shoes. <br>- Shirt must be tucked in at all times. <br>- Name tag is to be sewn on the left side of the white shirt, along the edge of the pocket, below the school badge. <br>- No jewellery is allowed.<br>|
 |PE| - White PE T-shirt and green shorts. <br>- T-shirt must be tucked in at all times. <br> - Name tag is to be sewn on the left side of the T-shirt, below the school badge. |
 
-![](/images/Attire.png)
 ![](/images/Uniform_2025.png)
 
 ---------------------------------------------------------------------
@@ -32,7 +31,6 @@ Grooming
 |Boys| - Male students must be clean-shaven and neat in appearance.|
 |PE| - Dyeing of hair is not allowed. <br>- Hair-styling products are only allowed to keep hair in place to look neat and tidy. <br>- Nails must be kept short, clean and not painted.|
 
-![](/images/Grooming2.png)
 ![](/images/Grooming_2025.png)
 
 ----------------------------------
