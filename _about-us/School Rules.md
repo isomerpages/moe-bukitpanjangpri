@@ -101,7 +101,8 @@ badge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p><strong>Girls</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Girls’ hair should be neat and tidy.
@@ -115,7 +116,8 @@ simple and black only.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
+<p><strong>Boys</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Male students must be clean-shaven and neat in appearance.</p>
@@ -123,7 +125,8 @@ simple and black only.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE</p>
+<p><strong>All</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Dyeing of hair is not allowed.
