@@ -40,8 +40,8 @@ when they have PE, CCA and PAL.</p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- White blouse with green pinafore of decent length (as shown in the Student’s
-Diary), plain white socks and shoes.
+<p>- White blouse with green pinafore of decent length, plain white socks
+and shoes.
 <br>- Name tag is to be sewn on the left side of the green pinafore, below
 the school badge.
 <br>- Socks and shoes must not have any colored logos, except for the school
