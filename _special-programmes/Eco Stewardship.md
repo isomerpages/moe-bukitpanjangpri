@@ -13,7 +13,9 @@ to play their part towards sustainable living. Green habits take time to
 root in our society therefore it is important to work towards educating
 the students to be passionate in the environmental efforts and understanding
 the long term benefits of green habits.</p>
-<p><em>Mission: Developing our students holistically in a vibrant and caring environment</em>
+<p><em>Mission: </em>
+</p>
+<p><em>Developing our students holistically in a vibrant and caring environment</em>
 </p>
 <p>To nurture future leaders and concerned citizens, we believe that every
 learner an adaptable and compassionate leader who is grounded in school
