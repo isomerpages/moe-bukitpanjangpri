@@ -57,14 +57,6 @@ and knowledge in real life situation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Choon Shing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>&nbsp;Members</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +66,7 @@ and knowledge in real life situation.</p>
 <p>Mrs Lisa Yap</p>
 <p>Mr Lok Chee Weng Edward</p>
 <p>Mdm Nor Ezlin</p>
-<p>Ms Ong Pying Jing
+<p>Ms Ong Pyng Jing
 <br>Mrs Teri Toh</p>
 <p>Ms Valerie Lim Pei Rou
 <br>Ms Wong Lai Yoke</p>
