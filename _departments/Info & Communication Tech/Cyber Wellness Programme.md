@@ -81,8 +81,6 @@ with their peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cyber.png">
 </div>
-<p>Useful Links</p>
-<p><a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/understanding-cyber-wellness</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
