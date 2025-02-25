@@ -48,8 +48,9 @@ will allow them to show and practice what they have learnt via actions.</p>
 monitors and Environmental Science Club students. These events will allow
 them to carry out the 5 practices of exemplary leadership. They will internalise
 their learning and promote Environmental Education whenever possible.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tiered%20Approach.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Stewarding_Tier_2025.png">
 </div>
 <h2>Overview</h2>
 <p>As part of our continued efforts under the Singapore Green Plan 2030,
@@ -88,4 +89,5 @@ to expand environment-related volunteering and enrichment opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecosteward5.png">
 </div>
+<p></p>
 <p></p>
