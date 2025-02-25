@@ -86,8 +86,8 @@ to expand environment-related volunteering and enrichment opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecosteward4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecosteward5.png">
-</div>
+<p>d) Campus - The infrastructure in all schools will be enhanced with sustainability
+features, including more trees, energy-efficient technologies such as LED
+lights.</p>
 <p></p>
 <p></p>
