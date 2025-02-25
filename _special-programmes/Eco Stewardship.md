@@ -90,4 +90,8 @@ to expand environment-related volunteering and enrichment opportunities.</p>
 features, including more trees, energy-efficient technologies such as LED
 lights.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Stewarding_item_d_Campus_Picture_2025.png">
+</div>
+<p></p>
 <p></p>
