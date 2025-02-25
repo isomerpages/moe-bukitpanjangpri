@@ -13,7 +13,7 @@ to play their part towards sustainable living. Green habits take time to
 root in our society therefore it is important to work towards educating
 the students to be passionate in the environmental efforts and understanding
 the long term benefits of green habits.</p>
-<p><em>Mission: </em>
+<p><em>Mission:</em>
 </p>
 <p><em>Developing our students holistically in a vibrant and caring environment</em>
 </p>
@@ -42,12 +42,11 @@ Every student will be provided with the opportunity to participate in the
 tier 1 events e.g. World Water Week, Earth week, Biodiversity week, etc
 to better understand the objectives of each of the event.</p>
 <p>Tier 2 events will provide opportunities for the students as a level to
-embark on projects e.g. upcycling project for 5, Entrepenurial day for
-P5, which will allow them to show and practice what they have learnt via
-actions.</p>
-<p>Tier 3 events will target a smaller group of students e.g. Green ambassadors
-and Environmental Science Club students. These events will allow them to
-carry out the 5 practices of exemplary leadership. They will internalise
+embark on projects e.g. upcycling project for P3, Changemakers@BPPS, which
+will allow them to show and practice what they have learnt via actions.</p>
+<p>Tier 3 events will target a smaller group of students e.g. Environment
+monitors and Environmental Science Club students. These events will allow
+them to carry out the 5 practices of exemplary leadership. They will internalise
 their learning and promote Environmental Education whenever possible.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tiered%20Approach.png">
