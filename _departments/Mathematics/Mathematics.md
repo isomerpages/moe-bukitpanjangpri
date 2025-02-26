@@ -62,12 +62,13 @@ and knowledge in real life situation.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Ada Lim
 <br>Mdm Annie Azrina
-<br>Ms Foong Kah Yin Mrs Lisa Yap</p>
-<p>Mr Lok Chee Weng Edward</p>
-<p>Mdm Nor Ezlin</p>
-<p>Ms Ong Pyng Jing
-<br>Mrs Teri Toh</p>
-<p>Ms Valerie Lim Pei Rou
+<br>Ms Foong Kah Yin
+<br>Mrs Lisa Yap
+<br>Mr Lok Chee Weng Edward
+<br>Mdm Nor Ezlin
+<br>Ms Ong Pyng Jing
+<br>Mrs Teri Toh
+<br>Ms Valerie Lim Pei Rou
 <br>Ms Wong Lai Yoke</p>
 </td>
 </tr>
