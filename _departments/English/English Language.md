@@ -3,8 +3,8 @@ title: English Language
 permalink: /departments/english/english-language/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
-
 Overview
 --------
 
@@ -38,20 +38,10 @@ Department Members
 Useful Links
 ------------
 
-*   The STELLAR Way to English Language Learning
-    
-    [https://www.schoolbag.edu.sg/story/the-stellar-way-to-english-language-learning](https://www.schoolbag.edu.sg/story/the-stellar-way-to-english-language-learning)
-    
-
-  
-
 *   National Library Board
     
     [https://www.nlb.gov.sg/](https://www.nlb.gov.sg/)
     
-
-  
-
 *   Primary English Syllabus
     
     [https://www.moe.gov.sg/primary/curriculum/syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus)
@@ -59,22 +49,3 @@ Useful Links
 
   
 
-*   Developing English Language Skills
-    
-    [https://www.schoolbag.edu.sg/story/developing-your-child's-english-language-skills](https://www.schoolbag.edu.sg/story/developing-your-child's-english-language-skills)
-    
-      
-    
-    [https://www.schoolbag.edu.sg/story/how-parents-can-support-the-learning-of-english-language-at-home](https://www.schoolbag.edu.sg/story/how-parents-can-support-the-learning-of-english-language-at-home)
-    
-      
-    
-    [https://www.schoolbag.edu.sg/story/create-a-positive-home-learning-environment-for-your-child](https://www.schoolbag.edu.sg/story/create-a-positive-home-learning-environment-for-your-child)
-    
-      
-    
-    [https://www.schoolbag.edu.sg/story/reading-and-spelling-games-for-kids](https://www.schoolbag.edu.sg/story/reading-and-spelling-games-for-kids)
-    
-      
-    
-    [https://www.schoolbag.edu.sg/story/making-reading-a-best-selling-hobby](https://www.schoolbag.edu.sg/story/making-reading-a-best-selling-hobby)
