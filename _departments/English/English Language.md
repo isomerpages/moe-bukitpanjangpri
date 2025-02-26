@@ -38,14 +38,8 @@ Department Members
 Useful Links
 ------------
 
-*   National Library Board
-    
+*   National Library Board    
     [https://www.nlb.gov.sg/](https://www.nlb.gov.sg/)
     
-*   Primary English Syllabus
-    
+*   Primary English Syllabus    
     [https://www.moe.gov.sg/primary/curriculum/syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus)
-    
-
-  
-
