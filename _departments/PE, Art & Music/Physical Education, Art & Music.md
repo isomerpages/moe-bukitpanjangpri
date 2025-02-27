@@ -42,7 +42,7 @@ on the school’s core values.</p>
 <p>Head of Department (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mike Teo Yee Sin</p>
+<p>Mr Mike Teo</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ on the school’s core values.</p>
 <p>Subject Head (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dorcas Low Duo Jia</p>
+<p>Ms Dorcas Low</p>
 </td>
 </tr>
 <tr>
@@ -67,15 +67,15 @@ on the school’s core values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Fariz Ramlah
-<br>Mr Hasyim Tan Abdullah
+<br>Mr Hasyim
 <br>Mr Ho Jian Xiong
-<br>Ms Charlene Ng Su Xian
-<br>Ms Vivien Ng Sok Mei
+<br>Ms Charlene Ng
+<br>Ms Vivien Ng
 <br>Ms Cheng Hui Meng
 <br>Ms Tang Pei Wen
-<br>Ms Gladys Zhang Shangmin
-<br>Ms Winnie Ng Shee Yih
-<br>Mr Melvin Lim Wei Xiang
+<br>Ms Gladys Zhang
+<br>Ms Winnie Ng
+<br>Mr Melvin Lim
 <br>
 </p>
 </td>
