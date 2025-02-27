@@ -128,3 +128,7 @@ on the school’s core values.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM1_2025.png">
+</div>
+<p></p>
