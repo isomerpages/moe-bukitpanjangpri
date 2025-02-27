@@ -83,55 +83,6 @@ on the school’s core values.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE.png">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Department Key Programmes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>•&nbsp; Physical Health and Fitness
-<br>•&nbsp; Sports Carnival
-<br>•&nbsp; Programme for Active Learning (PAL)
-<br>•&nbsp; Swinsafer 2.0</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp; Art curriculum
-<br>•&nbsp; Art aesthetic learning journeys and assembly programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp; Music curriculum
-<br>•&nbsp; Assembly programme
-<br>•&nbsp; BPPS showtime</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM1b_2025.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM1_2025.png">
 </div>
 <p></p>
