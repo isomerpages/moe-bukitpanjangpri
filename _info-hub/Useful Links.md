@@ -39,6 +39,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.digitalforlife.gov.sg/learn/resources" rel="noopener nofollow" target="_blank">Digital for life</a>
+</p>
+</li>
+<li>
 <p>Tip Sheet for Parents</p>
 <ul data-tight="true" class="tight">
 <li>
