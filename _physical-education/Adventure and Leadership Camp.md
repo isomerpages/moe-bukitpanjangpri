@@ -24,6 +24,9 @@ them in authentic experiences.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM2b_2025.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM2_2025.png">
 </div>
 <div class="isomer-image-wrapper">
