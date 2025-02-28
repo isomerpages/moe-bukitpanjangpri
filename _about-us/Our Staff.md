@@ -227,7 +227,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Toh-Zhao Weini
-<br>Wang Jing Xuan Kay</p>
+<br>Ms Wang Jing Xuan Kay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhao_weini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_weini@moe.edu.sg</a>
