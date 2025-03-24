@@ -4,8 +4,7 @@ permalink: /special-programmes/alp-care/
 description: ""
 variant: tiptap
 ---
-<h2>ALP (Changemakers@Bpps)</h2>
-<h2>Critical &amp; Appreciative Reading to Respond Empathetically</h2>
+<h2><strong>Applied Learning Programme: Changemakers@BPPS</strong> <strong>NEW!</strong></h2>
 <p>Our school decided on the use of rich texts as a launch pad into discussing
 timeless human issues. With an underlying pedagogy of using Talk Moves
 to create more dialogic classroom discussion — talk for learning between
