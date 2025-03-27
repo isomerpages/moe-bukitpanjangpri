@@ -184,8 +184,7 @@ service</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>This progressive approach ensures that:
+<p>&nbsp;This progressive approach ensures that:
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students develop leadership qualities
 gradually and systematically
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each level builds upon previous
