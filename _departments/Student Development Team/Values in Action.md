@@ -248,8 +248,7 @@ in taking initiative and leading others</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>BPPS VIA Learning Process – P.A.P</strong>
-</p>
+<h4><strong>BPPS VIA Learning Process – P.A.P</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
