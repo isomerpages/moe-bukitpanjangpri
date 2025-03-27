@@ -157,8 +157,8 @@ environment.&nbsp;</p>
 <p>Being an Active Contributor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discovering Needs in the community (Disabilities)</p>
-<p>ALP</p>
+<p>Discovering Needs in the community (Disabilities)
+<br>ALP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Integrated with ALP, students tackle more challenging projects focused
