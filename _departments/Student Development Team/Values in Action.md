@@ -40,12 +40,11 @@ to community</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clean as you go (CAYG)
 <br>● &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Donation drives
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Termly Gratitude Challenge</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>&nbsp;<u>Level Values in Action (VIA) Programmes</u></strong></h4>
+<h4><strong><u>Level Values in Action (VIA) Programmes</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
