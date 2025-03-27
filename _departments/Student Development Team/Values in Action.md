@@ -175,8 +175,8 @@ with different needs.</p>
 <p>Playing an Active Role in My Community</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discovering Needs in the community (Elderly)</p>
-<p>ALP</p>
+<p>Discovering Needs in the community (Elderly)
+<br>ALP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Community leadership through intergenerational engagement and community
