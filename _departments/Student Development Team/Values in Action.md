@@ -297,8 +297,3 @@ values learnt&nbsp;through reflections.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>observable cleaning acts within the school.</p>
