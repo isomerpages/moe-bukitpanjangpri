@@ -24,6 +24,8 @@ variant: tiptap
 </p>
 <p></p>
 <h3>CL Sharing with Parents</h3>
+<p><a href="/files/2025_P1_2_Parents__sharing.pdf" rel="noopener nofollow" target="_blank">2025 P1-2 低年级家长分享会</a>
+</p>
 <p><a href="/files/2024____________P5_P6_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024家长分享会-华文作文 (P5&amp;P6)</a>
 </p>
 <p><a href="/files/2024_____________P5_P6_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024家长分享会-华文试卷二 (P5&amp;P6)</a>
