@@ -364,12 +364,12 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwan Siew Tung
+<p>Mr Darius Kwan Yi Kai
 <br>Mr Koh Chung Heng
 <br>Mdm Loh Chiu Theng Charmane</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwan_siew_tung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_siew_tung@moe.edu.sg</a>
+<p><a href="mailto:darius_kwan_yi_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darius_kwan_yi_kai@moe.edu.sg</a>
 <br><a href="mailto:koh_chung_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chung_heng@moe.edu.sg</a>
 <br><a href="mailto:charmane_loh_chiu_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charmane_loh_chiu_theng@moe.edu.sg</a>
 </p>
