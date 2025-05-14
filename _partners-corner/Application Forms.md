@@ -8,8 +8,7 @@ variant: tiptap
 </p>
 <p><a href="https://form.gov.sg/6752a34a4e57bb828de6159f" rel="noopener nofollow" target="_blank">Waiting List Application Form</a>
 </p>
-<p>2025/26 Bukit Panjang Primary School Parent Volunteer Application Form.
-To register, please click&nbsp;<a href="https://form.gov.sg/67a389f621c40f204fba5663" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
+<p></p>
 <h2>Application for leave of absence</h2>
 <p>Please click on the&nbsp;<a href="https://form.gov.sg/#!/60de88ba2be3f50011b17217" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
 submit your leave of absence.</p>
