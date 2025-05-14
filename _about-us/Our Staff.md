@@ -416,7 +416,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jia Le Jarrell
+<p>Mr Teo Jie Le Jarrell
 <br>Ms Siti Zafirah Binte Mohamed Zefri
 <br>
 <br>Ms Chang May Ling</p>
