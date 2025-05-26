@@ -26,10 +26,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (CCE)</p>
+<p>Head of Department (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leow Mei Leng</p>
+<p>Mr Tan Choon Shing</p>
 </td>
 </tr>
 <tr>
@@ -82,10 +82,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher SEN</p>
+<p>Subject Head
+<br>High Ability Learners</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanne Khaw</p>
+<p>Ms Lim Boon Teng Mary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Applied Learning Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Jiayi</p>
 </td>
 </tr>
 <tr>
@@ -97,11 +107,12 @@ variant: tiptap
 <br>Mdm Idayu Bte Sokkiman
 <br>Mrs Kristin Heng
 <br>Ms Alina Goh
-<br>Mrs Toh-Zhao Weini
-<br>Ms Valerie Lim
 <br>Mr Saravanan s/o Pannesilvam
 <br>Ms Wang Pei Shan
-<br>Mdm Leong Sue Yin Serene</p>
+<br>Mdm Leong Sue Yin Serene
+<br>Ms Chen Ying Ying
+<br>Mdm Eng Mei Chen
+<br>Ms Tan Swee Leng Sharon</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +129,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Jia Min Carin</p>
+<p>Mdm Mariam Binte Isnin</p>
 </td>
 </tr>
 </tbody>
