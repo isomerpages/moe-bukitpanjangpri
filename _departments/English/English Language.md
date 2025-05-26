@@ -39,14 +39,6 @@ and problem solvers who can communicate effectively in English Language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ibrahim (Badhrunnisa Bte Jalil)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,11 +47,26 @@ and problem solvers who can communicate effectively in English Language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teachers</p>
+<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sapia Bte Suki
-<br>Mdm Suharti Bte Hassan</p>
+<p>Mdm Suharti Bte Hassan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sapia Bte Suki</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shariffa Binte Syed Ahamad</p>
 </td>
 </tr>
 <tr>
@@ -76,13 +83,12 @@ and problem solvers who can communicate effectively in English Language.</p>
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Ying Ying
-<br>Mdm Eismawati Bte Bisri
-<br>Mdm Nazreen Sultana Binte Syed Ahmed
-<br>Mdm Shariffa Binte Syed Ahamad
+<p>Mdm Eismawati Bte Bisri
 <br>Mr Tan Yee Ming
-<br>
-</p>
+<br>Ms Grant Maureen Anne
+<br>Mdm Naadiah Hanim Bte Abdullah
+<br>Ms Grace Stephen Louisesamy
+<br>Mrs Toh-Zhao Weini</p>
 </td>
 </tr>
 </tbody>
