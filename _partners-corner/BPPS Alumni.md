@@ -120,7 +120,8 @@ as Advisors to the society. Advisors shall have no rights to vote and hold
 office in the Society.</p>
 <h4><strong>Application For Membership</strong></h4>
 <p>Ex-students who wish to join the Society as a Life Member should contact
-the school at bpps@moe.edu.sg for the application form.</p>
+the school at <a href="mailto:bpps@moe.edu.sg" rel="noopener nofollow" target="_blank">bpps@moe.edu.sg</a> for
+the application form.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bppsalumni.png">
