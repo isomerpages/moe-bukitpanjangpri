@@ -57,17 +57,22 @@ and knowledge in real life situation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teri Toh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;Members</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ada Lim
 <br>Mdm Annie Azrina
-<br>Ms Foong Kah Yin
-<br>Mrs Lisa Yap
 <br>Mr Lok Chee Weng Edward
 <br>Mdm Nor Ezlin
 <br>Ms Ong Pyng Jing
-<br>Mrs Teri Toh
 <br>Ms Valerie Lim Pei Rou
 <br>Ms Wong Lai Yoke</p>
 </td>
