@@ -66,11 +66,11 @@ on the school’s core values.</p>
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fariz Ramlah
-<br>Mr Hasyim
+<p>Mr Fariz Ramlan
+<br>Mr Hasyim Tan Abdullah
 <br>Mr Ho Jian Xiong
-<br>Ms Charlene Ng
-<br>Ms Vivien Ng
+<br>Ms Ng Su Xian Charlene
+<br>Ms Ng Sok Mei Vivien
 <br>Ms Cheng Hui Meng
 <br>Ms Tang Pei Wen
 <br>Ms Gladys Zhang
