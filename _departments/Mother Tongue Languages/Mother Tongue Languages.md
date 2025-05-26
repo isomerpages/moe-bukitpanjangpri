@@ -48,12 +48,10 @@ for their own mother tongue language and culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coordinator(ML)
-<br>Coordinator(TL)</p>
+<p>Coordinator(ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ramlah Rahmat
-<br>Mdm Vanitha Arivalakan</p>
+<p>Mdm Ramlah Rahmat</p>
 </td>
 </tr>
 <tr>
@@ -62,14 +60,17 @@ for their own mother tongue language and culture.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Dong Rui
-<br>Mdm Guo Yue
 <br>Mdm Li Wen
 <br>Mr Liew Wai Kee
-<br>Mr Lim Lai Huat
 <br>Ms Ng Li Xuan
 <br>Mdm Soon Meiling
 <br>Mdm Sun Ying
-<br>Mdm Yeo Sze Wei</p>
+<br>Ms Lek Siew Gek
+<br>Mdm Mency Lee
+<br>Mdm Tham Jing wen
+<br>Ms Teo Zi Yan Germain
+<br>Ms Ng Lilian
+<br>Mr Lim Peng Yiam</p>
 </td>
 </tr>
 <tr>
@@ -77,8 +78,7 @@ for their own mother tongue language and culture.</p>
 <p>Members(ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Shahrilnizam
-<br>Mdm Noraishah Anwar
+<p>Mdm Noraishah Anwar
 <br>Mdm Siti Zafirah Mohamed Zefri</p>
 </td>
 </tr>
@@ -87,7 +87,8 @@ for their own mother tongue language and culture.</p>
 <p>Members(TL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nirisha Darshani</p>
+<p>Mdm Nirisha Darshani
+<br>Ms Nandhini D/O Raman</p>
 </td>
 </tr>
 </tbody>
