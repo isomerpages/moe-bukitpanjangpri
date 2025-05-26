@@ -122,53 +122,6 @@ office in the Society.</p>
 <p>Ex-students who wish to join the Society as a Life Member should contact
 the school at bpps@moe.edu.sg for the application form.</p>
 <p></p>
-<p>In order to forge better school ties and community development between
-the school and former pupils, ten of our former pupils came forward to
-form the Alumni Association. The Association was officially recognised
-by the Registry of Societies on 28th&nbsp;May 1998.</p>
-<p>Three of the key positions held by the founding members are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>President – Dr Jarmil Singh (Deputy Chairman, CAAS and Medical Director
-of ST Medical Services Pte Ltd)</p>
-</li>
-<li>
-<p>Secretary – Mr Suparman Adam (Principal, Bukit Batok Secondary School)</p>
-</li>
-<li>
-<p>Treasurer – Mr Mark Soo Pin (HOD – Science, Bukit Panjang Primary School)</p>
-</li>
-</ul>
-<p>All former pupils who are 18 years and above can join by contacting either
-the Secretary or the Treasurer for the application forms.</p>
-<h2>Objectives of Alumni</h2>
-<p>Based on the constitution, the objectives of the alumni are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To forge school ties and community involvement between Bukit Panjang Primary
-School and its former pupils;</p>
-</li>
-<li>
-<p>To provide members with the opportunities of helping to develop the school
-for benefit of their children;</p>
-</li>
-<li>
-<p>To encourage volunteerism among members;</p>
-</li>
-<li>
-<p>For members, as a fraternity, to offer, provide and contribute expertise
-and resources.</p>
-</li>
-</ul>
-<p>Office-Holders 2022</p>
-<p>President: Mr Tan Yee Ming</p>
-<p>Vice President: Mrs Kristin Heng</p>
-<p>Secretary: Mr Shahrilnizam</p>
-<p>Assistant Secretary: vacant</p>
-<p>Treasurer: Ms Laltha D/O Kasi Pandiyan</p>
-<p>Committee Member: Mr Andy Koh Lau Hock</p>
-<p>Committee Member: Mdm Koh Huey Min</p>
-<p>Auditors: Mdm Lee Tang Khee and Mdm Lena Loh</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bppsalumni.png">
 </div>
