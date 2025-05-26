@@ -118,8 +118,8 @@ to vote and hold office in the Society.</p>
 <br>The Committee may appoint, from time to time, desirable persons to serve
 as Advisors to the society. Advisors shall have no rights to vote and hold
 office in the Society.</p>
-<p><strong>Application For Membership</strong>
-<br>Ex-students who wish to join the Society as a Life Member should contact
+<h4><strong>Application For Membership</strong></h4>
+<p>Ex-students who wish to join the Society as a Life Member should contact
 the school at bpps@moe.edu.sg for the application form.</p>
 <p></p>
 <p>In order to forge better school ties and community development between
