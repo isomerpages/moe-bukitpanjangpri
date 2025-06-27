@@ -52,9 +52,13 @@ the years.</p>
 <br>- Mdm Vyjanthimala Balakrishna (2001–2008)
 <br>- Mdm Ng Soh Hua (2008–2015)
 <br>- Mr Bucktha Seelan (2015–2022)
-<br>-Mdm Teresa Kelly Leng (2023 - present)</p>
+<br>-Mdm Teresa Kelly Len (2023 - present)</p>
 <h4><strong>Key Milestones</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
