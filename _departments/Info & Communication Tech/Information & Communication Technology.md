@@ -62,7 +62,8 @@ and COL skills to become innovative and adaptable citizens of the 21st&nbsp;cent
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Wee Kuong</p>
+<p>Mr Chin Wee Kuong
+<br>Mr Saifuladlin Bin Daini</p>
 </td>
 </tr>
 <tr>

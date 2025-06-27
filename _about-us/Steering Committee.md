@@ -532,6 +532,18 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Saifuladlin Bin Daini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:saifuladlin_daini@moe.edu.sg" rel="noopener nofollow" target="_blank">saifuladlin_daini@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
