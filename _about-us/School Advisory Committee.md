@@ -16,7 +16,6 @@ variant: tiptap
 </p>
 <p><strong>Members</strong> 
 <br>Ms Grace Yin
-<br>Ms Agnes Chua
 <br>Mr Tan Lee Peng
 <br>Mrs Toh Png Ming Tyng
 <br>Mr Tay Jie Ming
