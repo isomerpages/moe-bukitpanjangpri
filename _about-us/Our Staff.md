@@ -216,7 +216,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong Oyng Jing
+<p>Mrs Ong Pyng Jing
 <br>Mdm Liew Siew Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
