@@ -603,7 +603,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lok_chee_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lok_chee_weng@moe.edu.sg</a>
-<br><a href="mailto:Tham_Jing_Wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Jing_Wen@schools.gov.sg</a>
+<br><a href="mailto:Tham_Jing_Wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Jing_Wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -703,7 +703,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Chen_Ying-Ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chen_Ying-Ying@moe.edu.sg</a>
 <br><a href="mailto:foong_kah_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foong_kah_yin@moe.edu.sg</a>
-<br><a href="mailto:Wang_Chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chong@schools.gov.sg</a>
+<br><a href="mailto:Wang_Chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
