@@ -543,7 +543,7 @@ variant: tiptap
 <br><a href="mailto:tan_wee_peng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_peng_a@moe.edu.sg</a>
 <br>
 </p>
-<p><a href="mailto:tan_guan_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_guan_heng@schools.gov.sg</a>
+<p><a href="mailto:tan_guan_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_guan_heng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
