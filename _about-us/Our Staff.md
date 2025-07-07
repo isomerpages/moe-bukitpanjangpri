@@ -220,7 +220,7 @@ variant: tiptap
 <br>Mdm Liew Siew Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pyng_jing@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_pyng_jing@schools.gov.sg</a>
+<p><a href="mailto:ong_pyng_jing@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_pyng_jing@moe.edu.sg</a>
 <br><a href="mailto:liew_siew_chiew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siew_chiew@moe.edu.sg</a>
 </p>
 </td>
