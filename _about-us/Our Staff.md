@@ -391,7 +391,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aziemah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aziemah_abdul_aziz@moe.edu.sg</a>
 <br><a href="mailto:nor_ezlin_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_ezlin_abdullah@moe.edu.sg</a>
-<br><a href="mailto:Sim_Chor_Miang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sim_Chor_Miang@schools.gov.sg</a>
+<br><a href="mailto:Sim_Chor_Miang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sim_Chor_Miang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
