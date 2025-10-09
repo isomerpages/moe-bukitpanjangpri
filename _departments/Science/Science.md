@@ -63,7 +63,7 @@ scientific skills for life-long learning.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Key Programme</p>
+<p>Programme Name</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Level</p>
