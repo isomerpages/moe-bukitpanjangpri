@@ -22,7 +22,7 @@ of sustainability to our students.</p>
 <p>Through the process of designing and building their sailboats, students
 engage in problem-solving and experimentation, applying concepts related
 to properties of materials. They work collaboratively in groups to design
-and construct their sailboats, followed by testing their creations</p>
+and construct their sailboats, followed by testing their creations in water.</p>
 <p>Imbed link</p>
 <p><strong>Primary 3: Magnets at Play - A Student-Created STEM Toy Challenge</strong>
 </p>
@@ -68,4 +68,3 @@ learning.</p>
 <p>Imbed link</p>
 <p></p>
 <p></p>
-<p>in water.</p>
