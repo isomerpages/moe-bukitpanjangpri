@@ -63,15 +63,15 @@ scientific skills for life-long learning.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Column 1</p>
+<p>Key Programme</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Column 2</p>
+<p>Level</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/toy-making-in-conjunction-with-the-sony-creative-science-award/" rel="noopener noreferrer nofollow" target="_blank">Toy-making in conjunction with the Sony Creative Science Award/</a>
+<p><a href="/departments/science/toy-making-in-conjunction-with-the-sony-creative-science-award/" rel="noopener noreferrer nofollow" target="_blank">1.Toy-making in conjunction with the Sony Creative Science Award/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
