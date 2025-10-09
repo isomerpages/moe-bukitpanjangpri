@@ -89,7 +89,7 @@ scientific skills for life-long learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/toy-making-in-conjunction-with-the-sony-creative-science-award/" rel="noopener noreferrer nofollow" target="_blank">STEM Education @BPPS</a>
+<p><a href="/departments/science/stem-education-bpps/" rel="noopener noreferrer nofollow" target="_blank">STEM Education @BPPS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
