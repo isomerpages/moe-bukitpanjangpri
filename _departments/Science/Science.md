@@ -80,7 +80,7 @@ scientific skills for life-long learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/world-water-day" rel="noopener noreferrer nofollow" target="_blank">Biodiversity Week</a>
+<p><a href="/departments/science/biodiversity-week/" rel="noopener noreferrer nofollow" target="_blank">Biodiversity Week</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,20 +89,20 @@ scientific skills for life-long learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/toy-making-in-conjunction-with-the-sony-creative-science-award/" rel="noopener noreferrer nofollow" target="_blank">1.Toy-making in conjunction with the Sony Creative Science Award</a>
+<p><a href="/departments/science/toy-making-in-conjunction-with-the-sony-creative-science-award/" rel="noopener noreferrer nofollow" target="_blank">STEM Education @BPPS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 3 - 4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/world-water-day" rel="noopener noreferrer nofollow" target="_blank">World Water Day</a>
+<p><a href="/departments/science/world-water-day" rel="noopener noreferrer nofollow" target="_blank">E2K</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 4 - 5</p>
 </td>
 </tr>
 </tbody>
