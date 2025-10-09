@@ -98,7 +98,7 @@ scientific skills for life-long learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/world-water-day" rel="noopener noreferrer nofollow" target="_blank">E2K</a>
+<p><a href="/departments/science/e2k-programme/" rel="noopener noreferrer nofollow" target="_blank">E2K</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
