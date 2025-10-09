@@ -71,19 +71,11 @@ scientific skills for life-long learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/departments/science/earth-week" rel="noopener noreferrer nofollow" target="_blank">Earth Week</a>
+<p><a href="/departments/science/toy-making-in-conjunction-with-the-sony-creative-science-award/" rel="noopener noreferrer nofollow" target="_blank">Toy-making in conjunction with the Sony Creative Science Award/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
+<p>Primary 1 - 4</p>
 </td>
 </tr>
 <tr>
