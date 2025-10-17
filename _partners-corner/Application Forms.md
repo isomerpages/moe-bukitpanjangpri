@@ -10,8 +10,8 @@ variant: tiptap
 </p>
 <p></p>
 <h2>Application for leave of absence</h2>
-<p>Please click on the&nbsp;<a href="https://form.gov.sg/#!/60de88ba2be3f50011b17217" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
-submit your leave of absence.</p>
+<p>Please click on the&nbsp;<a href="https://form.gov.sg/68ef481f0ec61091df7c1d68" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to submit
+your leave of absence.</p>
 <h2>Group Personal Accident Insurance Plan</h2>
 <p>All students of BPPS are covered under the Group Personal Accident (GPA)
 Insurance Plan from NTUC Income.</p>
