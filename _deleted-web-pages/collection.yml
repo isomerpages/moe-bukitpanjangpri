@@ -2,5 +2,6 @@ collections:
   deleted-web-pages:
     output: true
     order:
+      - E2K Programme.md
       - School Canteen Advertisement (Moved from Partners Corner).md
       - Test.md
