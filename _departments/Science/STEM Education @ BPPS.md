@@ -41,9 +41,6 @@ younger peers, who explored Mathematics in a fun and engaging manner through
 the games. This experience encouraged the Primary 3 students to develop
 their communication and presentation skills while serving as peer mentors,
 creating authentic opportunities for learning and teaching.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfJ-92XlXQDbhDIBi-gEjTSOx5Z86k1_lUSbI_G59EO0JBsWphD9eimRarPGvYlcIcX_xoevvYixUR/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <p><strong>Primary 4: Blending Science and Storytelling - Shadow Theatre STEM Project</strong>
 </p>
