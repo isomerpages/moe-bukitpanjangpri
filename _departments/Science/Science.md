@@ -63,15 +63,24 @@ scientific skills for life-long learning.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Column 1</p>
+<p>Programme Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Column 2</p>
+<p>Level</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/earth-week" rel="noopener noreferrer nofollow" target="_blank">Earth Week</a>
+<p><a href="/departments/science/toy-making-in-conjunction-with-the-sony-creative-science-award/" rel="noopener noreferrer nofollow" target="_blank">Toy-making in conjunction with the Sony Creative Science Award</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1 - 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/departments/science/biodiversity-week/" rel="noopener noreferrer nofollow" target="_blank">Biodiversity Week</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,11 +89,11 @@ scientific skills for life-long learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/departments/science/world-water-day" rel="noopener noreferrer nofollow" target="_blank">World Water Day</a>
+<p><a href="/departments/science/stem-education-bpps/" rel="noopener noreferrer nofollow" target="_blank">STEM Education @BPPS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
+<p>Primary 3 - 4</p>
 </td>
 </tr>
 </tbody>

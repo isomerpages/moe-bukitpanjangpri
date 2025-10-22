@@ -46,9 +46,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P1)
-<br>Assistant Year Head (P4)
-<br>Assistant Year Head (P5)</p>
+<p>Assistant Year Head (P2)
+<br>Assistant Year Head (P3)
+<br>Assistant Year Head (P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Mun Yee
