@@ -28,7 +28,4 @@ their creative ideas come to life.</p>
 <p>This project reflects the essence of E2K, which involves stretching high-ability
 learners through authentic, open-ended tasks that encourage them to inquire,
 innovate, and collaborate.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFSDAJLfnDRq1aiUnLMx91XrpRR0dSCVJJ3wbX3uHVzl4Tv_1-sthfUBL6c_m7P7VP6yVsmna98Cdj/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
