@@ -96,15 +96,6 @@ scientific skills for life-long learning.</p>
 <p>Primary 3 - 4</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/departments/science/e2k-programme/" rel="noopener noreferrer nofollow" target="_blank">E2K</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 4 - 5</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
