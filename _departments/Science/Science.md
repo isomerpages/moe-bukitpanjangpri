@@ -102,7 +102,7 @@ scientific skills for life-long learning.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 4 - 5</p>
 </td>
 </tr>
 </tbody>
