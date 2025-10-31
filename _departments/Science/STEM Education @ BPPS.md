@@ -23,6 +23,9 @@ of sustainability to our students.</p>
 engage in problem-solving and experimentation, applying concepts related
 to properties of materials. They work collaboratively in groups to design
 and construct their sailboats, followed by testing their creations in water.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZZAhigrnBmolIVkpcLO4g5TSrP2uE3Nzfhl7fmvLF80MRD_WzlEmvuQlSEaGVgNZAXOjmqAtH6QHJ/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <p><strong>Primary 3: Magnets at Play - A Student-Created STEM Toy Challenge</strong>
 </p>
@@ -41,6 +44,9 @@ younger peers, who explored Mathematics in a fun and engaging manner through
 the games. This experience encouraged the Primary 3 students to develop
 their communication and presentation skills while serving as peer mentors,
 creating authentic opportunities for learning and teaching.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZc5eMGxo0c5V87hdRYYW2i0IgJ2zV7bWJlpiAPlEBtx9PtwXyGgE1-RKq-ivtLo8aM3MgNThhVuSS/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <p><strong>Primary 4: Blending Science and Storytelling - Shadow Theatre STEM Project</strong>
 </p>
@@ -65,12 +71,6 @@ learning.</p>
 not only deepen their subject mastery but also build empathy, leadership,
 and confidence, embodying our school’s vision of holistic and meaningful
 learning.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZZAhigrnBmolIVkpcLO4g5TSrP2uE3Nzfhl7fmvLF80MRD_WzlEmvuQlSEaGVgNZAXOjmqAtH6QHJ/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZc5eMGxo0c5V87hdRYYW2i0IgJ2zV7bWJlpiAPlEBtx9PtwXyGgE1-RKq-ivtLo8aM3MgNThhVuSS/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfJ-92XlXQDbhDIBi-gEjTSOx5Z86k1_lUSbI_G59EO0JBsWphD9eimRarPGvYlcIcX_xoevvYixUR/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
