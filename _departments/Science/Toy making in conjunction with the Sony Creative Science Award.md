@@ -25,4 +25,7 @@ experiment with different materials that can be recycled, consider how
 their toys can bring joy to others, and have the opportunity to modify
 their creations based on feedback. This process of exploration not only
 ignites their imagination but also nurtures their ability to innovate.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTIEj3Pj3Vvi6axrEhBGwltXGkRCn1MZ7JrUqNWocc8YQIJXO__TuU6TkPBHUIG8C883rnhstHzZ59/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
