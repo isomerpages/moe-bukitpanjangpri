@@ -209,4 +209,10 @@ are also not allowed to bring any weaponlike items which can be used or
 intended to be used to cause harm to others.</p>
 </li>
 </ol>
+<h2>School-Based Consequences for Vaping</h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_based_consequences_for_vaping_infographic_page_0001.jpg">
+</div>
 <p></p>
