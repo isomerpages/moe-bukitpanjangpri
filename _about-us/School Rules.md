@@ -160,7 +160,7 @@ the heart.</p>
 <p>Orderliness and silence must be observed during flag-raising ceremony.</p>
 </li>
 <li>
-<p>Students maybe only leave the classroom with permission of the teacher.</p>
+<p>Students may only leave the classroom with permission of the teacher.</p>
 </li>
 <li>
 <p>Eating and drinking is allowed in designated places.</p>
@@ -194,7 +194,8 @@ posted at different areas of the school.</p>
 <p>Students are to be cooperative and respect prefects at all times.</p>
 </li>
 <li>
-<p>Students are strongly discouraged from bringing handphones to school.</p>
+<p>Students are strongly discouraged from bringing mobile phones/smart watches
+to school.</p>
 </li>
 <li>
 <p>Toys, handheld games consoles and other electronic devices not related
@@ -205,8 +206,15 @@ to any school activities are not allowed to be brought to school.</p>
 </li>
 <li>
 <p>Students are not allowed to have any weapons in their possession. They
-are also not allowed to bring any weaponlike items which can be used or
+are also not allowed to bring any weapon-like items which can be used or
 intended to be used to cause harm to others.</p>
 </li>
 </ol>
+<h2>School-Based Consequences for Vaping</h2>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vaping_Consequences_edited_page_0001.jpg">
+</div>
 <p></p>
