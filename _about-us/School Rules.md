@@ -212,9 +212,9 @@ intended to be used to cause harm to others.</p>
 </ol>
 <h2>School-Based Consequences for Vaping</h2>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vaping_Consequences_edited_page_0001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test_vaping_png.png">
 </div>
+<p></p>
+<p></p>
 <p></p>
