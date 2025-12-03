@@ -109,11 +109,6 @@ of events and activities through the following links:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah2_1.png">
 </div>
-<p>&nbsp;<strong>BPPS Alumni Instagram Page</strong>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/bpps_alumni?igsh=OW5zeGE1dWZxcmRs</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah3_1.png">
-</div>
+<p>&nbsp;<strong>BPPS Alumni Instagram</strong>
+</p><a class="isomer-image-wrapper" href="https://www.instagram.com/bpps_alumni?igsh=OW5zeGE1dWZxcmRs"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah3_1.png"></a>
 <p></p>
