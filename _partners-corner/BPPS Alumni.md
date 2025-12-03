@@ -116,5 +116,4 @@ of events and activities through the following links:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah3_1.png">
 </div>
-<p><strong>BPPS Alumni Instagram Page</strong>
-</p>
+<p></p>
