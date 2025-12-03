@@ -99,7 +99,7 @@ of events and activities through the following links:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/Bppsalumni</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/naadiah1_1.png">
 </div>
 <p>&nbsp;</p>
 <p><strong>BPPS Alumni Facebook Page</strong>
@@ -107,14 +107,14 @@ of events and activities through the following links:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/g/17Ecyzbwpf/?mibextid=wwXIfr</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/naadiah2_1.png">
 </div>
 <p>&nbsp;<strong>BPPS Alumni Instagram Page</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/bpps_alumni?igsh=OW5zeGE1dWZxcmRs</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/naadiah3_1.png">
 </div>
 <p><strong>BPPS Alumni Instagram Page</strong>
 </p>
