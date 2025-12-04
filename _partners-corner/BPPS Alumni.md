@@ -97,10 +97,7 @@ of events and activities through the following links:</p>
 <p><strong>Membership</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/Bppsalumni</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah1_1.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSfSYU1sJzplfeg-UWLlpNbcdE5I-_BvFkKQI_bYdqSRtm9pTQ/viewform"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah1_1.png"></a>
 <p>&nbsp;</p>
 <p><strong>BPPS Alumni Facebook Page</strong>
 </p><a class="isomer-image-wrapper" href="https://www.facebook.com/share/g/17Ecyzbwpf/?mibextid=wwXIfr"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/naadiah2_1.png"></a>
