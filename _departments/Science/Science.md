@@ -41,14 +41,31 @@ scientific skills for life-long learning.</p>
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Phyllis Lim
-<br>Mr Darius Kwan Yi Kai
-<br>Ms Loo Xin Yi Janice
-<br>Ms Jody Chan Pei Lai
-<br>Ms Yogeetha d/o Rajagopal
-<br>Ms Aleefa Binte Ahmad Jailani
-<br>
-</p>
+<p>Mrs Phyllis Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Darius Kwan Yi Kai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Xin Yi Janice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aleefa Binte Ahmad Jailani</p>
 </td>
 </tr>
 </tbody>
