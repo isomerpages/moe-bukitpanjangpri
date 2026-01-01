@@ -50,11 +50,31 @@ and COL skills to become innovative and adaptable citizens of the 21st&nbsp;cent
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Benazir Dhillon
-<br>Mdm Chan Meng Yin
-<br>Mr Tan Zhuan Liang
-<br>Mr Lim Lai Huat
-<br>Ms Yeo Sze Wei</p>
+<p>Ms Benazir Dhillon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Meng Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Zhuan Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tham Jing Wen</p>
 </td>
 </tr>
 <tr>
@@ -62,17 +82,20 @@ and COL skills to become innovative and adaptable citizens of the 21st&nbsp;cent
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Wee Kuong
-<br>Mr Saifuladlin Bin Daini</p>
+<p>Mr Saifuladlin Bin Daini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Desktop Engineers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Endhira A/P Mathialagan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Endhira A/P Mathialagan
-<br>Mr Kamarul Aszryn Bin Jalil</p>
+<p>Mr Kamarul Aszryn Bin Jalil</p>
 </td>
 </tr>
 </tbody>
