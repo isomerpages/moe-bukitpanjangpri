@@ -34,34 +34,74 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1/2)
-<br>Year Head (P3/4)
-<br>Year Head (P5/6)</p>
+<p>Year Head (P1/2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo-Ng Sin Nee
-<br>Mrs Rebekah Ang
-<br>Mr Tan Guan Heng</p>
+<p>Mrs Teo-Ng Sin Nee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2)
-<br>Assistant Year Head (P3)
-<br>Assistant Year Head (P6)</p>
+<p>Year Head (P4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Mun Yee
-<br>Mdm Jessie Tan
-<br>Mr Muhammad Shahrilnizam Bin Mustapha</p>
+<p>Mrs Rebekah Ang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management (covering)</p>
+<p>Year Head (P3/6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Guan Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ho Mun Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jessie Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Shahrilnizam Bin Mustapha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Chung Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Doreen Thiam&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Pearlie Lim</p>
 </td>
 </tr>
 <tr>
@@ -82,46 +122,86 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>High Ability Learners</p>
+<p>Subject Head</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Ms Lim Boon Teng Mary</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Applied Learning Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Jiayi</p>
+<p>High Ability Learners</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="11" colspan="1">
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Noraisha
-<br>Mdm Idayu Bte Sokkiman
-<br>Mrs Kristin Heng
-<br>Ms Alina Goh
-<br>Mr Saravanan s/o Pannesilvam
-<br>Ms Wang Pei Shan
-<br>Mdm Leong Sue Yin Serene
-<br>Ms Chen Ying Ying
-<br>Mdm Eng Mei Chen
-<br>Ms Tan Swee Leng Sharon</p>
+<p>Mdm Siti Noraisha</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Idayu Bte Sokkiman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Kristin Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Alina Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Saravanan s/o Pannesilvam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Pei Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Leong Sue Yin Serene</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Ying Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Eng Mei Chen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Swee Leng Sharon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jody Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Muliani Perdanawati
-<br>Mr Yek Kok Hwa Caleb</p>
+<p>Mdm Nur Muliani Perdanawati</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yek Kok Hwa Caleb</p>
 </td>
 </tr>
 <tr>
