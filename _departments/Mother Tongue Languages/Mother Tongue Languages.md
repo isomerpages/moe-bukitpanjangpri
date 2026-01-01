@@ -30,12 +30,16 @@ for their own mother tongue language and culture.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Siew Siew Irene
-<br>Mdm Wang Jing Xuan Kay</p>
+<p>Ms Lee Siew Siew Irene</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Jing Xuan Kay</p>
 </td>
 </tr>
 <tr>
@@ -59,36 +63,121 @@ for their own mother tongue language and culture.</p>
 <p>Members(CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dong Rui
-<br>Mdm Li Wen
-<br>Mr Liew Wai Kee
-<br>Ms Ng Li Xuan
-<br>Mdm Soon Meiling
-<br>Mdm Sun Ying
-<br>Ms Lek Siew Gek
-<br>Mdm Mency Lee
-<br>Mdm Tham Jing wen
-<br>Ms Teo Zi Yan Germain
-<br>Ms Ng Lilian
-<br>Mr Lim Peng Yiam</p>
+<p>Mdm Dong Rui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Liew Wai Kee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Li Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soon Meiling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sun Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lek Siew Gek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Zi Yan Germain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Lilian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Peng Yiam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Huan Qing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jiang Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Members(ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraishah Anwar
-<br>Mdm Siti Zafirah Mohamed Zefri</p>
+<p>Mdm Noraishah Anwar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Siti Zafirah Mohamed Zefri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Members(TL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nirisha Darshani
-<br>Ms Nandhini D/O Raman</p>
+<p>Mdm Nirisha Darshani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nandhini D/O Raman</p>
 </td>
 </tr>
 </tbody>
