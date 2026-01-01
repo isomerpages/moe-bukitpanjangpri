@@ -55,7 +55,7 @@ on the school’s core values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Aesthetics)</p>
+<p>Senior Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dorcas Low</p>
@@ -66,18 +66,71 @@ on the school’s core values.</p>
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fariz Ramlan
-<br>Mr Hasyim Tan Abdullah
-<br>Mr Ho Jian Xiong
-<br>Ms Ng Su Xian Charlene
-<br>Ms Ng Sok Mei Vivien
-<br>Ms Cheng Hui Meng
-<br>Ms Tang Pei Wen
-<br>Ms Gladys Zhang
-<br>Ms Winnie Ng
-<br>Mr Melvin Lim
-<br>
-</p>
+<p>Mr Fariz Ramlan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hasyim Tan Abdullah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Jian Xiong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Su Xian Charlene</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Sok Mei Vivien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheng Hui Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Pei Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gladys Zhang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Ng</p>
 </td>
 </tr>
 </tbody>
