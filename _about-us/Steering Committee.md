@@ -173,7 +173,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 and P4)</p>
+<p>Year Head (P4 and P5)</p>
 </td>
 </tr>
 <tr>
@@ -185,20 +185,24 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 and P6)</p>
+<p>Year Head (P3 and P6)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mr Mike Teo</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><a href="mailto:teo_yee_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yee_sin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Physical &amp; Health Education, Aesthetics &amp; CCA)</p>
+<p>Head of Department</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(Physical &amp; Health Education, Aesthetics &amp; CCA)</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +214,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management (covering)</p>
+<p>HOD Student Management&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Doreen Thiam&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thiam_huey_yuen_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thiam_huey_yuen_doreen@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
@@ -263,18 +279,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Dorcas Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_duo_jia_dorcas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_duo_jia_dorcas@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Aesthetics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Saifudin Bin Mohammed Amin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -299,14 +303,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Jiayi</p>
+<p>Mrs Pearlie Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jia_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_yi_a@moe.edu.sg</a>
+<p><a href="mailto:tan_xuan_li_pearlie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xuan_li_pearlie@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – (Applied Learning Programme)</p>
+<p>Subject Head (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
@@ -318,7 +322,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2)</p>
+<p>Assistant Year Head (P1)</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +334,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3)</p>
+<p>Assistant Year Head (P4)</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +346,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P6)</p>
+<p>Assistant Year Head (P3)</p>
 </td>
 </tr>
 <tr>
@@ -393,18 +397,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Chutatape</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:peter_chutatape@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peter_chutatape@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher (English)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Sapia Bte Suki</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -449,6 +441,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Mathematics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Dorcas Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_duo_jia_dorcas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_duo_jia_dorcas@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Music)</p>
 </td>
 </tr>
 </tbody>
@@ -519,17 +523,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chin Wee Kuong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chin_wee_kuong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wee_kuong@moe.edu.sg</a>.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
 </td>
 </tr>
 <tr>

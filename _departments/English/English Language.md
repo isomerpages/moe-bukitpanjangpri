@@ -39,14 +39,6 @@ and problem solvers who can communicate effectively in English Language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Peter Chutatape</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +55,7 @@ and problem solvers who can communicate effectively in English Language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (covering)</p>
+<p>Senior Teacher&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shariffa Binte Syed Ahamad</p>
@@ -74,21 +66,45 @@ and problem solvers who can communicate effectively in English Language.</p>
 <p>Learning Support Coordinators</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aziemah Binte Abdul Aziz
-<br>Mdm Lydiana Bte Ramli</p>
+<p>Mdm Lydiana Bte Ramli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Eismawati Bte Bisri</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p>Mr Tan Yee Ming</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Eismawati Bte Bisri
-<br>Mr Tan Yee Ming
-<br>Ms Grant Maureen Anne
-<br>Mdm Naadiah Hanim Bte Abdullah
-<br>Ms Grace Stephen Louisesamy
-<br>Mrs Toh-Zhao Weini</p>
+<p>Ms Grant Maureen Anne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Naadiah Hanim Bte Abdullah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Stephen Louisesamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Toh-Zhao Weini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yogeetha d/o Rajagopal</p>
 </td>
 </tr>
 </tbody>
