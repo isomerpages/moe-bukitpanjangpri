@@ -59,18 +59,6 @@ variant: tiptap
 <p>Vice Principal (Academic)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Michael Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Admin)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h2>Key Personnel</h2>
