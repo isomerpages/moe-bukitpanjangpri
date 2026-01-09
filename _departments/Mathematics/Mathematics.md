@@ -69,11 +69,11 @@ and knowledge in real life situation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ada Lim
-<br>Mdm Annie Azrina
+<br>Mdm Annie Azrina</p>
+<p>Ms Foong Kah Yin
 <br>Mr Lok Chee Weng Edward
 <br>Mdm Nor Ezlin
 <br>Ms Ong Pyng Jing
-<br>Ms Valerie Lim Pei Rou
 <br>Ms Wong Lai Yoke</p>
 </td>
 </tr>
