@@ -42,7 +42,7 @@ the above handphone number or BPPS General Office at Tel: 67691912. &nbsp;</p>
 <br>Transport Hotline: 81258771
 <br>Ops Email / registration: <a href="mailto:bpps@wts.com.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@wts.com.sg </a>
 <br>
-<br><strong>2026 Bus Fare</strong> 
+<br><strong>2026 Bus Fare</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
