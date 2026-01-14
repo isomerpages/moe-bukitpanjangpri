@@ -64,17 +64,41 @@ and knowledge in real life situation.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>&nbsp;Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ada Lim
-<br>Mdm Annie Azrina</p>
-<p>Ms Foong Kah Yin
-<br>Mr Lok Chee Weng Edward
-<br>Mdm Nor Ezlin
-<br>Ms Ong Pyng Jing
-<br>Ms Wong Lai Yoke</p>
+<p>Ms Ada Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Annie Azrina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Foong Kah Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lok Chee Weng Edward</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Ezlin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Pyng Jing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Lai Yoke</p>
 </td>
 </tr>
 </tbody>

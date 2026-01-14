@@ -4,8 +4,6 @@ permalink: /partners-corner/application-forms/
 description: ""
 variant: tiptap
 ---
-<p><a href="/files/BPPS%20Alumni%20Form%20updated%20June%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">BPPS Alumni Form updated June 2022</a>
-</p>
 <p><a href="https://form.gov.sg/6808a06dc41e45880e78323f" rel="noopener nofollow" target="_blank">Waiting List Application Form</a>
 </p>
 <p></p>
