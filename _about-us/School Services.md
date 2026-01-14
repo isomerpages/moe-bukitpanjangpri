@@ -39,10 +39,10 @@ the above handphone number or BPPS General Office at Tel: 67691912. &nbsp;</p>
 <hr>
 <h3>School Transport Service</h3>
 <p><strong>Woodlands Transport Solutions Pte Ltd</strong> 
-<br>Transport Hotline: 81258771 (Mohana)
-<br>Ops Email / registration: <a href="mailto:bpps@woodlandstransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@woodlandstransport.com.sg </a>
+<br>Transport Hotline: 81258771
+<br>Ops Email / registration: <a href="mailto:bpps@wts.com.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@wts.com.sg </a>
 <br>
-<br><strong>2025 Bus Fare</strong> 
+<br><strong>2026 Bus Fare</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
