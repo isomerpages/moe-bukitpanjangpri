@@ -73,8 +73,8 @@ and knowledge in real life situation.</p>
 <p>Ms Foong Kah Yin
 <br>Mr Lok Chee Weng Edward
 <br>Mdm Nor Ezlin
-<br>Ms Ong Pyng Jing
-<br>Ms Wong Lai Yoke</p>
+<br>Ms Ong Pyng</p>
+<p></p>
 </td>
 </tr>
 </tbody>
