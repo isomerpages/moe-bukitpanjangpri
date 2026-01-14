@@ -43,11 +43,83 @@ the above handphone number or BPPS General Office at Tel: 67691912. &nbsp;</p>
 <br>Ops Email / registration: <a href="mailto:bpps@wts.com.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@wts.com.sg </a>
 <br>
 <br><strong>2026 Bus Fare</strong> 
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Distance</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Up to 15 seaters</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>&gt;15 - 30 seaters</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2 km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$143</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$143</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 - 4 km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$142</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$158</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$142</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$158</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transport_Fare.png">
-</div>
 <hr>
 <h3>School Uniform Supplier</h3>
 <p><strong>&nbsp;Yangtze Kiang Tailor</strong>
