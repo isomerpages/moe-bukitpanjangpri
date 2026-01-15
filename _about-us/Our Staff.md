@@ -535,7 +535,7 @@ variant: tiptap
 <p>Mrs Pearlie Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_xuan_li_pearlie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xuan_li_pearlie@schools.gov.sg</a>
+<p><a href="mailto:tan_xuan_li_pearlie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xuan_li_pearlie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
