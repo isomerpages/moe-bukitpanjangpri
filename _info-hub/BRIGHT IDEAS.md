@@ -46,7 +46,10 @@ located outside the Makerspace Room.&nbsp;</p>
 a termly basis.</p>
 <h2>Recognition</h2>
 <p>All contributors of BRIGHT IDEAS will be notified of the outcome of their
-suggestion and they will also receive a token of appreciation.</p>
+suggestion.</p>
 <p>All the BRIGHT IDEAS that are selected for implementation will be featured
-in the school website and school Facebook page. Their contributors will
-also receive a certificate of contribution.</p>
+in our school Facebook page.&nbsp;</p>
+<p>Their contributors will also receive a certificate of contribution.</p>
+<p></p>
+<p></p>
+<p></p>
