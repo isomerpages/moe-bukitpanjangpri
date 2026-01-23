@@ -7,8 +7,8 @@ variant: tiptap
 <h1>Resource for Parents</h1>
 <h3>Briefing Slides for Meet and Greet</h3>
 <p>Please find the slides for the parents briefing 2026 at the links below.</p>
-<p>
-<br><a href="/files/Meet___Greet_P2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Meet and Greet</a>
+<p></p>
+<p><a href="/files/Meet___Greet_P2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Meet and Greet</a>
 </p>
 <p><a href="/files/Meet___Greet_P3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Meet and Greet</a>
 </p>
