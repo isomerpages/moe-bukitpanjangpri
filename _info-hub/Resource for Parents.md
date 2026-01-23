@@ -12,7 +12,6 @@ variant: tiptap
 <p><a href="/files/Meet___Greet_P3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Meet and Greet</a>
 </p>
 <p><a href="/files/Meet___Greet_P3_Science_Sharing_with_Parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Meet and Greet (Science)</a>
-<br>
 </p>
 <p><a href="/files/Meet___Greet_P4_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Meet and Greet</a>
 </p>
