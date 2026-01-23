@@ -39,8 +39,8 @@ gratitude towards others, while upholding integrity and staying resilient.</p>
 <p>The school adopts a three tier approach in promoting eco-stewardship.</p>
 <p>Tier 1 events aims to provide the students with knowledge and understanding.
 Every student will be provided with the opportunity to participate in the
-tier 1 events e.g. World Water Week, Earth week, Biodiversity week, etc
-to better understand the objectives of each of the event.</p>
+tier 1 events e.g. World Water Week, Biodiversity week, etc to better understand
+the objectives of each of the event.</p>
 <p>Tier 2 events will provide opportunities for the students as a level to
 embark on projects e.g. upcycling project for P3, Changemakers@BPPS, which
 will allow them to show and practice what they have learnt via actions.</p>
@@ -50,7 +50,7 @@ them to carry out the 5 practices of exemplary leadership. They will internalise
 their learning and promote Environmental Education whenever possible.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Stewarding_Tier_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO_1.png">
 </div>
 <h2>Overview</h2>
 <p>As part of our continued efforts under the Singapore Green Plan 2030,
@@ -58,8 +58,9 @@ we will nurture the next generation of environmental stewards in BPPS through
 the 4Cs (Curriculum, Culture, Community and Campus):</p>
 <p>a) Curriculum – To enhance the teaching and learning of sustainability
 concepts through Languages, Science and Social Studies.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecosteward2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ECO_2.png">
 </div>
 <p>b) Culture- To strengthen the importance of sustainability as an integral
 part of our Culture, sustainability practices that are adopted by the students
@@ -83,15 +84,18 @@ include to</p>
 </div>
 <p>c) Community - We will continue to leverage on community partnerships
 to expand environment-related volunteering and enrichment opportunities.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecosteward4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EC0_3.png">
 </div>
 <p>d) Campus - The infrastructure in all schools will be enhanced with sustainability
 features, including more trees, energy-efficient technologies such as LED
 lights.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Stewarding_item_d_Campus_Picture_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO4.png">
 </div>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 99%;" height="auto" width="100%" alt="Planting of native shrub for Biodiversity Day" src="/images/ECO_5.png">
+</div>
+<p><strong>Planting of native shrub for Biodiversity Day</strong>
+</p>
