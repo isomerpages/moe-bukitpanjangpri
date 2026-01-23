@@ -60,7 +60,7 @@ the 4Cs (Curriculum, Culture, Community and Campus):</p>
 concepts through Languages, Science and Social Studies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ECO_2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ECO_2.png">
 </div>
 <p>b) Culture- To strengthen the importance of sustainability as an integral
 part of our Culture, sustainability practices that are adopted by the students
@@ -95,7 +95,7 @@ lights.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Planting of native shrub for Biodiversity Day" src="/images/ECO_5.png">
+<img style="width: 99%;" height="auto" width="100%" alt="Planting of native shrub for Biodiversity Day" src="/images/ECO_5.png">
 </div>
 <p><strong>Planting of native shrub for Biodiversity Day</strong>
 </p>
