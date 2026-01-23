@@ -9,14 +9,14 @@ variant: tiptap
 <p>Please find the slides for the parents briefing 2026 at the links below.
 <br><a href="/files/Meet___Greet_P2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Meet and Greet</a>
 </p>
-<p><a href="/files/P3_Meet___Greet_2025__P_rincipal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Meet and Greet</a>
+<p><a href="/files/Meet___Greet_P3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Meet and Greet</a>
 <br><a href="/files/P3_Meet___Greet_2025__AYH_.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Meet and Greet (Science)</a>
 </p>
-<p><a href="/files/P4_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Meet and Greet </a>
+<p><a href="/files/P4_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Meet and Greet</a>
 </p>
-<p><a href="/files/P5_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Meet and Greet </a>
+<p><a href="/files/P5_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Meet and Greet</a>
 </p>
-<p><a href="/files/P6_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Meet and Greet </a>
+<p><a href="/files/P6_Meet___Greet_2025__Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Meet and Greet</a>
 </p>
 <h3>CL Sharing with Parents</h3>
 <p><a href="/files/2025_P1_2_Parents__sharing.pdf" rel="noopener nofollow" target="_blank">2025 P1-2 低年级家长分享会</a>
