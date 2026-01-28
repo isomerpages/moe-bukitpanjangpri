@@ -201,3 +201,107 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Primary 6</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON OVERVIEW</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 9</p>
+<p>(02 March)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship. They will also recognise the negative impact
+of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 3</p>
+<p>(13 July)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Information for Parents</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+children out of Sexuality Education lessons, and/or supplementary Sexuality
+Education programmes by MOE-approved external providers.</p>
+<p>&nbsp;</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <u>here</u> (link to opt out form). The
+completed opt-out form is to be submitted by 04/02/2026.</p>
+<p>&nbsp;</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6769
+1912 for discussion or email the school at <a href="mailto:bpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@moe.edu.sg</a> for discussion or to seek
+clarification about the school’s Sexuality Education programme.</p>
+<p>Do refer to the cover letter for the Sexuality Education programme via
+this <u>link </u>(please link to Principal’s Cover Letter)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
