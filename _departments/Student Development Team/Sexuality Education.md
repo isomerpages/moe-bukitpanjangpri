@@ -10,9 +10,9 @@ variant: tiptap
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
@@ -23,7 +23,6 @@ encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
@@ -36,10 +35,9 @@ matters.</p>
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
 respect yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
@@ -50,20 +48,19 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>Overview of Bukit Panjang Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
 Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
-<p>&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
@@ -72,7 +69,7 @@ on sexuality include:</p>
 <p></p>
 <p><strong>Sexuality Education Lessons</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
 are reaching puberty at a younger age and have to grapple with physical,
@@ -84,7 +81,7 @@ a wide range of influences that could endanger health and undermine the
 integrity of the family. Our students require close guidance so that they
 can respond with discernment to the sexual messages in the media and other
 sources.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
 taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
 students will learn healthy ways to manage the physiological, social and
@@ -101,11 +98,8 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </div>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Primary 5</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -206,11 +200,7 @@ and how to seek help for themselves and their friends.</p>
 </div>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Primary 6</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -285,18 +275,17 @@ and learn to behave maturely towards each other.</p>
 </table>
 <p><strong>Information for Parents</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
 children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also available <a href="https://form.gov.sg/6979a5211c4b68bf6941f631" rel="noopener nofollow" target="_blank">here</a> . The completed
 opt-out form is to be submitted by 04/02/2026.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6769
 1912 for discussion or email the school at <a href="mailto:bpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@moe.edu.sg</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
