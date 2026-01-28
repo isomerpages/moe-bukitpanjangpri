@@ -290,10 +290,6 @@ opt-out form is to be submitted by 04/02/2026.</p>
 1912 for discussion or email the school at <a href="mailto:bpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpps@moe.edu.sg</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 <p>Do refer to the cover letter for the Sexuality Education programme via
-this <a href="/files/2026_SED_Cover_Letter.pdf" rel="noopener nofollow" target="_blank">file</a>
+this <a href="/files/2026_SED_Cover_Letter.pdf" rel="noopener nofollow" target="_blank">link</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
