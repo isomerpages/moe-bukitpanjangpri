@@ -96,8 +96,10 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 <p><strong>At Bukit Panjang Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -200,6 +202,9 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
