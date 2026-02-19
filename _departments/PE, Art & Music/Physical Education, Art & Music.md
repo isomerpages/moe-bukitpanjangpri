@@ -98,14 +98,6 @@ on the school’s core values.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Sok Mei Vivien</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Cheng Hui Meng</p>
 </td>
 </tr>
