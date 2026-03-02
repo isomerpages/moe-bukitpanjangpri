@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <p><a href="https://form.gov.sg/6808a06dc41e45880e78323f" rel="noopener nofollow" target="_blank">Waiting List Application Form</a>
 </p>
-<p></p>
+<p><a href="https://form.gov.sg/6971d61b89fe4aeed9632e95" rel="noopener nofollow" target="_blank">2026/27 BPPS Parent Volunteer Application Form</a>
+</p>
 <h2>Application for leave of absence</h2>
 <p>Please click on the&nbsp;<a href="https://form.gov.sg/68ef481f0ec61091df7c1d68" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to submit
 your leave of absence.</p>
