@@ -108,7 +108,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online</a>
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online</a>
 </p>
 </li>
 <li>
