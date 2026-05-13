@@ -21,12 +21,8 @@ variant: tiptap
 <p><a href="/files/Meet___Greet_P6_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Meet and Greet</a>
 </p>
 <h3>CL Sharing with Parents</h3>
-<p><a href="/files/2025_P1_2_Parents__sharing.pdf" rel="noopener nofollow" target="_blank">2025 P1-2 低年级家长分享会</a>
-<br><a href="/files/2025__________.pdf" rel="noopener nofollow" target="_blank">2025家长分享会-普华作文</a>
-<br><a href="/files/2025_____________.pdf" rel="noopener nofollow" target="_blank">2025年家长分享会 --高华作文</a>
-<br><a href="/files/2025_____________a.pdf" rel="noopener nofollow" target="_blank">2025年家长分享会--华文试卷二</a>
-<br><a href="/files/2025__________a.pdf" rel="noopener nofollow" target="_blank">2025年家长分享会--口试</a>
-<br><a href="/files/2025_____________aa.pdf" rel="noopener nofollow" target="_blank">2025年家长分享会--高华试卷二</a>
+<p><a href="/files/2026_P1_2_Parents__sharing.pdf" rel="noopener nofollow" target="_blank">2026 P1_P2 Parents Sharing</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
