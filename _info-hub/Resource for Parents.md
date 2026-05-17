@@ -23,6 +23,13 @@ variant: tiptap
 <h3>CL Sharing with Parents</h3>
 <p><a href="/files/2026_P1_2_Parents__sharing.pdf" rel="noopener nofollow" target="_blank">2026 P1_P2 Parents Sharing</a>
 </p>
+<p><a href="/files/2026年五六年级口试.pdf" rel="noopener nofollow" target="_blank">2026年五六年级口试</a>
+</p>
+<p><a href="/files/2026年五六年级普华试卷二.pdf" rel="noopener nofollow" target="_blank">2026年五六年级普华试卷二</a>
+</p>
+<p><a href="/files/2026年普华作文.pdf" rel="noopener nofollow" target="_blank">2026年普华作文</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
