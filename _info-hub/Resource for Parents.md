@@ -29,6 +29,8 @@ variant: tiptap
 </p>
 <p><a href="/files/2026年普华作文.pdf" rel="noopener nofollow" target="_blank">2026年普华作文</a>
 </p>
+<p><a href="/files/2026_________.pdf" rel="noopener nofollow" target="_blank">2026年五六年级高华作文</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
