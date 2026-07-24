@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Bukit Panjang Primary School
 locations:
   - address:
-      - "109 Cashew Road   "
-      - "Singapore   "
-      - Singapore   679676
+      - 109 Cashew Road
+      - Singapore
+      - "679676"
     operating_hours: []
     maps_link: ""
     title: Main Office
@@ -17,4 +17,5 @@ contacts:
       - email: bpps@moe.edu.sg
       - other: ""
     title: "Feel free to contact us:"
+feedback: ""
 ---
