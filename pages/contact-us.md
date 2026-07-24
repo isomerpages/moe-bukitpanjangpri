@@ -6,8 +6,8 @@ agency_name: Bukit Panjang Primary School
 locations:
   - address:
       - 109 Cashew Road
-      - Singapore
-      - "679676"
+      - Singapore 679676
+      - ""
     operating_hours: []
     maps_link: ""
     title: Main Office
