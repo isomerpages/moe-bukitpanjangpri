@@ -2,17 +2,17 @@
 title: Useful Links
 permalink: /bulletin/useful-links/
 description: ""
+variant: markdown
 ---
 **For Parents**
 
 [Ministry of Education](https://www.moe.gov.sg/)<br>
 [Schoolbag.sg](https://www.schoolbag.sg/)<br>
-[First Week of Primary One](https://www.youtube.com/watch?v=ag0QWf_qf3c&list=TLH27ItYVfZS8TVUZCDJYDQNnYzMl6YS0c)<br>
+[First Week of Primary One](https://www.youtube.com/watch?v=ag0QWf_qf3c&amp;list=TLH27ItYVfZS8TVUZCDJYDQNnYzMl6YS0c)<br>
 [Quality Education](https://youtu.be/9RpSX50jOEU)<br>
 [Holistic Education through Physical Education](https://www.youtube.com/watch?v=ndtAsIC1I6U)<br>
 [Improved School Facilities for Our Children](https://www.youtube.com/watch?v=EuZRWps1AvU)<br>
 [A Teacher’s Dedication (Mr Kumar)](https://www.youtube.com/watch?v=uRpFltRldUA)<br>
-[MOE Cyber Wellness Portal](https://www.moe.gov.sg/programmes/cyber-wellness)<br>
 
 - Tip Sheet for Parents
 
@@ -40,14 +40,14 @@ P1 and above<br>
 P3 and above<br>
 [Cyber Sandra's Hacks - Strong Passwords - YouTube](https://www.youtube.com/watch?v=7ya1t51lIcQ)<br>
 [Cyber Sandra's Hacks - Social Media Impersonation - YouTube](https://www.youtube.com/watch?v=Ta6qq7wnpcA)<br>
-[Cyber Sandra's Hacks WhatsApp Hijacking - YouTube](https://www.youtube.com/watch?v=IUJi6sKA3aM&feature=youtu.be)<br>
+[Cyber Sandra's Hacks WhatsApp Hijacking - YouTube](https://www.youtube.com/watch?v=IUJi6sKA3aM&amp;feature=youtu.be)<br>
 [Cyber Sandra's Hacks - Enabling Two-Factor Authentication (2FA) - YouTube](https://www.youtube.com/watch?v=Rz-l8MsTFxo)<br>
 [Cyber Sandra's Hacks - Anti-Virus Software - YouTube](https://www.youtube.com/watch?v=7KM-cvKHKWE)<br>
 [Cyber Sandra's Hacks - Protecting Yourself From Future Data Breaches - YouTube](https://www.youtube.com/watch?v=ayCrEM9iJBc)
 
-[Inspector Clif - How to protect yourself - Bank Impersonation Scam - Facebook](https://www.facebook.com/InspectorClif/videos/822155718323225/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
-[Inspector Clif - How to protect yourself - Phishing Scam - Facebook](https://www.facebook.com/InspectorClif/videos/3115769405133288/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
-[Inspector Clif - Beware of scammers impersonating your... - Facebook](https://www.facebook.com/InspectorClif/videos/831327664023504/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing)<br>
+[Inspector Clif - How to protect yourself - Bank Impersonation Scam - Facebook](https://www.facebook.com/InspectorClif/videos/822155718323225/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&amp;ref=sharing)<br>
+[Inspector Clif - How to protect yourself - Phishing Scam - Facebook](https://www.facebook.com/InspectorClif/videos/3115769405133288/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&amp;ref=sharing)<br>
+[Inspector Clif - Beware of scammers impersonating your... - Facebook](https://www.facebook.com/InspectorClif/videos/831327664023504/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&amp;ref=sharing)<br>
 [Singapore Police Force - Never share your WhatsApp account verification codes or any One-Time Password (OTP) with anyone - Facebook](https://www.facebook.com/singaporepoliceforce/videos/708286759906333/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C)<br>
 [Bedok South NPC - From January to April 2020, at least... - Facebook](https://www.facebook.com/BedokSouthNPC/videos/206356900701550/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C)
 
